@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://www.x-v-france.com/sitemap.xml
