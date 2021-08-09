@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>European Court of Human Rights Watch</title>
+    <title>ECTHRwatch</title>
     <link>https://fr.ecthrwatch.org/</link>
-    <description>Recent content on European Court of Human Rights Watch</description>
+    <description>Recent content on ECTHRwatch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.x-v-france.com/&#34;&gt;X. (X-v-France.com)&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="https://fr.ecthrwatch.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 11:32:00 +0800</lastBuildDate><atom:link href="https://fr.ecthrwatch.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chantal Arens, Cassation Court</title>
+      <link>https://fr.ecthrwatch.org/personnes/chantal-arens/</link>
+      <pubDate>Thu, 08 Jul 2021 11:32:00 +0800</pubDate>
+      
+      <guid>https://fr.ecthrwatch.org/personnes/chantal-arens/</guid>
+      <description>Chantal Arens Cassation Court Petite introduction sur Chantal Arens.</description>
+    </item>
+    
+    <item>
+      <title>Cédric VILLANI</title>
+      <link>https://fr.ecthrwatch.org/personnes/villani_cedric/</link>
+      <pubDate>Thu, 08 Jul 2021 11:32:00 +0800</pubDate>
+      
+      <guid>https://fr.ecthrwatch.org/personnes/villani_cedric/</guid>
+      <description>Cédric Villani Petite introduction sur Cédric Villani.</description>
+    </item>
+    
+    <item>
+      <title>Emmanuel Macron, Président de la République française</title>
+      <link>https://fr.ecthrwatch.org/personnes/macron_emmanuel/</link>
+      <pubDate>Thu, 08 Jul 2021 11:32:00 +0800</pubDate>
+      
+      <guid>https://fr.ecthrwatch.org/personnes/macron_emmanuel/</guid>
+      <description>Emmanuel Macron Président de la République Petite introduction sur Emmanuel Macron.</description>
+    </item>
+    
+    <item>
+      <title>Philippe Mouricou</title>
+      <link>https://fr.ecthrwatch.org/personnes/mouricou_philippe/</link>
+      <pubDate>Thu, 08 Jul 2021 11:32:00 +0800</pubDate>
+      
+      <guid>https://fr.ecthrwatch.org/personnes/mouricou_philippe/</guid>
+      <description>Philippe Mouricou Petite introduction sur Philippe Mouricou.</description>
+    </item>
+    
     <item>
       <title>Diagram Support</title>
       <link>https://fr.ecthrwatch.org/posts/diagram-support/</link>
@@ -87,7 +123,9 @@
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fr.ecthrwatch.org/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Le 27 octobre 2015, je reçois un email de l&amp;rsquo;avocat de McDonald&amp;rsquo;s France Éric Andrieu du cabinet Péchenard &amp;amp; Associés.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;avocat commet une faute exceptionnellement grave en confirmant &amp;ldquo;à [ses] clients que l&amp;rsquo;opération [note: en réalité une escroquerie] était conforme aux règles des droits français et européen.&amp;rdquo; C&amp;rsquo;est bien évidemment faux. Soit il est incompétent, soit il est complice.&lt;/p&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -97,6 +135,25 @@
       
       <guid>https://fr.ecthrwatch.org/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Eric Andrieu, avocat à la Cour, Péchenard &amp; Associés</title>
+      <link>https://fr.ecthrwatch.org/chronologie/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/</link>
+      <pubDate>Tue, 27 Oct 2015 15:59:13 +0800</pubDate>
+      
+      <guid>https://fr.ecthrwatch.org/chronologie/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/</guid>
+      <description>&lt;p&gt;Le 27 octobre 2015, je reçois un email de l’avocat de McDonald’s France Éric Andrieu du cabinet Péchenard &amp;amp; Associés.&lt;/p&gt;
+&lt;p&gt;L’avocat commet une faute exceptionnellement grave en confirmant “à [ses] clients que l’opération [note: en réalité une escroquerie] était conforme aux règles des droits français et européen.” C’est bien évidemment faux. Soit il est incompétent, soit il est complice.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Françoise de Borda, directrice juridique de McDonald&#39;s France</title>
+      <link>https://fr.ecthrwatch.org/chronologie/2012-06-25_reponse_directrice_juridique_mcdonalds_france/</link>
+      <pubDate>Mon, 25 Jun 2012 13:13:13 +0800</pubDate>
+      
+      <guid>https://fr.ecthrwatch.org/chronologie/2012-06-25_reponse_directrice_juridique_mcdonalds_france/</guid>
+      <description>&lt;p&gt;Françoise de Borda, directrice juridique de McDonald’s France, me réponds pour la première et pour la dernière fois. Elle ment.&lt;/p&gt;</description>
     </item>
     
   </channel>
