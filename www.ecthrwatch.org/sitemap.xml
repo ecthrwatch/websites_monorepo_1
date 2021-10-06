@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ecthrwatch.org/laws/directive_2005_29_ec_of_the_european_parliament_and_of_the_council_of_11_may_2005/</loc>
+    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/laws/council_directive_93_13_eec_of_5_april_1993_on_unfair_terms_in_consumer_contracts/</loc>
+    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
+    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
     <lastmod>2021-07-12T16:31:15+08:00</lastmod>
     <xhtml:link
@@ -165,6 +174,28 @@
     <loc>https://www.ecthrwatch.org/persons/eric-andrieu/</loc>
     <lastmod>2021-07-12T11:30:58+08:00</lastmod>
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/european-union/</loc>
+    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/french-criminal-code/</loc>
+    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/french-laws/</loc>
+    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/laws/</loc>
+    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lois/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/laws/"
+                />
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/ceo/</loc>
     <lastmod>2021-07-12T11:15:12+08:00</lastmod>
   </url><url>
@@ -173,6 +204,12 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/persons/steve-easterbrook/</loc>
     <lastmod>2021-07-12T11:15:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/jean-pierre-petit/</loc>
+    <lastmod>2021-07-12T11:14:49+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/jean-pierre-petit/</loc>
+    <lastmod>2021-07-12T11:14:49+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/cassation-court/</loc>
     <lastmod>2021-07-08T11:32:00+08:00</lastmod>
@@ -782,6 +819,8 @@
                 href="https://www.ecthrwatch.org/tags/lettre-lrar/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/directive-2005/29/ec/</loc>
+  </url><url>
     <loc>https://www.ecthrwatch.org/frauds/</loc>
     <xhtml:link
                 rel="alternate"
@@ -795,18 +834,6 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/judges/</loc>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/laws/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/lois/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/laws/"
-                />
   </url><url>
     <loc>https://www.ecthrwatch.org/cases/</loc>
     <xhtml:link
