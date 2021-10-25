@@ -36,6 +36,23 @@
                 href="https://zh.likeqiang.org/categories/"
                 />
   </url><url>
+    <loc>https://zh.likeqiang.org/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/"
+                />
+  </url><url>
     <loc>https://zh.likeqiang.org/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -68,23 +85,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://zh.likeqiang.org/tags/"
-                />
-  </url><url>
-    <loc>https://zh.likeqiang.org/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.likeqiang.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.likeqiang.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.likeqiang.org/"
                 />
   </url>
 </urlset>

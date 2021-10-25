@@ -36,6 +36,23 @@
                 href="https://zh.chine.eu/categories/"
                 />
   </url><url>
+    <loc>https://zh.chine.eu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/"
+                />
+  </url><url>
     <loc>https://zh.chine.eu/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -68,23 +85,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://zh.chine.eu/tags/"
-                />
-  </url><url>
-    <loc>https://zh.chine.eu/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/"
                 />
   </url>
 </urlset>
