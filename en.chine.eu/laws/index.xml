@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chine.eu</title>
-    <link>https://en.chine.eu/</link>
-    <description>Recent content on Chine.eu</description>
+    <title>Laws on Chine.eu</title>
+    <link>https://en.chine.eu/laws/</link>
+    <description>Recent content in Laws on Chine.eu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.x-v-france.com/&#34;&gt;X. (more information on X-v-France.com)&lt;/a&gt;
-</copyright>
-    <lastBuildDate>Fri, 25 Jun 2021 21:02:13 +0800</lastBuildDate><atom:link href="https://en.chine.eu/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="https://en.chine.eu/laws/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

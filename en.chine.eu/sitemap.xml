@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://en.chine.eu/</loc>
+    <lastmod>2021-06-25T21:02:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/links/</loc>
+    <lastmod>2021-06-25T21:02:13+08:00</lastmod>
+  </url><url>
     <loc>https://en.chine.eu/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,22 +57,17 @@
                 href="https://en.chine.eu/categories/"
                 />
   </url><url>
-    <loc>https://en.chine.eu/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/"
-                />
+    <loc>https://en.chine.eu/laws/</loc>
+  </url><url>
+    <loc>https://en.chine.eu/cases/</loc>
+  </url><url>
+    <loc>https://en.chine.eu/evidence/</loc>
+  </url><url>
+    <loc>https://en.chine.eu/facts/</loc>
+  </url><url>
+    <loc>https://en.chine.eu/persons/</loc>
+  </url><url>
+    <loc>https://en.chine.eu/questions/</loc>
   </url><url>
     <loc>https://en.chine.eu/series/</loc>
     <xhtml:link
@@ -70,6 +86,8 @@
                 href="https://en.chine.eu/series/"
                 />
   </url><url>
+    <loc>https://en.chine.eu/speculations/</loc>
+  </url><url>
     <loc>https://en.chine.eu/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,5 +104,7 @@
                 hreflang="en"
                 href="https://en.chine.eu/tags/"
                 />
+  </url><url>
+    <loc>https://en.chine.eu/timeline/</loc>
   </url>
 </urlset>
