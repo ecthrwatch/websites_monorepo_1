@@ -2,6 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.chine.eu/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/"
+                />
+  </url><url>
+    <loc>https://www.chine.eu/tags/ch%C3%A9n-li%C3%A0ng/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/ch%C3%A9n-li%C3%A0ng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/ch%C3%A9n-li%C3%A0ng/"
+                />
+  </url><url>
+    <loc>https://www.chine.eu/personnes/chen-liang/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://www.chine.eu/tags/commissaire/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://www.chine.eu/personnes/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/renmen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/"
+                />
+  </url><url>
+    <loc>https://www.chine.eu/tags/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/"
+                />
+  </url><url>
     <loc>https://www.chine.eu/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,21 +109,21 @@
                 href="https://www.chine.eu/categories/"
                 />
   </url><url>
-    <loc>https://www.chine.eu/</loc>
+    <loc>https://www.chine.eu/preuves/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.chine.eu/"
+                href="https://en.chine.eu/evidence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/"
+                href="https://zh.chine.eu/zhengju/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.chine.eu/"
+                href="https://www.chine.eu/preuves/"
                 />
   </url><url>
     <loc>https://www.chine.eu/series/</loc>
@@ -68,23 +141,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.chine.eu/series/"
-                />
-  </url><url>
-    <loc>https://www.chine.eu/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/tags/"
                 />
   </url>
 </urlset>
