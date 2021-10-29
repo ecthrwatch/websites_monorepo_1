@@ -38,6 +38,21 @@
   </url><url>
     <loc>https://en.chine.eu/persons/chen-liang/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/chen-liang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/renmen/%E9%99%88%E4%BA%AE/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/chen-liang/"
+                />
   </url><url>
     <loc>https://en.chine.eu/persons/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
