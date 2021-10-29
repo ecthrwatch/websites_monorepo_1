@@ -54,6 +54,46 @@
     <loc>https://www.chine.eu/tags/commissaire/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
+    <loc>https://www.chine.eu/tags/commissaire-adjoint/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://www.chine.eu/tags/commissaire-politique/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://www.chine.eu/tags/commissariat-de-longtan/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://www.chine.eu/tags/h%C3%BA-zh%C4%93n/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/h%C3%BA-zh%C4%93n/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/h%C3%BA-zh%C4%93n/"
+                />
+  </url><url>
+    <loc>https://www.chine.eu/personnes/hu-zhen/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/hu-zhen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/renmen/%E8%83%A1%E7%8F%8D/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/hu-zhen/"
+                />
+  </url><url>
     <loc>https://www.chine.eu/personnes/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
@@ -88,6 +128,37 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.chine.eu/tags/"
+                />
+  </url><url>
+    <loc>https://www.chine.eu/tags/w%C3%A1ng-xi%C3%A0oq%C3%AD/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/w%C3%A1ng-xi%C3%A0oq%C3%AD/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/w%C3%A1ng-xi%C3%A0oq%C3%AD/"
+                />
+  </url><url>
+    <loc>https://www.chine.eu/personnes/wang-xiaoqi/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/wang-xiaoqi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/renmen/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/wang-xiaoqi/"
                 />
   </url><url>
     <loc>https://www.chine.eu/authors/</loc>

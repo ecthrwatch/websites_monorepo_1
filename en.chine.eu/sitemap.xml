@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://en.chine.eu/tags/captain/</loc>
-    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
-  </url><url>
     <loc>https://en.chine.eu/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
@@ -54,6 +51,46 @@
                 href="https://en.chine.eu/persons/chen-liang/"
                 />
   </url><url>
+    <loc>https://en.chine.eu/tags/deputy-director/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/director/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/h%C3%BA-zh%C4%93n/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/h%C3%BA-zh%C4%93n/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/h%C3%BA-zh%C4%93n/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/persons/hu-zhen/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/hu-zhen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/renmen/%E8%83%A1%E7%8F%8D/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/hu-zhen/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/longtan-police-station/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
     <loc>https://en.chine.eu/persons/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
@@ -72,6 +109,12 @@
                 href="https://en.chine.eu/persons/"
                 />
   </url><url>
+    <loc>https://en.chine.eu/tags/police-officer/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/political-commissar/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
     <loc>https://en.chine.eu/tags/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
@@ -88,6 +131,40 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://en.chine.eu/tags/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/taiyuan-shanxi/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/w%C3%A1ng-xi%C3%A0oq%C3%AD/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/w%C3%A1ng-xi%C3%A0oq%C3%AD/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/w%C3%A1ng-xi%C3%A0oq%C3%AD/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/persons/wang-xiaoqi/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/wang-xiaoqi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/renmen/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/wang-xiaoqi/"
                 />
   </url><url>
     <loc>https://en.chine.eu/links/</loc>
