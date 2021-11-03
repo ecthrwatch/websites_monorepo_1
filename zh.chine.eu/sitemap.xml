@@ -44,6 +44,28 @@
     <loc>https://zh.chine.eu/%E6%B3%95%E5%BE%8B/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E5%8A%9E%E7%90%86%E8%A1%8C%E6%94%BF%E6%A1%88%E4%BB%B6%E7%A8%8B%E5%BA%8F%E8%A7%84%E5%AE%9A/</loc>
     <lastmod>2021-11-03T13:28:37+08:00</lastmod>
   </url><url>
+    <loc>https://zh.chine.eu/tags/%E5%88%91%E4%BA%8B/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+  </url><url>
+    <loc>https://zh.chine.eu/%E6%B3%95%E5%BE%8B/%E5%88%91%E4%BA%8B/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/laws/criminal-law/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E6%B3%95%E5%BE%8B/%E5%88%91%E4%BA%8B/"
+                />
+  </url><url>
+    <loc>https://zh.chine.eu/tags/%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%E6%B3%95/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+  </url><url>
+    <loc>https://zh.chine.eu/%E6%B3%95%E5%BE%8B/%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%E6%B3%95/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+  </url><url>
     <loc>https://zh.chine.eu/tags/%E6%B3%95%E5%BE%8B/</loc>
     <lastmod>2021-11-03T13:28:37+08:00</lastmod>
   </url><url>
@@ -60,13 +82,11 @@
                 href="https://zh.chine.eu/%E6%B3%95%E5%BE%8B/"
                 />
   </url><url>
-    <loc>https://zh.chine.eu/renmen/</loc>
+    <loc>https://zh.chine.eu/tags/%E4%BA%8C%E4%B8%AD%E9%98%9F%E6%B0%91%E8%AD%A6/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/personnes/"
-                />
+  </url><url>
+    <loc>https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,11 +94,19 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/renmen/"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/"
                 />
   </url><url>
     <loc>https://zh.chine.eu/tags/%E5%89%AF%E6%89%80%E9%95%BF/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://zh.chine.eu/tags/%E5%A4%AA%E5%8E%9F%E5%B8%82%E5%BA%99%E5%89%8D%E6%B4%BE%E5%87%BA%E6%89%80/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
     <loc>https://zh.chine.eu/tags/%E5%A4%AA%E5%8E%9F%E5%B8%82%E9%BE%99%E6%BD%AD%E6%B4%BE%E5%87%BA%E6%89%80/</loc>
@@ -93,7 +121,7 @@
     <loc>https://zh.chine.eu/tags/%E7%8E%8B%E5%AD%9D%E5%85%B6/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
-    <loc>https://zh.chine.eu/renmen/%E7%8E%8B%E5%AD%9D%E5%85%B6/</loc>
+    <loc>https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E5%AD%9D%E5%85%B6/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -108,13 +136,29 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/renmen/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
+                />
+  </url><url>
+    <loc>https://zh.chine.eu/tags/%E7%8E%8B%E6%99%A8/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+  </url><url>
+    <loc>https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E6%99%A8/</loc>
+    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/wang-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E6%99%A8/"
                 />
   </url><url>
     <loc>https://zh.chine.eu/tags/%E8%83%A1%E7%8F%8D/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
-    <loc>https://zh.chine.eu/renmen/%E8%83%A1%E7%8F%8D/</loc>
+    <loc>https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E8%83%A1%E7%8F%8D/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -129,13 +173,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/renmen/%E8%83%A1%E7%8F%8D/"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E8%83%A1%E7%8F%8D/"
                 />
   </url><url>
     <loc>https://zh.chine.eu/tags/%E9%99%88%E4%BA%AE/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
-    <loc>https://zh.chine.eu/renmen/%E9%99%88%E4%BA%AE/</loc>
+    <loc>https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E9%99%88%E4%BA%AE/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -150,7 +194,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/renmen/%E9%99%88%E4%BA%AE/"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E9%99%88%E4%BA%AE/"
                 />
   </url><url>
     <loc>https://zh.chine.eu/authors/</loc>

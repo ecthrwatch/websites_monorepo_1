@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://en.chine.eu/tags/badge-number-014075/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+  </url><url>
     <loc>https://en.chine.eu/</loc>
-    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -19,6 +22,99 @@
                 hreflang="en"
                 href="https://en.chine.eu/"
                 />
+  </url><url>
+    <loc>https://en.chine.eu/tags/mi%C3%A0oqi%C3%A1n-police-station/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/persons/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/police-officer/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/taiyuan-shanxi/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/w%C3%A1ng-ch%C3%A9n/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/persons/wang-chen/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E6%99%A8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/wang-chen/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/criminal-law/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/laws/criminal-law/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E6%B3%95%E5%BE%8B/%E5%88%91%E4%BA%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/laws/criminal-law/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/laws/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E6%B3%95%E5%BE%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/laws/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/laws/</loc>
+    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
   </url><url>
     <loc>https://en.chine.eu/tags/ch%C3%A9n-li%C3%A0ng/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
@@ -43,7 +139,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/renmen/%E9%99%88%E4%BA%AE/"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E9%99%88%E4%BA%AE/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -80,7 +176,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/renmen/%E8%83%A1%E7%8F%8D/"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E8%83%A1%E7%8F%8D/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -91,49 +187,7 @@
     <loc>https://en.chine.eu/tags/longtan-police-station/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
-    <loc>https://en.chine.eu/persons/</loc>
-    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/personnes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/renmen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/persons/"
-                />
-  </url><url>
-    <loc>https://en.chine.eu/tags/police-officer/</loc>
-    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
-  </url><url>
     <loc>https://en.chine.eu/tags/political-commissar/</loc>
-    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
-  </url><url>
-    <loc>https://en.chine.eu/tags/</loc>
-    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/tags/"
-                />
-  </url><url>
-    <loc>https://en.chine.eu/tags/taiyuan-shanxi/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
     <loc>https://en.chine.eu/tags/w%C3%A1ng-xi%C3%A0oq%C3%AD/</loc>
@@ -159,7 +213,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/renmen/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
+                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -202,18 +256,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://en.chine.eu/categories/"
-                />
-  </url><url>
-    <loc>https://en.chine.eu/laws/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/%E6%B3%95%E5%BE%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/laws/"
                 />
   </url><url>
     <loc>https://en.chine.eu/cases/</loc>
