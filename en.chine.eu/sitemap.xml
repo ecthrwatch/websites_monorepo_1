@@ -6,13 +6,13 @@
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/"
+                hreflang="zh"
+                href="https://zh.chine.eu/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/"
+                hreflang="fr"
+                href="https://www.chine.eu/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -119,13 +119,13 @@
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/tags/"
+                hreflang="zh"
+                href="https://zh.chine.eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/tags/"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -205,6 +205,16 @@
                 />
   </url><url>
     <loc>https://en.chine.eu/laws/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E6%B3%95%E5%BE%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/laws/"
+                />
   </url><url>
     <loc>https://en.chine.eu/cases/</loc>
   </url><url>
