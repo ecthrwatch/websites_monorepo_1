@@ -301,5 +301,15 @@
     <loc>https://en.chine.eu/speculations/</loc>
   </url><url>
     <loc>https://en.chine.eu/timeline/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/%E6%97%B6%E9%97%B4%E8%BD%B4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/timeline/"
+                />
   </url>
 </urlset>
