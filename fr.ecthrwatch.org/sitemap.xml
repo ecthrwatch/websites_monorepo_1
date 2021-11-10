@@ -76,6 +76,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/"
                 />
@@ -170,6 +175,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/"
                 />
@@ -193,6 +203,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -352,6 +367,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/categories/"
                 />
@@ -388,6 +408,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -573,12 +598,22 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/chronologie/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/</loc>
     <lastmod>2015-10-27T15:59:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -599,6 +634,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/mcdonalds-france/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/mcdonalds-france/"
                 />
@@ -609,6 +649,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/p%C3%A9chenard-associe%CC%81s/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/p%C3%A9chenard-associe%CC%81s/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -625,6 +670,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
                 />
@@ -638,12 +688,22 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/2012-06-25_reponse_directrice_juridique_mcdonalds_france/</loc>
     <lastmod>2012-06-25T13:13:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2012-06-25_reponse_directrice_juridique_mcdonalds_france/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -661,6 +721,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/lettre-lrar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/lettre-lrar/"
                 />
     <xhtml:link
                 rel="alternate"
