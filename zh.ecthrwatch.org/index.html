@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang='zh' ><meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<title>ECTHRwatch</title>
+
+<meta name="generator" content="Hugo Eureka 0.8.0" />
+<link rel="stylesheet" href="https://www.ecthrwatch.org/css/eureka.min.css">
+<script defer src="https://www.ecthrwatch.org/js/eureka.min.js"></script>
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap"
+  as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/styles/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/highlight.min.js"
+   crossorigin></script>
+
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/languages/dart.min.js"
+     crossorigin></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/js/all.min.js"
+   integrity="sha256-uNYoXefWRqv&#43;PsIF/OflNmwtKM4lStn9yrz2gVl6ymo="  crossorigin></script>
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+   integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3&#43;Aro6EYUG4&#43;cU&#43;KJWu/X"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" 
+  integrity="sha384-g7c&#43;Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI&#43;sEnkvrMWph2EDg4"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js"
+   integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC&#43;Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.9.2/dist/mermaid.min.js" 
+  integrity="sha256-Zmpaaj&#43;GXFsPF5WdPArSrnW3b30dovldeKsW00xBVwE="  crossorigin></script>
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.ecthrwatch.org/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_32x32_fill_box_center_2.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.ecthrwatch.org/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_2.png">
+
+<meta name="description"
+  content="European Court of Human Rights Watch description.">
+
+
+
+<meta property="og:title" content="ECTHRwatch" />
+<meta property="og:type" content="website" />
+
+
+<meta property="og:image" content="https://www.ecthrwatch.org/images/icon.png">
+
+
+<meta property="og:url" content="https://zh.ecthrwatch.org/" />
+
+
+
+
+
+<meta property="og:description" content="European Court of Human Rights Watch description." />
+
+
+
+
+
+<meta property="og:locale" content="zh" />
+
+
+
+<meta property="og:locale:alternate" content="en" />
+
+<meta property="og:locale:alternate" content="fr" />
+
+
+
+
+<meta property="og:site_name" content="ECTHRwatch" />
+
+
+
+
+
+
+<meta property="og:updated_time" content="2015-10-27T15:59:13&#43;08:00" />
+
+
+
+<meta property="article:section" content="" />
+
+
+<link rel="alternate" type="application/rss+xml" href="https://zh.ecthrwatch.org/index.xml" title="ECTHRwatch" />
+
+<body class="flex flex-col min-h-screen">
+  <header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
+    <div class="w-full max-w-screen-xl mx-auto"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="mr-6 text-primary-text text-xl font-bold">ECTHRwatch</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:flex-grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:flex-grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/#about" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">About</a>
+            <a href="/%E6%97%B6%E9%97%B4%E8%BD%B4/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">时间轴</a>
+            <a href="/%E9%93%BE%E6%8E%A5/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">链接</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">浅色</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">深色</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">自动</span>
+                </div>
+            </div>
+            <div class="relative pt-4 pl-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="pl-1">简体中文</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://zh.ecthrwatch.org/">简体中文</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.ecthrwatch.org/">English</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://fr.ecthrwatch.org/">French - Français</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+        switchLanguage()
+    });
+</script>
+</div>
+  </header>
+  <main class="flex-grow pt-16">
+  
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+  <div class="pl-scrollbar bg-secondary-bg" 
+    >
+    <div class="max-w-screen-xl mx-auto">
+      <div id="apropos" class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12">
+        
+  
+
+  
+    <div class="flex flex-col md:flex-row items-center justify-center mb-12">
+  
+  
+    <div class="flex-none w-48 mx-auto md:ml-0 md:mr-8 md:pr-8 md:border-r">
+      <img src="https://www.ecthrwatch.org/images/ECTHRwatch_square.jpg" class="rounded-full" alt="Avatar">
+    </div>
+  
+  <div class="flex-grow mt-4 md:mt-0">
+    <div class="text-3xl py-4">European Court of Human Rights Watch</div>
+    <div class="w-3/12 xl:w-2/12 border-b"></div>
+
+    <div class="flex items-center pt-4">
+      
+        <i class="fas fa-user"></i>
+      
+      <div class="flex flex-wrap">
+        
+          <span class="pl-4">Lanceur d&rsquo;alerte</span>
+        
+
+        
+          <a href="https://www.X-v-France.com/" class="pl-4">X. (X-v-France.com)</a>
+        
+      </div>
+
+    </div>
+
+    
+      <div class="py-8 text-lg leading-normal">
+        Lanceur d&rsquo;alerte dans l&rsquo;affaire des escroqueries du groupe McDonald&rsquo;s. Plus d&rsquo;informations sur le site <a href="https://www.X-v-France.com">X-v-France.com</a>.
+      </div>
+    
+  </div>
+  <div class="flex md:flex-col justify-center items-end ml-8">
+    
+    
+      
+      
+      
+      
+      
+      <div class="pb-2 pr-4 md:pr-0 pt-4 md:pt-0">
+        <a href="mailto:ecthrwatch@gmail.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="pb-2 pr-4 md:pr-0 pt-4 md:pt-0">
+        <a href="https://twitter.com/ECtHRwatch_FR"><i class="fab fa-twitter"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="pb-2 pr-4 md:pr-0 pt-4 md:pt-0">
+        <a href="https://github.com/ecthrwatch"><i class="fab fa-github"></i></a>
+      </div>
+    
+  </div>
+</div>
+<div class="content">
+  <h2 id="qui-suis-je-présentation">Qui suis-je? Présentation:</h2>
+<p>Le but de ce site est, entre autres, de dresser la liste de toutes les affaires que je soumets à la Cour Européenne des Droits de l&rsquo;Homme.</p>
+<p>L&rsquo;une de ces affaires pourrait être hautement médiatisée. Elle implique le groupe McDonald&rsquo;s que j&rsquo;accuse d&rsquo;escroquerie aggravée, en bande organisée. En attendant d&rsquo;ajouter plus d&rsquo;informations sur ce site, je vous invite à lire cette <a href="https://www.cedricvillani.fr/docs/tgi/Signification-Assignation-BOULOGNE-BILLANCOURT-15-novembre-2016_Redacted%20small.pdf">assignation en justice visant McDonald&rsquo;s</a>.</p>
+<p>Pour des raisons qu&rsquo;il faudra éclaircir, McDonald&rsquo;s et leurs franchisés n&rsquo;ont, pour le moment, pas encore été inculpés.</p>
+<p>Plusieurs évènements bizarres se sont produits. Pour ne donner qu&rsquo;un exemple, à de multiples reprises, des documents publics ont été altérés, falsifiés. Le résultat de ces faux en écriture publique est que McDonald&rsquo;s a systématiquemment, comme par miracle, échappé aux poursuites. Vous pouvez visualiser <a href="https://twitter.com/ECtHRwatch/status/1186685616567803909">un exemple ici</a>, et <a href="https://twitter.com/ECtHRwatch/status/1186702944785358849">un autre exemple là</a>.</p>
+<p>Ces documents publics n&rsquo;ont pu être altérés que par des magistrats ou des greffiers. Ces infractions relèveront très probablement du crime de faux en écriture publique. Je vois difficilement comment les autorités françaises pourraient raisonnablement argumenter qu&rsquo;il s&rsquo;agissait systématiquement d&rsquo;erreurs de leur part. Si cela ne s&rsquo;était produit qu&rsquo;une seule fois, à la limite pourquoi pas. Mais au moins trois fois, non! Je ne pense pas qu&rsquo;il soit raisonnable de se dire qu&rsquo;il s&rsquo;agit là que de coïncidences. Trop c&rsquo;est trop.</p>
+<p>Qui plus est, j&rsquo;ai alerté Nicole Belloubet lorsqu&rsquo;elle Ministre de la Justice. Dès lors, une enquête aurait dû avoir lieu.</p>
+<p>Soit les autorités françaises sont dangereusement incompétentes, soit elles sont corrompues. Peut-être que la réalité est, comme souvent, plus nuancée. Peut-être qu&rsquo;il y a un petit peu des deux.</p>
+<p>Je vais tenter de publier plus d&rsquo;informations très bientôt.</p>
+<p>En attendant, vous pouvez <a href="https://twitter.com/ECtHRwatch_fr">me suivre sur Twitter</a>.</p>
+
+</div>
+
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+  
+  
+
+  <div class="pl-scrollbar bg-secondary-bg" 
+    >
+    <div class="max-w-screen-xl mx-auto">
+      <div id="vintage" class="">
+        
+  
+
+  
+    <div class="grid grid-cols-9 grid-rows-5 h-(screen-16)">
+  <div class="col-start-2 col-span-4 row-start-3 row-span-2 bg-local bg-cover z-10 shadow-2xl"
+    style="background-image: url(https://www.ecthrwatch.org/images/hero-left.jpg);"></div>
+
+  <div class="col-start-3 col-span-5 row-start-2 row-span-3 z-20">
+    <div class="flex flex-col items-center justify-center min-h-full">
+      <div class="bg-white bg-opacity-75 shadow-2xl -m-12 p-12">
+        <span class="font-bold text-black text-opacity-75 text-2xl md:text-3xl">&#34;Toute personne a droit à la liberté d’expression. Ce droit comprend la liberté d’opinion et la liberté de recevoir ou de communiquer des informations ou des idées sans qu’il puisse y avoir ingérence d’autorités publiques et sans considération de frontière. [...]&#34; (Article 10 de la Convention européenne des droits de l’homme)</span>
+      </div>
+    </div>
+  </div>
+  <div class="col-start-5 col-span-4 row-start-2 row-span-2 bg-local bg-cover shadow-2xl"
+    style="background-image: url(https://www.ecthrwatch.org/images/hero-right.jpg);">
+  </div>
+</div>
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+  <div class="pl-scrollbar " 
+     style="background-color: navy;" >
+    <div class="max-w-screen-xl mx-auto">
+      <div id="blank" class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12">
+        
+  
+
+  
+    
+<div style="text-align:center">
+  <p>Une Cour qui compte? On verra...</p>
+</div>
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+  
+  
+  </main>
+  <footer class="pl-scrollbar">
+    <div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">&copy; 2021 <a href="https://www.x-v-france.com/">X. (X-v-France.com)</a>
+ &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div></div>
+  </footer>
+</body>
+
+</html>
