@@ -193,6 +193,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E9%93%BE%E6%8E%A5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/liens/"
                 />
