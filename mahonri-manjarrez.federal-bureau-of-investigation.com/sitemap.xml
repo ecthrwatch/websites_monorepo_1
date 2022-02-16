@@ -36,6 +36,23 @@
                 href="https://mahonri-manjarrez.federal-bureau-of-investigation.com/categories/"
                 />
   </url><url>
+    <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/curriculum-vitae/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mahonri-manjarrez.zh.federal-bureau-of-investigation.com/%E7%AE%80%E5%8E%86/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mahonri-manjarrez.fr.federal-bureau-of-investigation.com/curriculum-vitae/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mahonri-manjarrez.federal-bureau-of-investigation.com/curriculum-vitae/"
+                />
+  </url><url>
     <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +68,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mahonri-manjarrez.federal-bureau-of-investigation.com/"
+                />
+  </url><url>
+    <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/open-letters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mahonri-manjarrez.fr.federal-bureau-of-investigation.com/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mahonri-manjarrez.zh.federal-bureau-of-investigation.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mahonri-manjarrez.federal-bureau-of-investigation.com/open-letters/"
                 />
   </url><url>
     <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/series/</loc>
