@@ -11,13 +11,47 @@
     <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2021-07-12T16:31:15+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/tags/adam-rogalski/</loc>
+    <lastmod>2022-02-16T20:24:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/"
+                href="https://fr.ecthrwatch.org/tags/adam-rogalski/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/adam-rogalski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/adam-rogalski/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/rogalski_adam/</loc>
+    <lastmod>2022-02-16T20:24:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/rogalski_adam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/rogalski_adam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/persons/rogalski_adam/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/assistant-legal-attach%C3%A9/</loc>
+    <lastmod>2022-02-16T20:24:01+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/</loc>
+    <lastmod>2022-02-16T21:02:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -25,8 +59,49 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/</loc>
+    <lastmod>2022-02-16T21:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/persons/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/</loc>
+    <lastmod>2022-02-16T21:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/</loc>
@@ -69,37 +144,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/mcdonalds-france/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/persons/</loc>
-    <lastmod>2021-07-12T16:31:15+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/personnes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/persons/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2021-07-12T16:31:15+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/white-collar-criminal/</loc>
@@ -151,7 +195,12 @@
     <lastmod>2021-07-12T11:55:51+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/chantal-arens/</loc>
-    <lastmod>2021-07-12T11:55:27+08:00</lastmod>
+    <lastmod>2022-02-16T21:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/chantal-arens/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -246,21 +295,13 @@
     <loc>https://www.ecthrwatch.org/persons/jean-pierre-petit/</loc>
     <lastmod>2021-07-12T11:14:49+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/cassation-court/</loc>
-    <lastmod>2021-07-08T11:32:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/cassation-court/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/cassation-court/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/persons/chantal-arens/</loc>
-    <lastmod>2021-07-08T11:32:00+08:00</lastmod>
+    <lastmod>2022-02-16T21:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/arens-chantal/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -278,12 +319,20 @@
     <loc>https://www.ecthrwatch.org/persons/chris-kempczinski/</loc>
     <lastmod>2021-07-08T11:32:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/court-of-cassation/</loc>
+    <lastmod>2022-02-16T21:02:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/c%C3%A9dric-villani/</loc>
     <lastmod>2021-07-08T11:32:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/c%C3%A9dric-villani/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/c%C3%A9dric-villani/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -297,6 +346,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/personnes/villani_cedric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/villani_cedric/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -331,7 +385,12 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/french-judicial-system/</loc>
-    <lastmod>2021-07-08T11:32:00+08:00</lastmod>
+    <lastmod>2022-02-16T21:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/french-judicial-system/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -910,6 +969,23 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/directive-2005/29/ec/</loc>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/f.b.i./</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/f.b.i./"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/f.b.i./"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/f.b.i./"
+                />
   </url><url>
     <loc>https://www.ecthrwatch.org/frauds/</loc>
     <xhtml:link
