@@ -10,6 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.federal-bureau-of-investigation.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.federal-bureau-of-investigation.com/authors/"
                 />
@@ -19,6 +24,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.federal-bureau-of-investigation.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.federal-bureau-of-investigation.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,8 +44,30 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.federal-bureau-of-investigation.com/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.federal-bureau-of-investigation.com/"
+                />
+  </url><url>
+    <loc>https://fr.federal-bureau-of-investigation.com/lettres-ouvertes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.federal-bureau-of-investigation.com/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.federal-bureau-of-investigation.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.federal-bureau-of-investigation.com/lettres-ouvertes/"
                 />
   </url><url>
     <loc>https://fr.federal-bureau-of-investigation.com/series/</loc>
@@ -43,6 +75,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.federal-bureau-of-investigation.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.federal-bureau-of-investigation.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,6 +92,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.federal-bureau-of-investigation.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.federal-bureau-of-investigation.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
