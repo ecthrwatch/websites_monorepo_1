@@ -36,6 +36,23 @@
                 href="https://www.xijinping.fr/categories/"
                 />
   </url><url>
+    <loc>https://www.xijinping.fr/lettres-ouvertes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.xijinping.fr/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/lettres-ouvertes/"
+                />
+  </url><url>
     <loc>https://www.xijinping.fr/series/</loc>
     <xhtml:link
                 rel="alternate"
