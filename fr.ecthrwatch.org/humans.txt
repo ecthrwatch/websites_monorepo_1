@@ -4,4 +4,4 @@ true
 fr
 
 
-    francais
+Bonjour.
