@@ -1,2 +1,5 @@
 // layouts/index.humanstxt.txt
 https://zh.ecthrwatch.org
+true
+zh
+
