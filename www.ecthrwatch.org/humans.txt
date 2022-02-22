@@ -1,7 +1,2 @@
-// layouts/index.humanstxt.txt
-https://www.ecthrwatch.org
-true
-en
-
 
 Hello.
