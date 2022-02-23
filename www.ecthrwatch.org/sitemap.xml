@@ -12,12 +12,7 @@
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/"
-                />
+    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -25,47 +20,26 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/federal-bureau-of-investigation/</loc>
-    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/persons/federal-bureau-of-investigation/</loc>
-    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/persons/united-states-department-of-state/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/personnes/united-states-department-of-state/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/united-states-department-of-state/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/persons/federal-bureau-of-investigation/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/persons/</loc>
-    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/"
-                />
+    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/personnes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -74,12 +48,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/"
-                />
+    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -87,26 +56,83 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/united-states-of-america/</loc>
-    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/tags/u.s.-securities-and-exchange-commission/</loc>
+    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/united-states-of-america/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/united-states-of-america/"
+                href="https://fr.ecthrwatch.org/tags/u.s.-securities-and-exchange-commission/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/tags/united-states-of-america/"
+                href="https://www.ecthrwatch.org/tags/u.s.-securities-and-exchange-commission/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/united-states-securities-and-exchange-commission/</loc>
+    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/united-states-securities-and-exchange-commission/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%A7%94%E5%91%98%E4%BC%9A/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/persons/united-states-securities-and-exchange-commission/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/united-states-of-america/</loc>
+    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/federal-bureau-of-investigation/</loc>
+    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/federal-bureau-of-investigation/</loc>
+    <lastmod>2022-02-23T23:33:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/bureau-federal-d-enquete/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/departement-d-etat-des-etats-unis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/persons/united-states-department-of-state/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/persons/federal-bureau-of-investigation/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/embassy-of-the-united-states-paris-france/</loc>
@@ -165,6 +191,16 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/assistant-legal-attach%C3%A9/</loc>
     <lastmod>2022-02-23T22:36:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/assistant-legal-attach%C3%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/assistant-legal-attach%C3%A9/"
+                />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/embassy-of-the-united-states-beijing-china/</loc>
     <lastmod>2022-02-23T22:36:00+08:00</lastmod>
@@ -173,13 +209,13 @@
     <lastmod>2022-02-23T22:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/rogalski-adam/"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/rogalski-adam/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/rogalski-adam/"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/rogalski-adam/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -189,21 +225,6 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/united-states-department-of-state/</loc>
     <lastmod>2022-02-23T22:36:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/united-states-department-of-state/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/united-states-department-of-state/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/united-states-department-of-state/"
-                />
   </url><url>
     <loc>https://www.ecthrwatch.org/timeline/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/</loc>
     <lastmod>2021-10-05T01:20:00+08:00</lastmod>
@@ -362,18 +383,28 @@
     <lastmod>2022-02-23T22:18:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/bureau-federal-d-enquete/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/persons/federal-bureau-of-investigation/"
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/personnes/united-states-department-of-state/"
+                href="https://fr.ecthrwatch.org/personnes/departement-d-etat-des-etats-unis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/united-states-department-of-state/"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2/"
                 />
     <xhtml:link
                 rel="alternate"
