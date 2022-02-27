@@ -10,6 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.etats-unis.eu/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://en.etats-unis.eu/authors/"
                 />
@@ -19,6 +24,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.etats-unis.eu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.etats-unis.eu/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,6 +44,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.etats-unis.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://en.etats-unis.eu/"
                 />
@@ -46,6 +61,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.etats-unis.eu/series/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://en.etats-unis.eu/series/"
                 />
@@ -55,6 +75,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.etats-unis.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.etats-unis.eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
