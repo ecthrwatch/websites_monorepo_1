@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fr.agreaterchina.com/</loc>
+    <loc>https://zh.agreaterchina.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -10,16 +10,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.agreaterchina.com/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://fr.agreaterchina.com/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/"
+                />
   </url><url>
-    <loc>https://fr.agreaterchina.com/authors/</loc>
+    <loc>https://zh.agreaterchina.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,16 +27,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.agreaterchina.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://fr.agreaterchina.com/authors/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/authors/"
+                />
   </url><url>
-    <loc>https://fr.agreaterchina.com/categories/</loc>
+    <loc>https://zh.agreaterchina.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,16 +44,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.agreaterchina.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://fr.agreaterchina.com/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/categories/"
+                />
   </url><url>
-    <loc>https://fr.agreaterchina.com/series/</loc>
+    <loc>https://zh.agreaterchina.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -61,16 +61,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.agreaterchina.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://fr.agreaterchina.com/series/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/series/"
+                />
   </url><url>
-    <loc>https://fr.agreaterchina.com/tags/</loc>
+    <loc>https://zh.agreaterchina.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,13 +78,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.agreaterchina.com/tags/"
+                hreflang="fr"
+                href="https://fr.agreaterchina.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.agreaterchina.com/tags/"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/tags/"
                 />
   </url>
 </urlset>

@@ -2,264 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ecthrwatch.org/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://de.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://es.ecthrwatch.org/authors/"
-                />
+    <loc>https://www.agreaterchina.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/"
+                href="https://fr.agreaterchina.com/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://it.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://jp.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://pl.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://pt.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ru.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://tr.ecthrwatch.org/authors/"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/authors/"
+                href="https://www.agreaterchina.com/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://de.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://es.ecthrwatch.org/categories/"
-                />
+    <loc>https://www.agreaterchina.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/categories/"
+                href="https://fr.agreaterchina.com/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://it.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://jp.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://pl.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://pt.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ru.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://tr.ecthrwatch.org/categories/"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/categories/"
+                href="https://www.agreaterchina.com/authors/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/</loc>
+    <loc>https://www.agreaterchina.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/"
+                href="https://fr.agreaterchina.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://de.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://es.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://it.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://jp.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://pl.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://pt.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ru.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://tr.ecthrwatch.org/"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/"
+                href="https://www.agreaterchina.com/categories/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://de.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://es.ecthrwatch.org/series/"
-                />
+    <loc>https://www.agreaterchina.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/series/"
+                href="https://fr.agreaterchina.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://it.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://jp.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://pl.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://pt.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ru.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://tr.ecthrwatch.org/series/"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/series/"
+                href="https://www.agreaterchina.com/series/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://de.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://es.ecthrwatch.org/tags/"
-                />
+    <loc>https://www.agreaterchina.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/"
+                href="https://fr.agreaterchina.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://it.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://jp.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://pl.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://pt.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ru.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://tr.ecthrwatch.org/tags/"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/tags/"
+                href="https://www.agreaterchina.com/tags/"
                 />
   </url>
 </urlset>
