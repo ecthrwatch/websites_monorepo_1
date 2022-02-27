@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Europe-v-McDonalds.org</title>
-    <link>https://www.europe-v-mcdonalds.org/</link>
-    <description>Recent content on Europe-v-McDonalds.org</description>
+    <title>fr.Europe-v-McDonalds.org</title>
+    <link>https://fr.europe-v-mcdonalds.org/</link>
+    <description>Recent content on fr.Europe-v-McDonalds.org</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>fr</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.x-v-france.com/&#34;&gt;X. (more information on X-v-France.com)&lt;/a&gt;
-</copyright><atom:link href="https://www.europe-v-mcdonalds.org/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="https://fr.europe-v-mcdonalds.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

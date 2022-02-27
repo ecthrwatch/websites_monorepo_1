@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang='en' dir='ltr' ><meta charset="utf-8">
+<html lang='fr' dir='ltr' ><meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
 
-<title>Europe-v-McDonalds.org</title>
+<title>fr.Europe-v-McDonalds.org</title>
 
 <meta name="generator" content="Hugo Eureka 0.9.0" />
 <link rel="stylesheet" href="https://www.europe-v-mcdonalds.org/css/eureka.min.css">
@@ -59,32 +59,17 @@
 
 <meta name="description"
   content="Europe-v-McDonalds.org">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-      "@type": "ListItem",
-      "position": 1 ,
-      "name":"Europe-v-McDonalds.org",
-      "item":"https://www.europe-v-mcdonalds.org/"},{
-      "@type": "ListItem",
-      "position": 2 ,
-      "name":"404 Page not found",
-      "item":"https://www.europe-v-mcdonalds.org/404.html"}]
-}
-</script>
 
 
 
-<meta property="og:title" content="Europe-v-McDonalds.org" />
+<meta property="og:title" content="fr.Europe-v-McDonalds.org" />
 <meta property="og:type" content="website" />
 
 
 <meta property="og:image" content="https://www.europe-v-mcdonalds.org/images/icon.png">
 
 
-<meta property="og:url" content="https://www.europe-v-mcdonalds.org/404.html" />
+<meta property="og:url" content="https://fr.europe-v-mcdonalds.org/" />
 
 
 
@@ -96,12 +81,18 @@
 
 
 
-<meta property="og:locale" content="en" />
+<meta property="og:locale" content="fr" />
+
+
+
+<meta property="og:locale:alternate" content="en" />
+
+<meta property="og:locale:alternate" content="zh" />
 
 
 
 
-<meta property="og:site_name" content="Europe-v-McDonalds.org" />
+<meta property="og:site_name" content="fr.Europe-v-McDonalds.org" />
 
 
 
@@ -113,7 +104,7 @@
 <meta property="article:section" content="" />
 
 
-
+<link rel="alternate" type="application/rss+xml" href="https://fr.europe-v-mcdonalds.org/index.xml" title="fr.Europe-v-McDonalds.org" />
 
 <body class="flex flex-col min-h-screen">
   <header class="fixed flex items-center w-full min-h-16 ps-scrollbar z-50 bg-secondary-bg shadow-sm">
@@ -124,7 +115,7 @@
     }
 </script>
 <nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
-    <a href="/" class="me-6 text-primary-text text-xl font-bold">Europe-v-McDonalds.org</a>
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">fr.Europe-v-McDonalds.org</a>
     <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
         <i class="fas fa-bars"></i>
     </button>
@@ -132,8 +123,8 @@
     <div id="target"
         class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
         <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
-            <a href="/#about" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">About</a>
-            <a href="https://www.ecthrwatch.org/links/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Links</a>
+            <a href="/#apropos" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">À propos</a>
+            <a href="https://fr.ecthrwatch.org/liens/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Liens</a>
         </div>
 
         <div class="flex">
@@ -145,9 +136,23 @@
                 </div>
                 <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
                     id='lightDarkOptions'>
-                    <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
-                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
-                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Mode jour</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Mode nuit</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Mode automatique</span>
+                </div>
+            </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">French - Français</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://fr.europe-v-mcdonalds.org/">French - Français</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.europe-v-mcdonalds.org/">English</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://zh.europe-v-mcdonalds.org/">Chinese - 简体中文</a>
                 </div>
             </div>
         </div>
@@ -177,20 +182,212 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
   </header>
   <main class="grow pt-16">
-    <div class="ps-scrollbar">
-      <div class="w-full max-w-screen-xl lg:px-4 xl:px-8 mx-auto">
-<div class="bg-secondary-bg rounded overflow-hidden mt-12 px-4 py-32 text-center">
-    <span class="text-3xl">404 - Page not found</span>
+  
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+  <div class="ps-scrollbar bg-secondary-bg" 
+    >
+    <div class="max-w-screen-xl mx-auto">
+      <div id="apropos" class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12">
+        
+  
+
+  
+    
+    
+    <div class="flex flex-col md:flex-row items-center justify-center mb-12">
+  
+  
+    <div class="flex-none w-48 mx-auto md:ms-0 md:me-8 md:pe-8 md:border-e">
+      <img src="https://fr.europe-v-mcdonalds.org/images/x_logo_1.jpg" class="rounded-full" alt="Avatar">
+    </div>
+  
+  <div class="grow mt-4 md:mt-0">
+    <div class="text-3xl py-4">Europe-v-McDonalds.org</div>
+    <div class="w-3/12 xl:w-2/12 border-b"></div>
+
+    <div class="flex items-center pt-4">
+      
+        <i class="fas fa-user"></i>
+      
+      <div class="flex flex-wrap">
+        
+          <span class="ps-4">Lanceur d&rsquo;alerte</span>
+        
+
+        
+          <a href="https://www.X-v-France.com/" class="ps-4">X. (X-v-France.com)</a>
+        
+      </div>
+
+    </div>
+
+    
+      <div class="py-8 text-lg leading-normal">
+        Lanceur d&rsquo;alerte dans l&rsquo;affaire des escroqueries du groupe McDonald&rsquo;s. Plus d&rsquo;informations sur le site <a href="https://www.X-v-France.com">X-v-France.com</a>.
+      </div>
+    
+  </div>
+  <div class="flex md:flex-col justify-center items-end ms-8">
+    
+    
+      
+      
+      
+      
+      
+      <div class="pb-2 pe-4 md:pe-0 pt-4 md:pt-0">
+        <a href="mailto:ecthrwatch@gmail.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="pb-2 pe-4 md:pe-0 pt-4 md:pt-0">
+        <a href="https://twitter.com/ECtHRwatch_FR"><i class="fab fa-twitter"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="pb-2 pe-4 md:pe-0 pt-4 md:pt-0">
+        <a href="https://github.com/ecthrwatch"><i class="fab fa-github"></i></a>
+      </div>
+    
+  </div>
 </div>
+<div class="content">
+  <h2 id="europe-v-mcdonaldsorg">Europe-v-McDonalds.org</h2>
+
+</div>
+
+    
+    
+  
 
       </div>
     </div>
+  </div>
+
     
+
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+  <div class="ps-scrollbar " 
+     style="background-color: navy;" >
+    <div class="max-w-screen-xl mx-auto">
+      <div id="blank" class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12">
+        
+  
+
+  
+    
+    
+    
+    
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+  
+  
   </main>
   <footer class="ps-scrollbar">
     <div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">

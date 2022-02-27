@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.europe-v-mcdonalds.org/authors/</loc>
+    <loc>https://fr.europe-v-mcdonalds.org/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.europe-v-mcdonalds.org/authors/"
+                hreflang="en"
+                href="https://www.europe-v-mcdonalds.org/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -15,15 +15,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.europe-v-mcdonalds.org/authors/"
+                hreflang="fr"
+                href="https://fr.europe-v-mcdonalds.org/authors/"
                 />
   </url><url>
-    <loc>https://www.europe-v-mcdonalds.org/categories/</loc>
+    <loc>https://fr.europe-v-mcdonalds.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.europe-v-mcdonalds.org/categories/"
+                hreflang="en"
+                href="https://www.europe-v-mcdonalds.org/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,15 +32,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.europe-v-mcdonalds.org/categories/"
+                hreflang="fr"
+                href="https://fr.europe-v-mcdonalds.org/categories/"
                 />
   </url><url>
-    <loc>https://www.europe-v-mcdonalds.org/</loc>
+    <loc>https://fr.europe-v-mcdonalds.org/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.europe-v-mcdonalds.org/"
+                hreflang="en"
+                href="https://www.europe-v-mcdonalds.org/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -49,15 +49,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.europe-v-mcdonalds.org/"
+                hreflang="fr"
+                href="https://fr.europe-v-mcdonalds.org/"
                 />
   </url><url>
-    <loc>https://www.europe-v-mcdonalds.org/series/</loc>
+    <loc>https://fr.europe-v-mcdonalds.org/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.europe-v-mcdonalds.org/series/"
+                hreflang="en"
+                href="https://www.europe-v-mcdonalds.org/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -66,15 +66,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.europe-v-mcdonalds.org/series/"
+                hreflang="fr"
+                href="https://fr.europe-v-mcdonalds.org/series/"
                 />
   </url><url>
-    <loc>https://www.europe-v-mcdonalds.org/tags/</loc>
+    <loc>https://fr.europe-v-mcdonalds.org/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.europe-v-mcdonalds.org/tags/"
+                hreflang="en"
+                href="https://www.europe-v-mcdonalds.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,8 +83,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.europe-v-mcdonalds.org/tags/"
+                hreflang="fr"
+                href="https://fr.europe-v-mcdonalds.org/tags/"
                 />
   </url>
 </urlset>
