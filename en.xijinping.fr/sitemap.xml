@@ -37,6 +37,21 @@
                 />
   </url><url>
     <loc>https://en.xijinping.fr/copyright/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.xijinping.fr/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/copyright/"
+                />
   </url><url>
     <loc>https://en.xijinping.fr/</loc>
     <xhtml:link
