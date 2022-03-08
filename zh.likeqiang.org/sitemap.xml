@@ -36,6 +36,23 @@
                 href="https://zh.likeqiang.org/categories/"
                 />
   </url><url>
+    <loc>https://zh.likeqiang.org/copyright/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/copyright/"
+                />
+  </url><url>
     <loc>https://zh.likeqiang.org/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,6 +102,23 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://zh.likeqiang.org/tags/"
+                />
+  </url><url>
+    <loc>https://zh.likeqiang.org/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/%E5%85%AC%E5%BC%80%E4%BF%A1/"
                 />
   </url>
 </urlset>
