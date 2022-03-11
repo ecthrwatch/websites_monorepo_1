@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/curriculum-vitae/</loc>
+    <lastmod>2022-03-11T10:17:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mahonri-manjarrez.fr.federal-bureau-of-investigation.com/curriculum-vitae/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mahonri-manjarrez.zh.federal-bureau-of-investigation.com/%E7%AE%80%E5%8E%86/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mahonri-manjarrez.federal-bureau-of-investigation.com/curriculum-vitae/"
+                />
+  </url><url>
     <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/open-letters/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/</loc>
     <lastmod>2022-02-24T15:05:00+08:00</lastmod>
     <xhtml:link
@@ -148,23 +166,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mahonri-manjarrez.federal-bureau-of-investigation.com/categories/"
-                />
-  </url><url>
-    <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/curriculum-vitae/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mahonri-manjarrez.zh.federal-bureau-of-investigation.com/%E7%AE%80%E5%8E%86/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mahonri-manjarrez.fr.federal-bureau-of-investigation.com/curriculum-vitae/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mahonri-manjarrez.federal-bureau-of-investigation.com/curriculum-vitae/"
                 />
   </url><url>
     <loc>https://mahonri-manjarrez.federal-bureau-of-investigation.com/series/</loc>
