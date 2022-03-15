@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/links/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.mcdstockinvestors.com/liens/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.mcdstockinvestors.com/investors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/%E6%8A%95%E8%B5%84%E8%80%85/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +47,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.mcdstockinvestors.com/"
                 />
@@ -46,6 +61,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.mcdstockinvestors.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -61,6 +81,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.mcdstockinvestors.com/categories/"
                 />
@@ -70,6 +95,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.mcdstockinvestors.com/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -85,6 +115,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://fr.mcdstockinvestors.com/series/"
                 />
@@ -94,6 +129,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.mcdstockinvestors.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
