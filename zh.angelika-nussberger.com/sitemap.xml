@@ -2,11 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zh.angelika-nussberger.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.angelika-nussberger.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.angelika-nussberger.com/"
+                />
+  </url><url>
     <loc>https://zh.angelika-nussberger.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.angelika-nussberger.org/authors/"
+                href="https://www.angelika-nussberger.com/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,7 +40,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.angelika-nussberger.org/categories/"
+                href="https://www.angelika-nussberger.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -40,7 +57,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.angelika-nussberger.org/copyright/"
+                href="https://www.angelika-nussberger.com/copyright/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,7 +74,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.angelika-nussberger.org/series/"
+                href="https://www.angelika-nussberger.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -74,7 +91,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.angelika-nussberger.org/tags/"
+                href="https://www.angelika-nussberger.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -87,23 +104,6 @@
                 href="https://zh.angelika-nussberger.com/tags/"
                 />
   </url><url>
-    <loc>https://zh.angelika-nussberger.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.angelika-nussberger.com/"
-                />
-  </url><url>
     <loc>https://zh.angelika-nussberger.com/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -113,7 +113,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.angelika-nussberger.org/open-letters/"
+                href="https://www.angelika-nussberger.com/open-letters/"
                 />
     <xhtml:link
                 rel="alternate"
