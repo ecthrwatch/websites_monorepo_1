@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.angelika-nussberger.org/</loc>
+    <loc>https://fr.angelika-nussberger.com/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/"
+                hreflang="en"
+                href="https://www.angelika-nussberger.org/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -15,15 +15,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/"
                 />
   </url><url>
-    <loc>https://www.angelika-nussberger.org/authors/</loc>
+    <loc>https://fr.angelika-nussberger.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/authors/"
+                hreflang="en"
+                href="https://www.angelika-nussberger.org/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,15 +32,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/authors/"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/authors/"
                 />
   </url><url>
-    <loc>https://www.angelika-nussberger.org/categories/</loc>
+    <loc>https://fr.angelika-nussberger.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/categories/"
+                hreflang="en"
+                href="https://www.angelika-nussberger.org/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -49,15 +49,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/categories/"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/categories/"
                 />
   </url><url>
-    <loc>https://www.angelika-nussberger.org/copyright/</loc>
+    <loc>https://fr.angelika-nussberger.com/copyright/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/copyright/"
+                hreflang="en"
+                href="https://www.angelika-nussberger.org/copyright/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -66,15 +66,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/copyright/"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/copyright/"
                 />
   </url><url>
-    <loc>https://www.angelika-nussberger.org/open-letters/</loc>
+    <loc>https://fr.angelika-nussberger.com/lettres-ouvertes/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/lettres-ouvertes/"
+                hreflang="en"
+                href="https://www.angelika-nussberger.org/open-letters/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,15 +83,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/open-letters/"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/lettres-ouvertes/"
                 />
   </url><url>
-    <loc>https://www.angelika-nussberger.org/series/</loc>
+    <loc>https://fr.angelika-nussberger.com/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/series/"
+                hreflang="en"
+                href="https://www.angelika-nussberger.org/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -100,15 +100,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/series/"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/series/"
                 />
   </url><url>
-    <loc>https://www.angelika-nussberger.org/tags/</loc>
+    <loc>https://fr.angelika-nussberger.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.angelika-nussberger.com/tags/"
+                hreflang="en"
+                href="https://www.angelika-nussberger.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -117,8 +117,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.angelika-nussberger.org/tags/"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/tags/"
                 />
   </url>
 </urlset>
