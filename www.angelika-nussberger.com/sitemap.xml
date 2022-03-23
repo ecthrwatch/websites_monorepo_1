@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.angelika-nussberger.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/a-propos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.angelika-nussberger.com/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.angelika-nussberger.com/about/"
+                />
+  </url><url>
     <loc>https://www.angelika-nussberger.com/</loc>
     <xhtml:link
                 rel="alternate"
@@ -53,6 +70,23 @@
                 href="https://www.angelika-nussberger.com/categories/"
                 />
   </url><url>
+    <loc>https://www.angelika-nussberger.com/contact-me/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/contactez-moi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.angelika-nussberger.com/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.angelika-nussberger.com/contact-me/"
+                />
+  </url><url>
     <loc>https://www.angelika-nussberger.com/copyright-and-disclaimer/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,6 +119,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.angelika-nussberger.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.angelika-nussberger.com/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/confidentialite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.angelika-nussberger.com/%E9%9A%90%E7%A7%81/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.angelika-nussberger.com/privacy/"
                 />
   </url><url>
     <loc>https://www.angelika-nussberger.com/series/</loc>

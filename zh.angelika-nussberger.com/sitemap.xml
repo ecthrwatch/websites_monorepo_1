@@ -87,7 +87,39 @@
                 href="https://zh.angelika-nussberger.com/tags/"
                 />
   </url><url>
+    <loc>https://zh.angelika-nussberger.com/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.angelika-nussberger.com/contact-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/contactez-moi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.angelika-nussberger.com/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/"
+                />
+  </url><url>
     <loc>https://zh.angelika-nussberger.com/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.angelika-nussberger.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/a-propos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.angelika-nussberger.com/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99/"
+                />
   </url><url>
     <loc>https://zh.angelika-nussberger.com/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/</loc>
     <xhtml:link
@@ -105,8 +137,6 @@
                 hreflang="zh"
                 href="https://zh.angelika-nussberger.com/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"
                 />
-  </url><url>
-    <loc>https://zh.angelika-nussberger.com/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</loc>
   </url><url>
     <loc>https://zh.angelika-nussberger.com/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>
     <xhtml:link
@@ -126,5 +156,20 @@
                 />
   </url><url>
     <loc>https://zh.angelika-nussberger.com/%E9%9A%90%E7%A7%81/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.angelika-nussberger.com/confidentialite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.angelika-nussberger.com/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.angelika-nussberger.com/%E9%9A%90%E7%A7%81/"
+                />
   </url>
 </urlset>
