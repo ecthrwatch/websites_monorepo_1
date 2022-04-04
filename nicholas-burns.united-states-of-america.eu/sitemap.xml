@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/about/</loc>
+    <loc>https://nicholas-burns.united-states-of-america.eu/about-me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/a-propos/"
+                href="https://nicholas-burns.etats-unis.eu/qui-suis-je/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99/"
+                href="https://nicholas-burns.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%88%91/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/about/"
+                href="https://nicholas-burns.united-states-of-america.eu/about-me/"
                 />
   </url><url>
     <loc>https://nicholas-burns.united-states-of-america.eu/authors/</loc>

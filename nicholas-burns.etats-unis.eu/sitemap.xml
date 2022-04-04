@@ -155,21 +155,21 @@
                 href="https://nicholas-burns.etats-unis.eu/tags/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.etats-unis.eu/a-propos/</loc>
+    <loc>https://nicholas-burns.etats-unis.eu/qui-suis-je/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/about/"
+                href="https://nicholas-burns.united-states-of-america.eu/about-me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99/"
+                href="https://nicholas-burns.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%88%91/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/a-propos/"
+                href="https://nicholas-burns.etats-unis.eu/qui-suis-je/"
                 />
   </url>
 </urlset>
