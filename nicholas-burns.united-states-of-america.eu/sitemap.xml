@@ -2,174 +2,174 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/about-me/</loc>
+    <loc>/about-me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/qui-suis-je/"
+                href="/fr/qui-suis-je/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%88%91/"
+                href="/zh/%E5%85%B3%E4%BA%8E%E6%88%91/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/about-me/"
+                href="/about-me/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/authors/</loc>
+    <loc>/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/authors/"
+                href="/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/authors/"
+                href="/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/authors/"
+                href="/authors/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/categories/"
+                href="/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/contact-me/</loc>
+    <loc>/contact-me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/contactez-moi/"
+                href="/fr/contactez-moi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/"
+                href="/zh/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/contact-me/"
+                href="/contact-me/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/copyright-and-disclaimer/</loc>
+    <loc>/copyright-and-disclaimer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/droits-d-auteur-et-avis-de-non-responsabilite/"
+                href="/fr/droits-d-auteur-et-avis-de-non-responsabilite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"
+                href="/zh/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/copyright-and-disclaimer/"
+                href="/copyright-and-disclaimer/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/"
+                href="/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/open-letters/</loc>
+    <loc>/open-letters/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/lettres-ouvertes/"
+                href="/fr/lettres-ouvertes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                href="/zh/%E5%85%AC%E5%BC%80%E4%BF%A1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/open-letters/"
+                href="/open-letters/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/privacy/</loc>
+    <loc>/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/confidentialite/"
+                href="/fr/confidentialite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E9%9A%90%E7%A7%81/"
+                href="/zh/%E9%9A%90%E7%A7%81/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/privacy/"
+                href="/privacy/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/series/"
+                href="/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/series/"
+                href="/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/tags/"
+                href="/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>
