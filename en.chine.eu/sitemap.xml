@@ -2,16 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://en.chine.eu/tags/badge-number-014075/</loc>
-    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
-  </url><url>
     <loc>https://en.chine.eu/</loc>
-    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/"
-                />
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -19,15 +11,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://en.chine.eu/"
                 />
   </url><url>
-    <loc>https://en.chine.eu/tags/mi%C3%A0oqi%C3%A1n-police-station/</loc>
-    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+    <loc>https://en.chine.eu/tags/director/</loc>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/gulou-police-station/</loc>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
   </url><url>
     <loc>https://en.chine.eu/persons/</loc>
-    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -36,7 +36,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/"
+                href="https://zh.chine.eu/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,19 +45,50 @@
                 />
   </url><url>
     <loc>https://en.chine.eu/tags/police-officer/</loc>
-    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
   </url><url>
-    <loc>https://en.chine.eu/tags/</loc>
-    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+    <loc>https://en.chine.eu/tags/s%C5%ABn-qi%C3%A1ng/</loc>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/s%C5%ABn-qi%C3%A1ng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/s%C5%ABn-qi%C3%A1ng/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/persons/sun-qiang/</loc>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/personnes/sun-qiang/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/tags/"
+                href="https://zh.chine.eu/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E5%AD%99%E5%BC%BA/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/persons/sun-qiang/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/</loc>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.chine.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -66,6 +97,12 @@
                 />
   </url><url>
     <loc>https://en.chine.eu/tags/taiyuan-shanxi/</loc>
+    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/badge-number-014075/</loc>
+    <lastmod>2021-11-03T23:07:18+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/tags/mi%C3%A0oqi%C3%A1n-police-station/</loc>
     <lastmod>2021-11-03T23:07:18+08:00</lastmod>
   </url><url>
     <loc>https://en.chine.eu/tags/w%C3%A1ng-ch%C3%A9n/</loc>
@@ -76,7 +113,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E6%99%A8/"
+                href="https://zh.chine.eu/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E7%8E%8B%E6%99%A8/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -139,7 +176,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E9%99%88%E4%BA%AE/"
+                href="https://zh.chine.eu/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E9%99%88%E4%BA%AE/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -148,9 +185,6 @@
                 />
   </url><url>
     <loc>https://en.chine.eu/tags/deputy-director/</loc>
-    <lastmod>2021-10-29T21:23:13+08:00</lastmod>
-  </url><url>
-    <loc>https://en.chine.eu/tags/director/</loc>
     <lastmod>2021-10-29T21:23:13+08:00</lastmod>
   </url><url>
     <loc>https://en.chine.eu/tags/h%C3%BA-zh%C4%93n/</loc>
@@ -176,7 +210,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E8%83%A1%E7%8F%8D/"
+                href="https://zh.chine.eu/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E8%83%A1%E7%8F%8D/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -213,7 +247,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.chine.eu/%E4%BA%BA%E4%BB%AC/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
+                href="https://zh.chine.eu/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/%E7%8E%8B%E5%AD%9D%E5%85%B6/"
                 />
     <xhtml:link
                 rel="alternate"
