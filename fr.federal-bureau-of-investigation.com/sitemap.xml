@@ -70,6 +70,18 @@
                 href="https://fr.federal-bureau-of-investigation.com/lettres-ouvertes/"
                 />
   </url><url>
+    <loc>https://fr.federal-bureau-of-investigation.com/affaires/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.federal-bureau-of-investigation.com/cases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.federal-bureau-of-investigation.com/affaires/"
+                />
+  </url><url>
     <loc>https://fr.federal-bureau-of-investigation.com/series/</loc>
     <xhtml:link
                 rel="alternate"

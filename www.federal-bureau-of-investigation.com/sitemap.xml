@@ -147,6 +147,18 @@
                 href="https://www.federal-bureau-of-investigation.com/categories/"
                 />
   </url><url>
+    <loc>https://www.federal-bureau-of-investigation.com/cases/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.federal-bureau-of-investigation.com/affaires/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.federal-bureau-of-investigation.com/cases/"
+                />
+  </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/series/</loc>
     <xhtml:link
                 rel="alternate"
