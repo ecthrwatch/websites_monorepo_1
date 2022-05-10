@@ -20,8 +20,14 @@
     <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/annie-d%C3%A9nomm%C3%A9/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/annie-denomme/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2022-04-28T20:29:00+08:00</lastmod>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -37,6 +43,48 @@
                 hreflang="en"
                 href="https://www.ecthrwatch.org/"
                 />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/french-police/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/persons/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/witness-tampering/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/timeline/email-sent-to-fbi-3-examples-of-aggravated-frauds-by-mcdonalds/</loc>
     <lastmod>2022-03-14T16:14:00+08:00</lastmod>
@@ -129,24 +177,6 @@
                 href="https://www.ecthrwatch.org/tags/rogalski-adam/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2022-04-28T20:29:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/timeline/</loc>
     <lastmod>2022-04-28T20:29:00+08:00</lastmod>
     <xhtml:link
@@ -237,24 +267,6 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/witness-protection/</loc>
     <lastmod>2022-03-11T11:21:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/persons/</loc>
-    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/personnes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/persons/"
-                />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/u.s.-securities-and-exchange-commission/</loc>
     <lastmod>2022-02-24T00:10:00+08:00</lastmod>
@@ -532,9 +544,6 @@
     <lastmod>2021-07-12T12:16:21+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/persons/jacques-cholet/</loc>
-    <lastmod>2021-07-12T12:16:21+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/witness-tampering/</loc>
     <lastmod>2021-07-12T12:16:21+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/ddpp/</loc>
