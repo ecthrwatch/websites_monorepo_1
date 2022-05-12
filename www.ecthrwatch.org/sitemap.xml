@@ -20,14 +20,17 @@
     <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/annie-d%C3%A9nomm%C3%A9/</loc>
-    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/tags/a/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/persons/annie-denomme/</loc>
-    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/definitions/a/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/definitions/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -43,6 +46,48 @@
                 hreflang="en"
                 href="https://www.ecthrwatch.org/"
                 />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/whistleblower/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/definitions/whistleblower/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/%C3%A9criture-publique/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/definitions/ecriture-publique/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/public-document/</loc>
+    <lastmod>2022-05-11T13:49:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/definitions/public-document/</loc>
+    <lastmod>2022-05-11T13:49:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/annie-d%C3%A9nomm%C3%A9/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/persons/annie-denomme/</loc>
+    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/french-police/</loc>
     <lastmod>2022-05-10T23:16:00+08:00</lastmod>
@@ -63,24 +108,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/persons/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2022-05-10T23:16:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/witness-tampering/</loc>
