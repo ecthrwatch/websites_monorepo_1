@@ -113,7 +113,7 @@
         "@id": "https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2015-10-21_answer_from_gloria_santona/"
     },
     "headline": "Gloria Santona, General Counsel of McDonald’s Corporation | ECTHRwatch","datePublished": "2015-10-21T23:47:13+08:00",
-    "dateModified": "2015-10-21T23:47:13+08:00",
+    "dateModified": "2021-10-21T23:47:13+08:00",
     "wordCount":  92 ,
     "publisher": {
         "@type": "Organization",
@@ -144,6 +144,10 @@
 
 
 
+<meta property="og:locale:alternate" content="en" />
+
+
+
 
 <meta property="og:site_name" content="ECTHRwatch" />
 
@@ -155,7 +159,7 @@
 <meta property="article:published_time" content="2015-10-21T23:47:13&#43;08:00" />
 
 
-<meta property="article:modified_time" content="2015-10-21T23:47:13&#43;08:00" />
+<meta property="article:modified_time" content="2021-10-21T23:47:13&#43;08:00" />
 
 
 
@@ -210,6 +214,19 @@
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">自动</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">Chinese - 简体中文</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2015-10-21_answer_from_gloria_santona/">Chinese - 简体中文</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.ecthrwatch.org/timeline/2015-10-21_mcdonalds_general_counsel_confirms_taking_inquiry_seriously/">English</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -237,6 +254,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
