@@ -2,6 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/bauer-denise/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/burns-nicholas/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/open-letters/2022-05-12-email-to-fbi-cc-us-ambassadors-to-france-and-to-china/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/fbi/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/federal-bureau-of-investigation/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/manjarrez-mahonri/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/mcdonalds-corporation/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicholas-burns.etats-unis.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://nicholas-burns.meiguo.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicholas-burns.united-states-of-america.eu/"
+                />
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/open-letters/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicholas-burns.etats-unis.eu/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://nicholas-burns.meiguo.eu/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicholas-burns.united-states-of-america.eu/open-letters/"
+                />
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/rogalski-adam/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicholas-burns.etats-unis.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://nicholas-burns.meiguo.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicholas-burns.united-states-of-america.eu/tags/"
+                />
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/united-states-ambassador-to-china/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/united-states-ambassador-to-france/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nicholas-burns.united-states-of-america.eu/tags/united-states-department-of-state/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
     <loc>https://nicholas-burns.united-states-of-america.eu/about-me/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,40 +174,6 @@
                 href="https://nicholas-burns.united-states-of-america.eu/copyright-and-disclaimer/"
                 />
   </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/"
-                />
-  </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/open-letters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/%E5%85%AC%E5%BC%80%E4%BF%A1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/open-letters/"
-                />
-  </url><url>
     <loc>https://nicholas-burns.united-states-of-america.eu/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -153,23 +206,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://nicholas-burns.united-states-of-america.eu/series/"
-                />
-  </url><url>
-    <loc>https://nicholas-burns.united-states-of-america.eu/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nicholas-burns.etats-unis.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://nicholas-burns.meiguo.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicholas-burns.united-states-of-america.eu/tags/"
                 />
   </url>
 </urlset>
