@@ -689,5 +689,22 @@
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/series/"
                 />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/%E5%85%B3%E4%BA%8E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/a-propos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E5%85%B3%E4%BA%8E/"
+                />
   </url>
 </urlset>

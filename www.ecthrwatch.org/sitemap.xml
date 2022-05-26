@@ -1363,6 +1363,23 @@
                 href="https://www.ecthrwatch.org/tags/lettre-lrar/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/a-propos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E5%85%B3%E4%BA%8E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/about/"
+                />
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/directive-2005/29/ec/</loc>
   </url><url>
     <loc>https://www.ecthrwatch.org/frauds/</loc>

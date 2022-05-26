@@ -226,6 +226,8 @@
     <loc>https://www.federal-bureau-of-investigation.com/open-letters/2015-12-18-fbi-chicago-intake-unit-answers-the-victim/</loc>
     <lastmod>2022-04-30T20:58:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.federal-bureau-of-investigation.com/about-me/</loc>
+  </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -260,6 +262,10 @@
                 href="https://www.federal-bureau-of-investigation.com/categories/"
                 />
   </url><url>
+    <loc>https://www.federal-bureau-of-investigation.com/contact-me/</loc>
+  </url><url>
+    <loc>https://www.federal-bureau-of-investigation.com/copyright-and-disclaimer/</loc>
+  </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/cases/</loc>
     <xhtml:link
                 rel="alternate"
@@ -271,6 +277,8 @@
                 hreflang="en"
                 href="https://www.federal-bureau-of-investigation.com/cases/"
                 />
+  </url><url>
+    <loc>https://www.federal-bureau-of-investigation.com/privacy/</loc>
   </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/series/</loc>
     <xhtml:link

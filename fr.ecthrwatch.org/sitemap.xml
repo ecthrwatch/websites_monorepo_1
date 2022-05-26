@@ -1122,5 +1122,22 @@
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/speculations/"
                 />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/a-propos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/%E5%85%B3%E4%BA%8E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/a-propos/"
+                />
   </url>
 </urlset>
