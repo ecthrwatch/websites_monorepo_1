@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zh.ecthrwatch.org/definitions/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/definitions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/definitions/"
+                />
+  </url><url>
     <loc>https://zh.ecthrwatch.org/</loc>
-    <lastmod>2022-02-24T15:05:00+08:00</lastmod>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +34,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/</loc>
-    <lastmod>2022-02-24T15:05:00+08:00</lastmod>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,6 +50,12 @@
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/tags/"
                 />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/tags/%E6%B3%95%E5%BE%8B%E5%8F%82%E8%B5%9E%E5%8A%A9%E7%90%86/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/definitions/%E6%B3%95%E5%BE%8B%E5%8F%82%E8%B5%9E%E5%8A%A9%E7%90%86/</loc>
+    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%85%AC%E5%8F%B8/</loc>
     <lastmod>2022-02-24T00:10:00+08:00</lastmod>
@@ -230,7 +249,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
+                href="https://www.ecthrwatch.org/timelines/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -281,11 +300,6 @@
   </url><url>
     <loc>https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/</loc>
     <lastmod>2022-02-24T15:05:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -472,7 +486,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/2015-10-27_answer_from_eric_andrieu_pechenard_lawfirm/"
+                href="https://www.ecthrwatch.org/timelines/2015-10-27_answer_from_eric_andrieu_pechenard_lawfirm/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -552,7 +566,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/2015-10-21_mcdonalds_general_counsel_confirms_taking_inquiry_seriously/"
+                href="https://www.ecthrwatch.org/timelines/2015-10-21_mcdonalds_general_counsel_confirms_taking_inquiry_seriously/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -601,7 +615,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/2012-06-25_answer_from_mcdonalds_france_general_counsel/"
+                href="https://www.ecthrwatch.org/timelines/2012-06-25_answer_from_mcdonalds_france_general_counsel/"
                 />
     <xhtml:link
                 rel="alternate"
