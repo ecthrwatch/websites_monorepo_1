@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/</loc>
-    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+    <lastmod>2022-06-17T13:03:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +34,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/</loc>
-    <lastmod>2022-05-11T14:13:00+08:00</lastmod>
+    <lastmod>2022-06-17T13:03:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -244,7 +244,7 @@
     <loc>https://zh.ecthrwatch.org/tags/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2/</loc>
     <lastmod>2022-02-24T15:05:00+08:00</lastmod>
   </url><url>
-    <loc>https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/</loc>
+    <loc>https://zh.ecthrwatch.org/shijianzhou/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/</loc>
     <lastmod>2022-02-24T15:05:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -259,7 +259,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
+                href="https://zh.ecthrwatch.org/shijianzhou/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/manjarrez-mahonri/</loc>
@@ -281,7 +281,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/totranslate/</loc>
-    <lastmod>2022-02-24T15:05:00+08:00</lastmod>
+    <lastmod>2022-04-28T20:29:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -298,8 +298,8 @@
                 href="https://zh.ecthrwatch.org/tags/totranslate/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/</loc>
-    <lastmod>2022-02-24T15:05:00+08:00</lastmod>
+    <loc>https://zh.ecthrwatch.org/shijianzhou/</loc>
+    <lastmod>2022-06-17T13:03:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -308,7 +308,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/"
+                href="https://zh.ecthrwatch.org/shijianzhou/"
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80-fbi/</loc>
@@ -476,7 +476,59 @@
                 href="https://zh.ecthrwatch.org/%E5%85%B6%E4%BB%96%E7%BD%91%E7%AB%99/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/</loc>
+    <loc>https://zh.ecthrwatch.org/shijianzhou/2020-12-10_email_from_kevin_granville/</loc>
+    <lastmod>2022-04-28T20:29:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timelines/2020-12-10_email_from_kevin_granville/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/2020-12-10_email_from_kevin_granville/"
+                />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/tags/granville-kevin/</loc>
+    <lastmod>2022-04-28T20:29:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/granville-kevin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/granville-kevin/"
+                />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/tags/the-new-york-times/</loc>
+    <lastmod>2022-04-28T20:29:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/the-new-york-times/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/the-new-york-times/"
+                />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/shijianzhou/2020-12-09_email_to_kevin_granville/</loc>
+    <lastmod>2022-04-28T20:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timelines/2020-12-09_email_to_kevin_granville/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/2020-12-09_email_to_kevin_granville/"
+                />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/shijianzhou/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/</loc>
     <lastmod>2015-10-27T15:59:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -491,7 +543,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/"
+                href="https://zh.ecthrwatch.org/shijianzhou/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/"
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/mcdonalds-france/</loc>
@@ -549,7 +601,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/gloria-santona/</loc>
-    <lastmod>2021-10-21T23:47:13+08:00</lastmod>
+    <lastmod>2022-06-17T13:03:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -561,8 +613,8 @@
                 href="https://zh.ecthrwatch.org/tags/gloria-santona/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2015-10-21_answer_from_gloria_santona/</loc>
-    <lastmod>2021-10-21T23:47:13+08:00</lastmod>
+    <loc>https://zh.ecthrwatch.org/shijianzhou/2015-10-21_answer_from_gloria_santona/</loc>
+    <lastmod>2022-06-17T13:03:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -571,21 +623,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2015-10-21_answer_from_gloria_santona/"
+                href="https://zh.ecthrwatch.org/shijianzhou/2015-10-21_answer_from_gloria_santona/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/tags/mcdonalds-corporation/</loc>
-    <lastmod>2021-10-21T23:47:13+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/mcdonalds-corporation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/mcdonalds-corporation/"
-                />
+    <loc>https://zh.ecthrwatch.org/tags/%E6%80%BB%E6%B3%95%E5%BE%8B%E9%A1%BE%E9%97%AE/</loc>
+    <lastmod>2022-06-17T13:03:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/tags/%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%80%BB%E9%83%A8/</loc>
+    <lastmod>2022-06-17T13:03:00+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/</loc>
     <lastmod>2012-06-25T13:13:13+08:00</lastmod>
@@ -605,7 +650,7 @@
                 href="https://zh.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2012-06-25_reponse_directrice_juridique_mcdonalds_france/</loc>
+    <loc>https://zh.ecthrwatch.org/shijianzhou/2012-06-25_reponse_directrice_juridique_mcdonalds_france/</loc>
     <lastmod>2012-06-25T13:13:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -620,7 +665,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/%E6%97%B6%E9%97%B4%E8%BD%B4/2012-06-25_reponse_directrice_juridique_mcdonalds_france/"
+                href="https://zh.ecthrwatch.org/shijianzhou/2012-06-25_reponse_directrice_juridique_mcdonalds_france/"
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/lettre-lrar/</loc>
