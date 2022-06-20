@@ -104,7 +104,9 @@
                 href="https://zh.likeqiang.org/tags/"
                 />
   </url><url>
-    <loc>https://zh.likeqiang.org/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>
+    <loc>https://zh.likeqiang.org/guanyu/</loc>
+  </url><url>
+    <loc>https://zh.likeqiang.org/gongkaixin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -118,7 +120,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.likeqiang.org/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                href="https://zh.likeqiang.org/gongkaixin/"
                 />
   </url>
 </urlset>
