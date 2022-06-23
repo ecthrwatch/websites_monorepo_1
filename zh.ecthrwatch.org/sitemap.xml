@@ -539,6 +539,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie/2020-12-10_email_from_kevin_granville/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/shijian-zhou/2020-12-10_email_from_kevin_granville/"
                 />
@@ -552,6 +557,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/granville-kevin/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/tags/granville-kevin/"
                 />
@@ -562,6 +572,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/timelines/2020-12-09_email_to_kevin_granville/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie/2020-12-09_email_to_kevin_granville/"
                 />
     <xhtml:link
                 rel="alternate"
