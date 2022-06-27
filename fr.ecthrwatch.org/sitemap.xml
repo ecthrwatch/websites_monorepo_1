@@ -1154,6 +1154,11 @@
     <loc>https://fr.ecthrwatch.org/fraudes/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/frauds-and-crimes/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/frauds/"
                 />

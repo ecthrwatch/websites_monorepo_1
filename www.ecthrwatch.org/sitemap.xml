@@ -270,13 +270,13 @@
     <lastmod>2022-03-14T16:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/mcdonalds-france/"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/mcdonalds-france/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/mcdonalds-france/"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/mcdonalds-france/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1458,6 +1458,11 @@
     <loc>https://www.ecthrwatch.org/tags/directive-2005/29/ec/</loc>
   </url><url>
     <loc>https://www.ecthrwatch.org/frauds/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/frauds-and-crimes/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
