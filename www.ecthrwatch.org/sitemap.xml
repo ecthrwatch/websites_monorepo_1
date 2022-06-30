@@ -107,6 +107,21 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/timelines/</loc>
     <lastmod>2022-06-23T22:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijian-zhou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timelines/"
+                />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/corporate-vice-president/</loc>
     <lastmod>2022-05-12T10:31:00+08:00</lastmod>

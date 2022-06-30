@@ -86,6 +86,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timelines/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/shijian-zhou/"
                 />
