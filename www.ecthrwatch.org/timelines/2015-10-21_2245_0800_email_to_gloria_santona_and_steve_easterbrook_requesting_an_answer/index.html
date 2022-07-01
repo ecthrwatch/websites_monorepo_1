@@ -144,6 +144,10 @@
 
 
 
+<meta property="og:locale:alternate" content="zh" />
+
+
+
 
 <meta property="og:site_name" content="ECTHRwatch" />
 
@@ -212,6 +216,19 @@
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">English</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.ecthrwatch.org/timelines/2015-10-21_2245_0800_email_to_gloria_santona_and_steve_easterbrook_requesting_an_answer/">English</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://zh.ecthrwatch.org/shijian-zhou/2015-10-21_2245_0800_email_to_gloria_santona_and_steve_easterbrook_requesting_an_answer/">Chinese - 简体中文</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -239,6 +256,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -280,11 +298,11 @@
 
   <p>Ms. Santona,</p>
 <p>I would like to give a friendly reminder that I gave McDonald’s a deadline of October 22nd 2015 midnight GMT time. So you have about 36 hours left. It was 4 entire days which is more than enough considering I’ve sent my first cease and desist letter back in 2012. On top of this, had I known that the French branch had started scamming people again, I would have at the time only given you 24 to 48 hours. On top of this it’s really a simple matter somehow : you’ve omitted to tell people the game was rigged.</p>
-<p>~<strong>Could you please let me know what’s going on right and what you are doing to resolve this situation?</strong>~</p>
+<p><span style="text-decoration: underline"><strong>Could you please let me know what’s going on right and what you are doing to resolve this situation?</strong></span></p>
 <p>Also, I strongly suggest you not to wait an additional 36 hours to call off the fraud in France. This should be done at once. I’ve just checked your website in France and I see the scam is still displaying. Please let me know what’s going on.</p>
 <p>Thank you.</p>
 <p>Best regards,</p>
-<p>[Victim&rsquo;s name redacted for privacy]
+<p>[Victim&rsquo;s name redacted for privacy]<br>
 Shanghai, October 21st 2015 22h45 Shanghai time</p>
 <p>PS : a copy of this email is sent to Mr. Easterbrook</p>
 
