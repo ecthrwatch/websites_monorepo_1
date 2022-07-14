@@ -124,6 +124,9 @@
                 href="https://fr.ecthrwatch.org/definitions/"
                 />
   </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/%C3%A9tats-unis-dam%C3%A9rique/</loc>
+    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
+  </url><url>
     <loc>https://fr.ecthrwatch.org/personnes/</loc>
     <lastmod>2022-02-24T00:10:00+08:00</lastmod>
     <xhtml:link
@@ -172,9 +175,6 @@
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/personnes/united-states-securities-and-exchange-commission/"
                 />
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/%C3%A9tats-unis-dam%C3%A9rique/</loc>
-    <lastmod>2022-02-24T00:10:00+08:00</lastmod>
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/bureau-f%C3%A9d%C3%A9ral-denqu%C3%AAte/</loc>
     <lastmod>2022-02-23T23:33:00+08:00</lastmod>
@@ -257,24 +257,6 @@
                 href="https://fr.ecthrwatch.org/tags/manjarrez-mahonri/"
                 />
   </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/rogalski-adam/</loc>
-    <lastmod>2022-02-24T15:05:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/rogalski-adam/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/rogalski-adam/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/rogalski-adam/"
-                />
-  </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/</loc>
     <lastmod>2022-02-24T15:05:00+08:00</lastmod>
     <xhtml:link
@@ -291,6 +273,24 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/chronologie/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/rogalski-adam/</loc>
+    <lastmod>2022-02-24T15:05:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/rogalski-adam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/rogalski-adam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/rogalski-adam/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/totranslate/</loc>
@@ -419,6 +419,42 @@
     <loc>https://fr.ecthrwatch.org/tags/cassation-court/</loc>
     <lastmod>2021-07-08T11:32:00+08:00</lastmod>
   </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/c%C3%A9dric-villani/</loc>
+    <lastmod>2021-07-08T11:32:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/c%C3%A9dric-villani/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/c%C3%A9dric-villani/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/c%C3%A9dric-villani/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/personnes/villani_cedric/</loc>
+    <lastmod>2021-07-08T11:32:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/persons/cedric-villani/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/xiangguan-renshi-ji-gongsi/villani_cedric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/personnes/villani_cedric/"
+                />
+  </url><url>
     <loc>https://fr.ecthrwatch.org/tags/chantal-arens/</loc>
     <lastmod>2021-07-08T11:32:00+08:00</lastmod>
     <xhtml:link
@@ -453,42 +489,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/personnes/chantal-arens/"
-                />
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/personnes/villani_cedric/</loc>
-    <lastmod>2021-07-08T11:32:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/persons/cedric-villani/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/xiangguan-renshi-ji-gongsi/villani_cedric/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/personnes/villani_cedric/"
-                />
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/c%C3%A9dric-villani/</loc>
-    <lastmod>2021-07-08T11:32:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/c%C3%A9dric-villani/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/c%C3%A9dric-villani/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/c%C3%A9dric-villani/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/emmanuel-macron/</loc>
@@ -1018,6 +1018,24 @@
                 href="https://fr.ecthrwatch.org/posts/emoji-support/"
                 />
   </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/%C3%A9ric-andrieu/</loc>
+    <lastmod>2015-10-27T15:59:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
+                />
+  </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/2015-10-27_reponse_d_eric_andrieu_cabinet_pechenard/</loc>
     <lastmod>2015-10-27T15:59:13+08:00</lastmod>
     <xhtml:link
@@ -1072,24 +1090,6 @@
                 href="https://fr.ecthrwatch.org/tags/p%C3%A9chenard-associe%CC%81s/"
                 />
   </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/%C3%A9ric-andrieu/</loc>
-    <lastmod>2015-10-27T15:59:13+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
-                />
-  </url><url>
     <loc>https://fr.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/</loc>
     <lastmod>2012-06-25T13:13:13+08:00</lastmod>
     <xhtml:link
@@ -1142,6 +1142,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/lettre-lrar/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/a-propos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/guanyu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/a-propos/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/f.b.i./</loc>
@@ -1245,23 +1262,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/speculations/"
-                />
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/a-propos/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/guanyu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/a-propos/"
                 />
   </url>
 </urlset>

@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://denise-bauer.etats-unis.eu/qui-suis-je/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://denise-bauer.united-states-of-america.eu/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://denise-bauer.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%88%91/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://denise-bauer.etats-unis.eu/qui-suis-je/"
+                />
+  </url><url>
     <loc>https://denise-bauer.etats-unis.eu/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -153,23 +170,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://denise-bauer.etats-unis.eu/tags/"
-                />
-  </url><url>
-    <loc>https://denise-bauer.etats-unis.eu/qui-suis-je/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://denise-bauer.united-states-of-america.eu/about-me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://denise-bauer.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%88%91/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://denise-bauer.etats-unis.eu/qui-suis-je/"
                 />
   </url>
 </urlset>

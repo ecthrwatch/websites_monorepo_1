@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.etats-unis.eu/a-propos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.united-states-of-america.eu/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.etats-unis.eu/a-propos/"
+                />
+  </url><url>
     <loc>https://www.etats-unis.eu/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -153,23 +170,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.etats-unis.eu/tags/"
-                />
-  </url><url>
-    <loc>https://www.etats-unis.eu/a-propos/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.united-states-of-america.eu/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.meiguo.eu/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.etats-unis.eu/a-propos/"
                 />
   </url>
 </urlset>
