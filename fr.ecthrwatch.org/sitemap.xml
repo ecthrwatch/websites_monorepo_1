@@ -65,11 +65,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/m%C3%A9heut-constant/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/m%C3%A9heut-constant/"
                 />
@@ -214,6 +209,16 @@
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/adam-rogalski/</loc>
     <lastmod>2022-02-16T20:24:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/adam-rogalski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/adam-rogalski/"
+                />
   </url><url>
     <loc>https://fr.ecthrwatch.org/personnes/rogalski_adam/</loc>
     <lastmod>2022-02-16T20:24:01+08:00</lastmod>
@@ -245,11 +250,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/manjarrez-mahonri/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/manjarrez-mahonri/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -653,11 +653,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/granville-kevin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/granville-kevin/"
                 />
     <xhtml:link
                 rel="alternate"

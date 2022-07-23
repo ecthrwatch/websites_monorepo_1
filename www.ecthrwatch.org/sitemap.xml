@@ -21,7 +21,7 @@
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2022-07-21T22:20:00+08:00</lastmod>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -65,17 +65,12 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/m%C3%A9heut-constant/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/m%C3%A9heut-constant/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2022-07-21T22:20:00+08:00</lastmod>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -106,7 +101,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/timelines/</loc>
-    <lastmod>2022-07-21T22:20:00+08:00</lastmod>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -137,7 +132,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/general-counsel/</loc>
-    <lastmod>2022-07-21T22:20:00+08:00</lastmod>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -182,7 +177,7 @@
     <lastmod>2022-05-12T08:57:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/mcdonalds-corporation/</loc>
-    <lastmod>2022-07-21T22:20:00+08:00</lastmod>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -309,11 +304,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/manjarrez-mahonri/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/manjarrez-mahonri/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -586,13 +576,13 @@
     <lastmod>2021-07-12T16:31:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -748,13 +738,13 @@
     <lastmod>2021-07-12T11:31:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/%C3%A9ric-andrieu/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -764,6 +754,16 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/fr%C3%A9d%C3%A9ric-p%C3%A9chenard/</loc>
     <lastmod>2021-07-12T11:31:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/fr%C3%A9d%C3%A9ric-p%C3%A9chenard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/fr%C3%A9d%C3%A9ric-p%C3%A9chenard/"
+                />
   </url><url>
     <loc>https://www.ecthrwatch.org/persons/frederic-pechenard/</loc>
     <lastmod>2021-07-12T11:31:19+08:00</lastmod>
@@ -830,7 +830,17 @@
     <lastmod>2022-02-16T22:48:48+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/ceo/</loc>
-    <lastmod>2021-07-12T11:15:12+08:00</lastmod>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/ceo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/ceo/"
+                />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/easterbrook-steve/</loc>
     <lastmod>2021-07-12T11:15:12+08:00</lastmod>
@@ -1038,11 +1048,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/granville-kevin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/granville-kevin/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1458,6 +1463,35 @@
                 href="https://www.ecthrwatch.org/timelines/2015-10-23_email_received_from_malcolm_hicks_mcdonalds_corporate_vice_president/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/timelines/2015-10-22_1106_0800_additional_frauds_email_to_santona_cc_easterbrook/</loc>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijian-zhou/2015-10-22_1106_0800_additional_frauds_email_to_santona_cc_easterbrook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timelines/2015-10-22_1106_0800_additional_frauds_email_to_santona_cc_easterbrook/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/santona-gloria/</loc>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/steve-easterbrook/</loc>
+    <lastmod>2022-07-23T22:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/steve-easterbrook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/steve-easterbrook/"
+                />
+  </url><url>
     <loc>https://www.ecthrwatch.org/timelines/2015-10-21_mcdonalds_general_counsel_confirms_taking_inquiry_seriously/</loc>
     <lastmod>2022-05-12T08:38:00+08:00</lastmod>
     <xhtml:link
@@ -1469,19 +1503,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/timelines/2015-10-21_mcdonalds_general_counsel_confirms_taking_inquiry_seriously/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/santona-gloria/</loc>
-    <lastmod>2022-07-21T22:20:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/santona-gloria/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/santona-gloria/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/timelines/2015-10-21_2245_0800_email_to_gloria_santona_and_steve_easterbrook_requesting_an_answer/</loc>
@@ -1509,6 +1530,15 @@
                 hreflang="en"
                 href="https://www.ecthrwatch.org/timelines/2015-10-21_1233_0800_email_to_mcdonalds_executives_accessory_after_the_facts/"
                 />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/kevin-ozan/</loc>
+    <lastmod>2022-07-11T10:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/robert-gibbs/</loc>
+    <lastmod>2022-07-11T10:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/silvia-lagnado/</loc>
+    <lastmod>2022-07-11T10:44:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/timelines/2015-10-20_0313_0800_fraud_of_the_century/</loc>
     <lastmod>2022-07-21T22:20:00+08:00</lastmod>
