@@ -6,13 +6,13 @@
     <lastmod>2022-04-10T15:32:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/"
+                hreflang="zh"
+                href="https://zh.chine.eu/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/"
+                hreflang="fr"
+                href="https://www.chine.eu/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,13 +82,13 @@
     <lastmod>2022-04-10T15:32:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/tags/"
+                hreflang="zh"
+                href="https://zh.chine.eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/tags/"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -312,6 +312,23 @@
                 />
   </url><url>
     <loc>https://en.chine.eu/facts/</loc>
+  </url><url>
+    <loc>https://en.chine.eu/open-letters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/g%C5%8Dngk%C4%81ix%C3%ACnx%C4%AB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/open-letters/"
+                />
   </url><url>
     <loc>https://en.chine.eu/questions/</loc>
   </url><url>
