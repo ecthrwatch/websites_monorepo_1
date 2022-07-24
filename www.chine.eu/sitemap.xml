@@ -226,6 +226,23 @@
                 href="https://www.chine.eu/categories/"
                 />
   </url><url>
+    <loc>https://www.chine.eu/chronologies/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/shijianzhou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/timeline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/chronologies/"
+                />
+  </url><url>
     <loc>https://www.chine.eu/lettres-ouvertes/</loc>
     <xhtml:link
                 rel="alternate"
