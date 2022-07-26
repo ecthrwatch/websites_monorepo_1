@@ -53,6 +53,12 @@
                 href="https://www.cedricvillani.com/"
                 />
   </url><url>
+    <loc>https://www.cedricvillani.com/en/</loc>
+  </url><url>
+    <loc>https://www.cedricvillani.com/fr/</loc>
+  </url><url>
+    <loc>https://www.cedricvillani.com/jp/</loc>
+  </url><url>
     <loc>https://www.cedricvillani.com/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,5 +92,7 @@
                 hreflang="en"
                 href="https://www.cedricvillani.com/tags/"
                 />
+  </url><url>
+    <loc>https://www.cedricvillani.com/zh/</loc>
   </url>
 </urlset>
