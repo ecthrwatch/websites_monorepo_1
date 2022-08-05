@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://en.chine.eu/</loc>
-    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
+    <lastmod>2022-08-04T10:16:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -18,6 +18,63 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://en.chine.eu/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/constitution-of-the-peoples-republic-of-china/</loc>
+    <lastmod>2022-08-04T10:16:00+08:00</lastmod>
+  </url><url>
+    <loc>https://en.chine.eu/laws/constitution-china/</loc>
+    <lastmod>2022-08-04T10:16:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/lois/constitution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/falu/xianfa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/laws/constitution-china/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/laws/</loc>
+    <lastmod>2022-08-04T10:16:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/lois/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/falu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/laws/"
+                />
+  </url><url>
+    <loc>https://en.chine.eu/tags/</loc>
+    <lastmod>2022-08-04T10:16:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/"
                 />
   </url><url>
     <loc>https://en.chine.eu/tags/director/</loc>
@@ -78,24 +135,6 @@
                 href="https://en.chine.eu/persons/sun-qiang/"
                 />
   </url><url>
-    <loc>https://en.chine.eu/tags/</loc>
-    <lastmod>2022-04-10T15:32:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/tags/"
-                />
-  </url><url>
     <loc>https://en.chine.eu/tags/taiyuan-shanxi/</loc>
     <lastmod>2022-04-10T15:32:00+08:00</lastmod>
   </url><url>
@@ -123,9 +162,24 @@
   </url><url>
     <loc>https://en.chine.eu/tags/criminal-law/</loc>
     <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/criminal-law/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/criminal-law/"
+                />
   </url><url>
     <loc>https://en.chine.eu/laws/criminal-law/</loc>
     <lastmod>2021-11-03T13:28:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/lois/criminal-law/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -139,18 +193,15 @@
   </url><url>
     <loc>https://en.chine.eu/tags/laws/</loc>
     <lastmod>2021-11-03T13:28:37+08:00</lastmod>
-  </url><url>
-    <loc>https://en.chine.eu/laws/</loc>
-    <lastmod>2021-11-03T13:28:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/falu/"
+                hreflang="fr"
+                href="https://www.chine.eu/tags/laws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.chine.eu/laws/"
+                href="https://en.chine.eu/tags/laws/"
                 />
   </url><url>
     <loc>https://en.chine.eu/tags/ch%C3%A9n-li%C3%A0ng/</loc>
