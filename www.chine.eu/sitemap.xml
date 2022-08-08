@@ -90,6 +90,24 @@
                 href="https://www.chine.eu/tags/"
                 />
   </url><url>
+    <loc>https://www.chine.eu/lois/constitution/</loc>
+    <lastmod>2022-08-01T11:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/laws/constitution-china/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/falu/xianfa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/lois/constitution/"
+                />
+  </url><url>
     <loc>https://www.chine.eu/tags/criminal-law/</loc>
     <lastmod>2021-11-03T13:28:37+08:00</lastmod>
     <xhtml:link
@@ -176,24 +194,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.chine.eu/tags/%E5%AE%AA%E6%B3%95/"
-                />
-  </url><url>
-    <loc>https://www.chine.eu/lois/constitution/</loc>
-    <lastmod>2022-08-01T11:40:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/laws/constitution-china/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/falu/xianfa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/lois/constitution/"
                 />
   </url><url>
     <loc>https://www.chine.eu/tags/ch%C3%A9n-li%C3%A0ng/</loc>
