@@ -352,13 +352,13 @@
     <loc>https://www.chine.eu/lettres-ouvertes/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/gongkaixinxi/"
+                hreflang="en"
+                href="https://en.chine.eu/open-letters/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/open-letters/"
+                hreflang="zh"
+                href="https://zh.chine.eu/gongkaixinxi/"
                 />
     <xhtml:link
                 rel="alternate"
