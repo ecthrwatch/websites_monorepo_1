@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Timeline (incomplete) on ECTHRwatch</title>
+    <title>List of timelines on ECTHRwatch</title>
     <link>https://www.ecthrwatch.org/timelines/</link>
-    <description>Recent content in Timeline (incomplete) on ECTHRwatch</description>
+    <description>Recent content in List of timelines on ECTHRwatch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.x-v-france.com/&#34;&gt;X. (X-v-France.com)&lt;/a&gt;
@@ -254,6 +254,24 @@ First of all, I want to thank you for having taken my phone call today without h
       <guid>https://www.ecthrwatch.org/timelines/2012-06-25_answer_from_mcdonalds_france_general_counsel/</guid>
       <description>&lt;p&gt;Translation coming soon.&lt;/p&gt;
 &lt;p&gt;Françoise de Borda, directrice juridique de McDonald’s France, me réponds pour la première et pour la dernière fois. Elle ment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>时间轴 (INCOMPLETE)</title>
+      <link>https://www.ecthrwatch.org/timelines/cases_all_events_all_importance_all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ecthrwatch.org/timelines/cases_all_events_all_importance_all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>时间轴 (INCOMPLETE)</title>
+      <link>https://www.ecthrwatch.org/timelines/cases_mcdonalds_events_all_importance_high/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ecthrwatch.org/timelines/cases_mcdonalds_events_all_importance_high/</guid>
+      <description></description>
     </item>
     
   </channel>
