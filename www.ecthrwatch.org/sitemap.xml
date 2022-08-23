@@ -1745,18 +1745,6 @@
                 href="https://www.ecthrwatch.org/questions/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/timelines/cases_all_events_all_importance_all/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/shijianzhou/cases_all_events_all_importance_all/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timelines/cases_all_events_all_importance_all/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/timelines/cases_mcdonalds_events_all_importance_high/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1767,6 +1755,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/timelines/cases_mcdonalds_events_all_importance_high/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/timelines/cases_all_events_all_importance_all/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/cases_all_events_all_importance_all/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timelines/cases_all_events_all_importance_all/"
                 />
   </url>
 </urlset>
