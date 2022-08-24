@@ -1748,6 +1748,11 @@
     <loc>https://www.ecthrwatch.org/timelines/cases_mcdonalds_events_all_importance_high/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologies/cases_mcdonalds_events_all_importance_high/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/shijianzhou/cases_mcdonalds_events_all_importance_high/"
                 />
@@ -1758,6 +1763,11 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/timelines/cases_all_events_all_importance_all/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologies/cases_all_events_all_importance_all/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
