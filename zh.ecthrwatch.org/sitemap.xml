@@ -173,18 +173,28 @@
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/constant-m%C3%A9heut/</loc>
     <lastmod>2022-06-20T09:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/constant-m%C3%A9heut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/constant-m%C3%A9heut/"
+                />
   </url><url>
     <loc>https://zh.ecthrwatch.org/shijianzhou/niuyue-shibao-jizhe-constant-meheut-2022-05-31/</loc>
     <lastmod>2022-06-20T09:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timelines/new-york-times-journalist-constant-meheut-understands-the-1-chance-out-of-4-fraud/"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologies/constant-meheut-journaliste-au-new-york-times-comprends-la-fraude-une-chance-sur-quatre/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/chronologies/constant-meheut-journaliste-au-new-york-times-comprends-la-fraude-une-chance-sur-quatre/"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timelines/new-york-times-journalist-constant-meheut-understands-the-1-chance-out-of-4-fraud/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -666,6 +676,9 @@
                 href="https://zh.ecthrwatch.org/qitawangzhan/"
                 />
   </url><url>
+    <loc>https://zh.ecthrwatch.org/tags/kevin-granville/</loc>
+    <lastmod>2022-06-23T21:28:00+08:00</lastmod>
+  </url><url>
     <loc>https://zh.ecthrwatch.org/shijianzhou/2020-12-10_email_from_kevin_granville/</loc>
     <lastmod>2022-06-23T21:28:00+08:00</lastmod>
     <xhtml:link
@@ -683,9 +696,6 @@
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/shijianzhou/2020-12-10_email_from_kevin_granville/"
                 />
-  </url><url>
-    <loc>https://zh.ecthrwatch.org/tags/kevin-granville/</loc>
-    <lastmod>2022-06-23T21:28:00+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/shijianzhou/2020-12-09_email_to_kevin_granville/</loc>
     <lastmod>2022-06-23T21:27:00+08:00</lastmod>
