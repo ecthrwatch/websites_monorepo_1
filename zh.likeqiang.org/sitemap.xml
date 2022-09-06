@@ -56,13 +56,13 @@
     <loc>https://zh.likeqiang.org/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.likeqiang.org/"
+                hreflang="en"
+                href="https://www.likeqiang.org/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.likeqiang.org/"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -109,13 +109,13 @@
     <loc>https://zh.likeqiang.org/gongkaixin/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.likeqiang.org/lettres-ouvertes/"
+                hreflang="en"
+                href="https://www.likeqiang.org/open-letters/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.likeqiang.org/open-letters/"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/lettres-ouvertes/"
                 />
     <xhtml:link
                 rel="alternate"
