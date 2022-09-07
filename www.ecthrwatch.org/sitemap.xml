@@ -1695,6 +1695,18 @@
                 href="https://www.ecthrwatch.org/facts/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/timeline/mcdonalds/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/maidanglao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/mcdonalds/"
+                />
+  </url><url>
     <loc>https://www.ecthrwatch.org/questions/</loc>
     <xhtml:link
                 rel="alternate"

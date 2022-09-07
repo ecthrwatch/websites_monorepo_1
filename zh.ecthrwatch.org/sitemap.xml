@@ -1056,6 +1056,16 @@
     <loc>https://zh.ecthrwatch.org/shijianzhou/full-timeline-all-ecthr-cases/</loc>
   </url><url>
     <loc>https://zh.ecthrwatch.org/shijianzhou/maidanglao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/mcdonalds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/maidanglao/"
+                />
   </url><url>
     <loc>https://zh.ecthrwatch.org/shijianzhou/mcdonalds-timeline-key-points-only/</loc>
   </url>
