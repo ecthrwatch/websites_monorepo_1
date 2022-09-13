@@ -222,6 +222,16 @@
   </url><url>
     <loc>https://en.chine.eu/tags/gulou-police-station/</loc>
     <lastmod>2022-04-10T15:32:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/tags/gulou-police-station/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/tags/gulou-police-station/"
+                />
   </url><url>
     <loc>https://en.chine.eu/tags/police-officer/</loc>
     <lastmod>2022-04-10T15:32:00+08:00</lastmod>
@@ -558,7 +568,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.chine.eu/chronologies/"
+                href="https://www.chine.eu/chronologie/"
                 />
     <xhtml:link
                 rel="alternate"
