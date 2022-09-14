@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.likeqiang.org/</loc>
-    <lastmod>2022-09-06T13:34:00+08:00</lastmod>
+    <lastmod>2022-09-17T17:42:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -52,10 +52,20 @@
                 />
   </url><url>
     <loc>https://www.likeqiang.org/tags/li-keqiang/</loc>
-    <lastmod>2022-09-06T10:09:00+08:00</lastmod>
+    <lastmod>2022-09-17T17:42:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/li-keqiang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/li-keqiang/"
+                />
   </url><url>
     <loc>https://www.likeqiang.org/tags/</loc>
-    <lastmod>2022-09-06T10:09:00+08:00</lastmod>
+    <lastmod>2022-09-17T17:42:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -96,6 +106,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.likeqiang.org/tags/%E9%BE%99%E6%BD%AD%E5%85%AC%E5%9B%AD/"
+                />
+  </url><url>
+    <loc>https://www.likeqiang.org/open-letters/problems-in-china-2nd-out-of-x/</loc>
+    <lastmod>2022-09-17T17:42:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/gongkaixin/problems-in-china-2nd-out-of-x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/open-letters/problems-in-china-2nd-out-of-x/"
+                />
+  </url><url>
+    <loc>https://www.likeqiang.org/open-letters/problems-in-china-1st-out-of-x/</loc>
+    <lastmod>2022-09-17T17:42:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/gongkaixin/problems-in-china-1-out-of-x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/open-letters/problems-in-china-1st-out-of-x/"
                 />
   </url><url>
     <loc>https://www.likeqiang.org/authors/</loc>
