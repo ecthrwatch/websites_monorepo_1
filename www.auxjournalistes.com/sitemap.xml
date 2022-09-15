@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.auxjournalistes.com/tags/1-chance-sur-4/</loc>
+    <lastmod>2022-09-15T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.auxjournalistes.com/</loc>
+    <lastmod>2022-09-15T19:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/"
+                />
+  </url><url>
+    <loc>https://www.auxjournalistes.com/lettres-ouvertes/ongoing_exchange_with_constant_meheut/</loc>
+    <lastmod>2022-09-15T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.auxjournalistes.com/lettres-ouvertes/</loc>
+    <lastmod>2022-09-15T19:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/lettres-ouvertes/"
+                />
+  </url><url>
+    <loc>https://www.auxjournalistes.com/tags/</loc>
+    <lastmod>2022-09-15T19:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/tags/"
+                />
+  </url><url>
     <loc>https://www.auxjournalistes.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,23 +77,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.auxjournalistes.com/authors/"
-                />
-  </url><url>
-    <loc>https://www.auxjournalistes.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/"
                 />
   </url><url>
     <loc>https://www.auxjournalistes.com/categories/</loc>
@@ -53,23 +96,6 @@
                 href="https://www.auxjournalistes.com/categories/"
                 />
   </url><url>
-    <loc>https://www.auxjournalistes.com/lettres-ouvertes/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/open-letters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/%E5%85%AC%E5%BC%80%E4%BF%A1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/lettres-ouvertes/"
-                />
-  </url><url>
     <loc>https://www.auxjournalistes.com/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,23 +111,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.auxjournalistes.com/series/"
-                />
-  </url><url>
-    <loc>https://www.auxjournalistes.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/tags/"
                 />
   </url>
 </urlset>
