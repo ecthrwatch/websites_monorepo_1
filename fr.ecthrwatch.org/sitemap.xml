@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fr.ecthrwatch.org/</loc>
-    <lastmod>2022-09-22T08:47:00+08:00</lastmod>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -39,7 +39,7 @@
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/</loc>
-    <lastmod>2022-09-22T08:47:00+08:00</lastmod>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -63,7 +63,7 @@
     <lastmod>2022-09-15T20:22:00+08:00</lastmod>
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/</loc>
-    <lastmod>2022-09-22T08:47:00+08:00</lastmod>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -172,7 +172,7 @@
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/mcdonalds-corporation/</loc>
-    <lastmod>2022-09-22T08:47:00+08:00</lastmod>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1118,6 +1118,45 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/series/themes-guide/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/blanchiment-dargent/</loc>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/chronologie/email-envoye-a-mcdonalds-business-integrity/</loc>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/2019-11-18-email-to-mcdonalds-global-compliance-office/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/2019-11-18-email-to-business-integriy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie/email-envoye-a-mcdonalds-business-integrity/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/global-compliace-office/</loc>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/global-compliace-office/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/global-compliace-office/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/global-compliace-office/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/2019-09-27_answer_from_french_anticorruption_association_anticor/</loc>
