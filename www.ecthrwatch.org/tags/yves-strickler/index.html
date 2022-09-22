@@ -42,13 +42,69 @@
 
 
 <style>
+	p.mychinesetab { text-indent: 40px; }
 	p.indent { text-indent: 40px; }
 	.center { text-align: center; }
 	.fontbold { font-weight:bold; }
 	.textunderline { text-decoration:underline; }
+	#constitution-china > .article { text-align: center; font-weight: bold; }
+	#constitution-china > p:not(.article) { text-indent: 40px; }
+	#constitution-china > h1, h2, h3, h4, h5, h6 { text-align: center; }
 	span.small { font-size: smaller; }
+	span.right {display: flex; justify-content: flex-end; }
 	.right {display: flex; justify-content: flex-end; }
 	.tab_sincerely_chinese { margin-left: 40px; }
+
+a:link {
+  color: #0000EE;
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: #800080;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EE0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #EE0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.dark a:link {
+  color: #1f90ef;
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.dark a:visited {
+  color: #e100e1;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.dark a:hover {
+  color: #EE0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.dark a:active {
+  color: #EE0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
 </style>
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.ecthrwatch.org/images/ECTHRwatch_square_hu2bf5bb0970b6d55669684b1a2d9057a3_27956_32x32_fill_q75_box_center.jpg">
 <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecthrwatch.org/images/ECTHRwatch_square_hu2bf5bb0970b6d55669684b1a2d9057a3_27956_180x180_fill_q75_box_center.jpg">
@@ -82,8 +138,8 @@
             "@type":"ListItem",
             "position":  1 ,
             "name": "",
-            "description": "DE: Yves STRICKLER\nOBJET:\nDATE: 2017-07-04 at 01:42 (heure de Pékin +0800)\nTO: [Victim/key witness/whistleblower’s name, redacted for privacy] (Visit X-v-France.com for more information on who I am.)\nBonsoir Monsieur,\nDésolé du temps de réponse, lié à une période chargée. Je vous réponds en deux mots car je repars demain.\n- pour la demande d\u0026rsquo;aide provisoire envisagée, je pense qu\u0026rsquo;elle est recevable dans son principe ; je vous invite à lire l\u0026rsquo;aarticle 20 de a loi n° 91-647 du 10 juillet 1991 relative à l\u0026rsquo;aide juridique (https://www.",
-            "url": "https://www.ecthrwatch.org/timelines/2017-07-04_0142_0800_email_reply_from_strickler/"
+            "description": "DE: Yves STRICKLER\nOBJET:\nDATE: 2017-07-04 at 01:42 (heure de Pékin +0800)\nTO : [Victim/key witness/whistleblower\u0026rsquo;s name, redacted for privacy] (Visit X-v-France.com for more information)\nBonsoir Monsieur,\nDésolé du temps de réponse, lié à une période chargée. Je vous réponds en deux mots car je repars demain.\n- pour la demande d\u0026rsquo;aide provisoire envisagée, je pense qu\u0026rsquo;elle est recevable dans son principe ; je vous invite à lire l\u0026rsquo;aarticle 20 de a loi n° 91-647 du 10 juillet 1991 relative à l\u0026rsquo;aide juridique (https://www.",
+            "url": "https://www.ecthrwatch.org/timeline/2017-07-04_0142_0800_email_reply_from_strickler/"
         }
     ]
 }
@@ -154,7 +210,7 @@
         class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
         <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
             <a href="/cases/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Cases</a>
-            <a href="/timeline/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Timelines</a>
+            <a href="/timeline/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Timeline</a>
             <a href="/facts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Facts</a>
             <a href="/frauds/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">McDonald’s Serious Crimes</a>
             <a href="/persons/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Persons</a>
@@ -237,14 +293,14 @@
   
   <div class="w-full ">
     <div class="prose">
-  <a href="https://www.ecthrwatch.org/timelines/2017-07-04_0142_0800_email_reply_from_strickler/" class="no-underline">
+  <a href="https://www.ecthrwatch.org/timeline/2017-07-04_0142_0800_email_reply_from_strickler/" class="no-underline">
     <h3 class="mt-0"></h3>
   </a>
   
     DE: Yves STRICKLER
 OBJET:
 DATE: 2017-07-04 at 01:42 (heure de Pékin &#43;0800)
-TO: [Victim/key witness/whistleblower’s name, redacted for privacy] (Visit X-v-France.com for more information on who I am.)
+TO : [Victim/key witness/whistleblower’s name, redacted for privacy] (Visit X-v-France.com for more information)
 Bonsoir Monsieur,
 Désolé du temps de réponse, lié à une période chargée. Je vous réponds en deux mots car je repars demain.
 - pour la demande d’aide provisoire envisagée, je pense qu’elle est recevable dans son principe ; je vous invite à lire l’aarticle 20 de a loi n° 91-647 du 10 juillet 1991 relative à l’aide juridique (https://www.
