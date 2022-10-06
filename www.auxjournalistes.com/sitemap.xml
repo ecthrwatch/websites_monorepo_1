@@ -111,6 +111,23 @@
                 href="https://www.auxjournalistes.com/categories/"
                 />
   </url><url>
+    <loc>https://www.auxjournalistes.com/copyright/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/copyright/"
+                />
+  </url><url>
     <loc>https://www.auxjournalistes.com/series/</loc>
     <xhtml:link
                 rel="alternate"

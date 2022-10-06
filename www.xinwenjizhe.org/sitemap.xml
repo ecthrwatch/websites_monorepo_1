@@ -114,6 +114,23 @@
                 href="https://www.xinwenjizhe.org/categories/"
                 />
   </url><url>
+    <loc>https://www.xinwenjizhe.org/copyright/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/copyright/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/copyright/"
+                />
+  </url><url>
     <loc>https://www.xinwenjizhe.org/series/</loc>
     <xhtml:link
                 rel="alternate"
