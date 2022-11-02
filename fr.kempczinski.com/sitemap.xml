@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fr.kempczinski.com/qui-suis-je/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kempczinski.com/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.kempczinski.com/qui-suis-je/"
+                />
+  </url><url>
     <loc>https://fr.kempczinski.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +48,30 @@
                 href="https://fr.kempczinski.com/categories/"
                 />
   </url><url>
+    <loc>https://fr.kempczinski.com/confidentialite/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kempczinski.com/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.kempczinski.com/confidentialite/"
+                />
+  </url><url>
+    <loc>https://fr.kempczinski.com/contactez-moi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kempczinski.com/contact-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.kempczinski.com/contactez-moi/"
+                />
+  </url><url>
     <loc>https://fr.kempczinski.com/curriculum-vitae/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +87,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.kempczinski.com/curriculum-vitae/"
+                />
+  </url><url>
+    <loc>https://fr.kempczinski.com/droits-d-auteur-et-avis-de-non-responsabilite/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kempczinski.com/copyright-and-disclaimer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.kempczinski.com/droits-d-auteur-et-avis-de-non-responsabilite/"
                 />
   </url><url>
     <loc>https://fr.kempczinski.com/</loc>
