@@ -2,72 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.tojournalists.com/tags/constant-m%C3%A9heut/</loc>
-    <lastmod>2022-11-05T23:31:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.tojournalists.com/tags/kevin-granville/</loc>
-    <lastmod>2022-11-05T23:31:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.tojournalists.com/tags/new-york-times/</loc>
-    <lastmod>2022-11-05T23:31:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.tojournalists.com/open-letters/</loc>
-    <lastmod>2022-11-05T23:31:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/gongkaixin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/open-letters/"
-                />
-  </url><url>
-    <loc>https://www.tojournalists.com/open-letters/public-apology-to-kevin-granville-and-constant-meheut/</loc>
-    <lastmod>2022-11-05T23:31:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.tojournalists.com/tags/</loc>
-    <lastmod>2022-11-05T23:31:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/tags/"
-                />
-  </url><url>
-    <loc>https://www.tojournalists.com/</loc>
-    <lastmod>2022-11-05T23:31:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/"
-                />
-  </url><url>
     <loc>https://www.tojournalists.com/tags/1-chance-out-of-4/</loc>
     <lastmod>2022-09-16T11:07:00+08:00</lastmod>
   </url><url>
@@ -87,6 +21,60 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.tojournalists.com/open-letters/explanations-sent-to-constant-meheut-may-25-2022/"
+                />
+  </url><url>
+    <loc>https://www.tojournalists.com/open-letters/</loc>
+    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/gongkaixin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.tojournalists.com/tags/</loc>
+    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.tojournalists.com/</loc>
+    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/"
                 />
   </url><url>
     <loc>https://www.tojournalists.com/authors/</loc>
