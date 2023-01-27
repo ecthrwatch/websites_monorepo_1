@@ -23,22 +23,6 @@
     <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/congressional-research-service/</loc>
-    <lastmod>2023-01-24T10:33:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/documentation/congressional-research-service/</loc>
-    <lastmod>2023-01-24T10:33:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/documentation/rights-of-federal-crime-victims/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/documentation/congressional-research-service/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/documentation/</loc>
     <lastmod>2023-01-24T10:33:00+08:00</lastmod>
   </url><url>
@@ -60,21 +44,11 @@
                 href="https://www.ecthrwatch.org/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/rights-of-federal-crime-victims/</loc>
+    <loc>https://www.ecthrwatch.org/documentation/rights_of_federal_crime_victims/fbi-brochure-for-victims-of-financial-crimes/</loc>
     <lastmod>2023-01-24T10:33:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/documentation/rights-of-federal-crime-victims/</loc>
+    <loc>https://www.ecthrwatch.org/tags/rights-of-federal-crime-victims/</loc>
     <lastmod>2023-01-24T10:33:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/documentation/congressional-research-service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/documentation/rights-of-federal-crime-victims/"
-                />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/</loc>
     <lastmod>2023-01-24T10:33:00+08:00</lastmod>
@@ -93,6 +67,18 @@
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/"
                 />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/victims-of-financial-crimes/</loc>
+    <lastmod>2023-01-24T10:33:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/congressional-research-service/</loc>
+    <lastmod>2023-01-24T10:33:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/documentation/congressional-research-service/</loc>
+    <lastmod>2023-01-24T10:33:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/documentation/rights_of_federal_crime_victims/</loc>
+    <lastmod>2023-01-24T10:33:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/primers/</loc>
     <lastmod>2023-01-24T10:33:00+08:00</lastmod>
