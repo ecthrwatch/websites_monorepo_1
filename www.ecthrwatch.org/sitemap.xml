@@ -23,11 +23,17 @@
     <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/corruption/</loc>
+    <lastmod>2023-01-30T09:02:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/documentation/corruption/</loc>
+    <lastmod>2023-01-30T09:02:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/documentation/</loc>
-    <lastmod>2023-01-28T21:21:00+08:00</lastmod>
+    <lastmod>2023-01-30T09:02:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2023-01-28T21:21:00+08:00</lastmod>
+    <lastmod>2023-01-30T09:02:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -44,14 +50,29 @@
                 href="https://www.ecthrwatch.org/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/justice-manual/</loc>
-    <lastmod>2023-01-28T21:21:00+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/tags/money-laundering/</loc>
+    <lastmod>2023-01-30T09:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/money-laundering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/money-laundering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/money-laundering/"
+                />
   </url><url>
-    <loc>https://www.ecthrwatch.org/documentation/justice_manual/</loc>
-    <lastmod>2023-01-28T21:21:00+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/documentation/money_laundering/</loc>
+    <lastmod>2023-01-30T09:02:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2023-01-28T21:21:00+08:00</lastmod>
+    <lastmod>2023-01-30T09:02:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -67,6 +88,12 @@
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/"
                 />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/justice-manual/</loc>
+    <lastmod>2023-01-28T21:21:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/documentation/justice_manual/</loc>
+    <lastmod>2023-01-28T21:21:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/ag-guidelines/</loc>
     <lastmod>2023-01-28T14:52:00+08:00</lastmod>
@@ -723,24 +750,6 @@
                 href="https://www.ecthrwatch.org/tags/mcdonalds/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/money-laundering/</loc>
-    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/money-laundering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/money-laundering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/money-laundering/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/tags/sweepstakes-fraud/</loc>
     <lastmod>2022-03-14T18:37:00+08:00</lastmod>
     <xhtml:link
@@ -796,9 +805,6 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/attorney-general-guidelines-for-victim-and-witness-assistance/</loc>
-    <lastmod>2022-03-11T11:21:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/corruption/</loc>
     <lastmod>2022-03-11T11:21:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/fbi-victim-assistance-program/</loc>
