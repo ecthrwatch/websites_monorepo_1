@@ -355,6 +355,9 @@
     <loc>https://www.ecthrwatch.org/tags/sec-office-of-the-whistleblower/</loc>
     <lastmod>2023-02-22T23:55:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/updating/</loc>
+    <lastmod>2023-02-22T23:55:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/timeline/sec-complaint-office-of-the-whistleblower-2022-11-15/</loc>
     <lastmod>2023-02-22T23:55:00+08:00</lastmod>
   </url><url>
@@ -1431,63 +1434,6 @@
                 href="https://www.ecthrwatch.org/other-websites/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/authors/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/posts/diagram-support/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/posts/diagram-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/posts/diagram-support/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/authors/example-author/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/example-author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/example-author/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/posts/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/posts/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/timeline/2020-12-10_email_from_kevin_granville/</loc>
     <lastmod>2022-06-23T22:02:00+08:00</lastmod>
     <xhtml:link
@@ -1535,19 +1481,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/timeline/2020-12-09_email_to_kevin_granville/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/posts/math-support/</loc>
-    <lastmod>2020-11-20T22:52:56+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/posts/math-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/posts/math-support/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/docs/example-doc/chapter-1/</loc>
@@ -1639,94 +1572,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/docs/example-doc/nested-chapter/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/categories/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/categories/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/posts/featured-image/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/posts/featured-image/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/posts/featured-image/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/image/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/image/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/image/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/series/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/series/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/categories/themes/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/categories/themes/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/series/themes-guide/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/series/themes-guide/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/global-compliance-office/</loc>
@@ -1884,149 +1729,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/timeline/email-to-steve-easterbrook-and-board-of-directors-of-mcdonalds-corporation/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/css/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/html/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/authors/hugo-authors/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/hugo-authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/hugo-authors/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/posts/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/categories/syntax/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/themes/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/posts/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/text/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/emoji/"
-                />
-  </url><url>
-    <loc>https://www.ecthrwatch.org/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/posts/emoji-support/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/timeline/2019-01-04_1957_0800_email_from_strickler/</loc>
@@ -2856,6 +2558,40 @@
                 href="https://www.ecthrwatch.org/about/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/authors/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/categories/"
+                />
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/directive-2005/29/ec/</loc>
   </url><url>
     <loc>https://www.ecthrwatch.org/hypotheses-and-speculations/</loc>
@@ -2891,6 +2627,18 @@
                 href="https://www.ecthrwatch.org/timeline/mcdonalds/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/posts/"
+                />
+  </url><url>
     <loc>https://www.ecthrwatch.org/questions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -2901,6 +2649,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/questions/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/series/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/timeline/cases_mcdonalds_events_all_importance_high/</loc>
@@ -2926,5 +2691,7 @@
                 hreflang="en"
                 href="https://www.ecthrwatch.org/timeline/cases_all_events_all_importance_all/"
                 />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/authors/x/</loc>
   </url>
 </urlset>

@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.mcdstockinvestors.com/authors/</loc>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.mcdstockinvestors.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.mcdstockinvestors.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.mcdstockinvestors.com/authors/"
+                />
+  </url><url>
+    <loc>https://www.mcdstockinvestors.com/tags/chamaine-williams/</loc>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.mcdstockinvestors.com/open-letters/email_to_henry_rosenberg_neuberger_berman_2022-11-08/</loc>
-    <lastmod>2023-01-11T16:50:00+08:00</lastmod>
+    <lastmod>2023-02-23T17:42:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.mcdstockinvestors.com/tags/henry-rosenberg/</loc>
+    <lastmod>2023-02-23T17:42:00+08:00</lastmod>
   </url><url>
     <loc>https://www.mcdstockinvestors.com/</loc>
-    <lastmod>2023-01-11T16:52:00+08:00</lastmod>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -24,10 +48,10 @@
                 />
   </url><url>
     <loc>https://www.mcdstockinvestors.com/tags/neuberger-berman/</loc>
-    <lastmod>2023-01-11T16:52:00+08:00</lastmod>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
   </url><url>
     <loc>https://www.mcdstockinvestors.com/open-letters/</loc>
-    <lastmod>2023-01-11T16:52:00+08:00</lastmod>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -44,11 +68,8 @@
                 href="https://www.mcdstockinvestors.com/open-letters/"
                 />
   </url><url>
-    <loc>https://www.mcdstockinvestors.com/tags/rosenberg-henry/</loc>
-    <lastmod>2023-01-11T16:50:00+08:00</lastmod>
-  </url><url>
     <loc>https://www.mcdstockinvestors.com/tags/</loc>
-    <lastmod>2023-01-11T16:52:00+08:00</lastmod>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -65,14 +86,14 @@
                 href="https://www.mcdstockinvestors.com/tags/"
                 />
   </url><url>
-    <loc>https://www.mcdstockinvestors.com/tags/williams-chamaine/</loc>
-    <lastmod>2023-01-11T16:52:00+08:00</lastmod>
+    <loc>https://www.mcdstockinvestors.com/authors/x/</loc>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
   </url><url>
     <loc>https://www.mcdstockinvestors.com/open-letters/email_to_george_walker_neuberger_berman_2022-11-08/</loc>
-    <lastmod>2023-01-11T16:52:00+08:00</lastmod>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.mcdstockinvestors.com/tags/walker-george/</loc>
-    <lastmod>2023-01-11T16:52:00+08:00</lastmod>
+    <loc>https://www.mcdstockinvestors.com/tags/george-walker/</loc>
+    <lastmod>2023-02-23T17:50:00+08:00</lastmod>
   </url><url>
     <loc>https://www.mcdstockinvestors.com/tags/neuberger-berman-group-llc/</loc>
     <lastmod>2021-07-17T23:02:52+08:00</lastmod>
@@ -125,10 +146,10 @@
     <loc>https://www.mcdstockinvestors.com/tags/lapff-chairman/</loc>
     <lastmod>2021-07-17T17:37:24+08:00</lastmod>
   </url><url>
-    <loc>https://www.mcdstockinvestors.com/tags/george-herbert-walker-iv/</loc>
+    <loc>https://www.mcdstockinvestors.com/investors/george-walker/</loc>
     <lastmod>2021-07-17T17:37:02+08:00</lastmod>
   </url><url>
-    <loc>https://www.mcdstockinvestors.com/investors/george-herbert-walker-iv/</loc>
+    <loc>https://www.mcdstockinvestors.com/tags/george-herbert-walker-iv/</loc>
     <lastmod>2021-07-17T17:37:02+08:00</lastmod>
   </url><url>
     <loc>https://www.mcdstockinvestors.com/%E6%8A%95%E8%B5%84%E8%80%85/george-herbert-walker-iv/</loc>
@@ -180,23 +201,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.mcdstockinvestors.com/links/"
-                />
-  </url><url>
-    <loc>https://www.mcdstockinvestors.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.mcdstockinvestors.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.mcdstockinvestors.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.mcdstockinvestors.com/authors/"
                 />
   </url><url>
     <loc>https://www.mcdstockinvestors.com/tags/blackrock-inc./</loc>

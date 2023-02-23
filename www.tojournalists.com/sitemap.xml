@@ -5,6 +5,24 @@
     <loc>https://www.tojournalists.com/tags/1-chance-out-of-4/</loc>
     <lastmod>2022-09-16T11:07:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.tojournalists.com/authors/</loc>
+    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/"
+                />
+  </url><url>
     <loc>https://www.tojournalists.com/open-letters/explanations-sent-to-constant-meheut-may-25-2022/</loc>
     <lastmod>2022-09-16T11:07:00+08:00</lastmod>
     <xhtml:link
@@ -77,22 +95,8 @@
                 href="https://www.tojournalists.com/"
                 />
   </url><url>
-    <loc>https://www.tojournalists.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/authors/"
-                />
+    <loc>https://www.tojournalists.com/authors/x/</loc>
+    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
   </url><url>
     <loc>https://www.tojournalists.com/categories/</loc>
     <xhtml:link
