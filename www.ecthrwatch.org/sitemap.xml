@@ -239,6 +239,15 @@
                 href="https://www.ecthrwatch.org/tags/mcdonalds-corporation/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/timeline/mcdonalds-full-timeline/</loc>
+    <lastmod>2023-01-28T01:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/timeline/mcdonalds/</loc>
+    <lastmod>2023-01-28T01:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/timeline/mcdonalds-important-events-timeline/</loc>
+    <lastmod>2023-01-28T01:27:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/pattern-of-racketeering-activity/</loc>
     <lastmod>2023-01-28T01:27:00+08:00</lastmod>
   </url><url>
@@ -2618,6 +2627,10 @@
                 href="https://www.ecthrwatch.org/categories/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/contact/</loc>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/copyright-and-disclaimer/</loc>
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/directive-2005/29/ec/</loc>
   </url><url>
     <loc>https://www.ecthrwatch.org/hypotheses-and-speculations/</loc>
@@ -2636,23 +2649,6 @@
                 href="https://www.ecthrwatch.org/facts/"
                 />
   </url><url>
-    <loc>https://www.ecthrwatch.org/timeline/mcdonalds/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/chronologie/mcdonalds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/shijianzhou/maidanglao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/mcdonalds/"
-                />
-  </url><url>
     <loc>https://www.ecthrwatch.org/posts/</loc>
     <xhtml:link
                 rel="alternate"
@@ -2664,6 +2660,8 @@
                 hreflang="en"
                 href="https://www.ecthrwatch.org/posts/"
                 />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/privacy/</loc>
   </url><url>
     <loc>https://www.ecthrwatch.org/questions/</loc>
     <xhtml:link
