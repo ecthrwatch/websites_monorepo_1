@@ -5,6 +5,24 @@
     <loc>https://www.federal-bureau-of-investigation.com/tags/adam-rogalski/</loc>
     <lastmod>2023-02-15T23:33:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.federal-bureau-of-investigation.com/authors/</loc>
+    <lastmod>2023-02-15T23:33:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.federal-bureau-of-investigation.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.federal-bureau-of-investigation.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.federal-bureau-of-investigation.com/authors/"
+                />
+  </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/open-letters/email-to-adam-rogalski-and-mahonri-manjarrez-2023-02-15/</loc>
     <lastmod>2023-02-15T23:33:00+08:00</lastmod>
   </url><url>
@@ -82,6 +100,9 @@
                 hreflang="en"
                 href="https://www.federal-bureau-of-investigation.com/tags/"
                 />
+  </url><url>
+    <loc>https://www.federal-bureau-of-investigation.com/authors/x/</loc>
+    <lastmod>2023-02-15T23:33:00+08:00</lastmod>
   </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/open-letters/email-to-mahonri-manjarrez-2023-01-27/</loc>
     <lastmod>2023-01-28T03:24:00+08:00</lastmod>
@@ -431,23 +452,6 @@
   </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/about-me/</loc>
   </url><url>
-    <loc>https://www.federal-bureau-of-investigation.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.federal-bureau-of-investigation.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.federal-bureau-of-investigation.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.federal-bureau-of-investigation.com/authors/"
-                />
-  </url><url>
     <loc>https://www.federal-bureau-of-investigation.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -499,7 +503,5 @@
                 hreflang="en"
                 href="https://www.federal-bureau-of-investigation.com/series/"
                 />
-  </url><url>
-    <loc>https://www.federal-bureau-of-investigation.com/authors/x/</loc>
   </url>
 </urlset>
