@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kempczinski.com/authors/</loc>
+    <lastmod>2022-09-27T21:14:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.kempczinski.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.kempczinski.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kempczinski.com/authors/"
+                />
+  </url><url>
     <loc>https://www.kempczinski.com/tags/chris-kempczinski/</loc>
     <lastmod>2022-09-27T21:14:00+08:00</lastmod>
   </url><url>
     <loc>https://www.kempczinski.com/tags/deborah-wahl/</loc>
     <lastmod>2022-09-27T21:14:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.kempczinski.com/open-letters/formal-notice-illegal-lottery-usa-2017-02-14/</loc>
+    <loc>https://www.kempczinski.com/open-letters/2017-02-14-formal-notice-to-mcdonalds-executives-monopoly-sweepstakes-is-illegal/</loc>
     <lastmod>2022-09-27T21:14:00+08:00</lastmod>
   </url><url>
     <loc>https://www.kempczinski.com/tags/gloria-santona/</loc>
@@ -83,6 +101,9 @@
                 href="https://www.kempczinski.com/tags/"
                 />
   </url><url>
+    <loc>https://www.kempczinski.com/authors/x/</loc>
+    <lastmod>2022-09-27T21:14:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.kempczinski.com/about-me/</loc>
     <xhtml:link
                 rel="alternate"
@@ -93,23 +114,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.kempczinski.com/about-me/"
-                />
-  </url><url>
-    <loc>https://www.kempczinski.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.kempczinski.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.kempczinski.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kempczinski.com/authors/"
                 />
   </url><url>
     <loc>https://www.kempczinski.com/categories/</loc>
@@ -198,7 +202,5 @@
                 hreflang="en"
                 href="https://www.kempczinski.com/series/"
                 />
-  </url><url>
-    <loc>https://www.kempczinski.com/authors/x/</loc>
   </url>
 </urlset>
