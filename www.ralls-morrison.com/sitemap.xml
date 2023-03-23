@@ -2,6 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ralls-morrison.com/authors/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ralls-morrison.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ralls-morrison.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ralls-morrison.com/authors/"
+                />
+  </url><url>
+    <loc>https://www.ralls-morrison.com/open-letters/ceo-george-walker-neuberger-berman-notified-mcdonalds-corporation-money-laundering-2023-03-16/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ralls-morrison.com/tags/george-walker/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ralls-morrison.com/tags/mcdonalds-corporation/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ralls-morrison.com/tags/money-laundering/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ralls-morrison.com/tags/neuberger-berman/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ralls-morrison.com/open-letters/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ralls-morrison.com/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ralls-morrison.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ralls-morrison.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.ralls-morrison.com/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ralls-morrison.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ralls-morrison.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ralls-morrison.com/"
+                />
+  </url><url>
+    <loc>https://www.ralls-morrison.com/tags/rico/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ralls-morrison.com/tags/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ralls-morrison.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ralls-morrison.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ralls-morrison.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.ralls-morrison.com/authors/x/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.ralls-morrison.com/about-me/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,23 +110,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ralls-morrison.com/about-me/"
-                />
-  </url><url>
-    <loc>https://www.ralls-morrison.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ralls-morrison.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ralls-morrison.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ralls-morrison.com/authors/"
                 />
   </url><url>
     <loc>https://www.ralls-morrison.com/categories/</loc>
@@ -87,23 +163,6 @@
                 href="https://www.ralls-morrison.com/copyright-and-disclaimer/"
                 />
   </url><url>
-    <loc>https://www.ralls-morrison.com/open-letters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ralls-morrison.com/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ralls-morrison.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ralls-morrison.com/open-letters/"
-                />
-  </url><url>
     <loc>https://www.ralls-morrison.com/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,23 +178,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ralls-morrison.com/privacy/"
-                />
-  </url><url>
-    <loc>https://www.ralls-morrison.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ralls-morrison.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ralls-morrison.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ralls-morrison.com/"
                 />
   </url><url>
     <loc>https://www.ralls-morrison.com/series/</loc>
@@ -154,24 +196,5 @@
                 hreflang="en"
                 href="https://www.ralls-morrison.com/series/"
                 />
-  </url><url>
-    <loc>https://www.ralls-morrison.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ralls-morrison.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ralls-morrison.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ralls-morrison.com/tags/"
-                />
-  </url><url>
-    <loc>https://www.ralls-morrison.com/authors/x/</loc>
   </url>
 </urlset>
