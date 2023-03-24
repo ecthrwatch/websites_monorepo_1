@@ -2,6 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.robert-spano.com/authors/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.robert-spano.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.robert-spano.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robert-spano.com/authors/"
+                />
+  </url><url>
+    <loc>https://www.robert-spano.com/tags/european-court-of-human-rights/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.robert-spano.com/open-letters/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.robert-spano.com/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.robert-spano.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robert-spano.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.robert-spano.com/tags/request-for-interim-measures/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.robert-spano.com/open-letters/ecthr-request-for-interim-measures-mcdonalds-rico-case-2022-10-31/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.robert-spano.com/tags/robert-spano/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.robert-spano.com/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.robert-spano.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.robert-spano.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robert-spano.com/"
+                />
+  </url><url>
+    <loc>https://www.robert-spano.com/tags/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.robert-spano.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.robert-spano.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robert-spano.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.robert-spano.com/authors/x/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.robert-spano.com/about-me/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,23 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.robert-spano.com/about-me/"
-                />
-  </url><url>
-    <loc>https://www.robert-spano.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.robert-spano.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.robert-spano.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.robert-spano.com/authors/"
                 />
   </url><url>
     <loc>https://www.robert-spano.com/categories/</loc>
@@ -87,23 +157,6 @@
                 href="https://www.robert-spano.com/copyright-and-disclaimer/"
                 />
   </url><url>
-    <loc>https://www.robert-spano.com/open-letters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.robert-spano.com/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.robert-spano.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.robert-spano.com/open-letters/"
-                />
-  </url><url>
     <loc>https://www.robert-spano.com/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -121,23 +174,6 @@
                 href="https://www.robert-spano.com/privacy/"
                 />
   </url><url>
-    <loc>https://www.robert-spano.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.robert-spano.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.robert-spano.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.robert-spano.com/"
-                />
-  </url><url>
     <loc>https://www.robert-spano.com/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -153,23 +189,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.robert-spano.com/series/"
-                />
-  </url><url>
-    <loc>https://www.robert-spano.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.robert-spano.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.robert-spano.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.robert-spano.com/tags/"
                 />
   </url>
 </urlset>
