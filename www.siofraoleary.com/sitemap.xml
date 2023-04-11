@@ -2,6 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.siofraoleary.com/authors/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.siofraoleary.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.siofraoleary.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.siofraoleary.com/authors/"
+                />
+  </url><url>
+    <loc>https://www.siofraoleary.com/tags/european-court-of-human-rights/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.siofraoleary.com/open-letters/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.siofraoleary.com/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.siofraoleary.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.siofraoleary.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.siofraoleary.com/open-letters/ecthr-request-for-anonymity-mcdonalds-rico-case-2022-11-01/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.siofraoleary.com/tags/request-for-interim-measures/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.siofraoleary.com/tags/robert-spano/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.siofraoleary.com/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.siofraoleary.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.siofraoleary.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.siofraoleary.com/"
+                />
+  </url><url>
+    <loc>https://www.siofraoleary.com/tags/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.siofraoleary.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.siofraoleary.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.siofraoleary.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.siofraoleary.com/authors/x/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.siofraoleary.com/open-letters/ecthr-request-for-interim-measures-mcdonalds-rico-case-2022-10-31/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.siofraoleary.com/about-me/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,23 +107,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.siofraoleary.com/about-me/"
-                />
-  </url><url>
-    <loc>https://www.siofraoleary.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.siofraoleary.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.siofraoleary.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.siofraoleary.com/authors/"
                 />
   </url><url>
     <loc>https://www.siofraoleary.com/categories/</loc>
@@ -87,23 +160,6 @@
                 href="https://www.siofraoleary.com/copyright-and-disclaimer/"
                 />
   </url><url>
-    <loc>https://www.siofraoleary.com/open-letters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.siofraoleary.com/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.siofraoleary.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.siofraoleary.com/open-letters/"
-                />
-  </url><url>
     <loc>https://www.siofraoleary.com/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -136,40 +192,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.siofraoleary.com/series/"
-                />
-  </url><url>
-    <loc>https://www.siofraoleary.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.siofraoleary.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.siofraoleary.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.siofraoleary.com/"
-                />
-  </url><url>
-    <loc>https://www.siofraoleary.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.siofraoleary.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.siofraoleary.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.siofraoleary.com/tags/"
                 />
   </url>
 </urlset>
