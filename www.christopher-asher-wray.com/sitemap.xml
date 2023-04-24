@@ -3,105 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.christopher-asher-wray.com/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.christopher-asher-wray.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.christopher-asher-wray.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.christopher-asher-wray.com/authors/"
-                />
   </url><url>
     <loc>https://www.christopher-asher-wray.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.christopher-asher-wray.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.christopher-asher-wray.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.christopher-asher-wray.com/categories/"
-                />
   </url><url>
     <loc>https://www.christopher-asher-wray.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.christopher-asher-wray.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.christopher-asher-wray.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.christopher-asher-wray.com/"
-                />
   </url><url>
     <loc>https://www.christopher-asher-wray.com/open-letters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.christopher-asher-wray.com/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.christopher-asher-wray.com/%E5%85%AC%E5%BC%80%E4%BF%A1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.christopher-asher-wray.com/open-letters/"
-                />
   </url><url>
     <loc>https://www.christopher-asher-wray.com/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.christopher-asher-wray.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.christopher-asher-wray.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.christopher-asher-wray.com/series/"
-                />
   </url><url>
     <loc>https://www.christopher-asher-wray.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.christopher-asher-wray.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.christopher-asher-wray.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.christopher-asher-wray.com/tags/"
-                />
   </url>
 </urlset>
