@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://carine-smith-ihenacho.nbimwatch.org/about-me/</loc>
-  </url><url>
     <loc>https://carine-smith-ihenacho.nbimwatch.org/authors/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/tags/carine-smith-ihenacho/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/tags/dag-huse/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/tags/norges-bank-investment-management/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/open-letters/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/tags/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/tags/trond-grande/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/open-letters/trond-grande-and-dag-huse-asked-about-carine-smith-ihenacho-email-address-2023-04-06/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/authors/x/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://carine-smith-ihenacho.nbimwatch.org/about-me/</loc>
   </url><url>
     <loc>https://carine-smith-ihenacho.nbimwatch.org/categories/</loc>
   </url><url>
@@ -12,16 +40,8 @@
   </url><url>
     <loc>https://carine-smith-ihenacho.nbimwatch.org/copyright-and-disclaimer/</loc>
   </url><url>
-    <loc>https://carine-smith-ihenacho.nbimwatch.org/</loc>
-  </url><url>
-    <loc>https://carine-smith-ihenacho.nbimwatch.org/open-letters/</loc>
-  </url><url>
     <loc>https://carine-smith-ihenacho.nbimwatch.org/privacy/</loc>
   </url><url>
     <loc>https://carine-smith-ihenacho.nbimwatch.org/series/</loc>
-  </url><url>
-    <loc>https://carine-smith-ihenacho.nbimwatch.org/tags/</loc>
-  </url><url>
-    <loc>https://carine-smith-ihenacho.nbimwatch.org/authors/x/</loc>
   </url>
 </urlset>
