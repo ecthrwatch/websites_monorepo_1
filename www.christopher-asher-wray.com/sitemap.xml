@@ -2,16 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.christopher-asher-wray.com/about-me/</loc>
+  </url><url>
     <loc>https://www.christopher-asher-wray.com/authors/</loc>
   </url><url>
     <loc>https://www.christopher-asher-wray.com/categories/</loc>
   </url><url>
     <loc>https://www.christopher-asher-wray.com/</loc>
   </url><url>
+    <loc>https://www.christopher-asher-wray.com/contact-me/</loc>
+  </url><url>
+    <loc>https://www.christopher-asher-wray.com/copyright-and-disclaimer/</loc>
+  </url><url>
     <loc>https://www.christopher-asher-wray.com/open-letters/</loc>
+  </url><url>
+    <loc>https://www.christopher-asher-wray.com/privacy/</loc>
   </url><url>
     <loc>https://www.christopher-asher-wray.com/series/</loc>
   </url><url>
     <loc>https://www.christopher-asher-wray.com/tags/</loc>
+  </url><url>
+    <loc>https://www.christopher-asher-wray.com/authors/x/</loc>
   </url>
 </urlset>
