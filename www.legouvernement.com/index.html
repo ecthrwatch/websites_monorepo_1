@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<title>LeGouvernement.com (non-official)</title>
+<title>LeGouvernement.com</title>
 
 <meta name="generator" content="Hugo Eureka 0.9.3" />
 <link rel="stylesheet" href="https://www.legouvernement.com/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
@@ -140,11 +140,11 @@ a:active {
 <link rel="apple-touch-icon" sizes="180x180" href="https://www.legouvernement.com/images/icon_hudc710210e7565476a099dda33bdcf4dd_193560_180x180_fill_box_center_3.png">
 
 <meta name="description"
-  content="ECtHRwatch.org">
+  content="LeGouvernement.com is a non-official website on the French government and serves as a medium to publish open letters addressed to the French government, its esteemed Ministers, and the secrétaires d&#39;État.">
 
 
 
-<meta property="og:title" content="LeGouvernement.com (non-official)" />
+<meta property="og:title" content="LeGouvernement.com" />
 <meta property="og:type" content="website" />
 
 
@@ -157,7 +157,7 @@ a:active {
 
 
 
-<meta property="og:description" content="ECtHRwatch.org" />
+<meta property="og:description" content="LeGouvernement.com is a non-official website on the French government and serves as a medium to publish open letters addressed to the French government, its esteemed Ministers, and the secrétaires d&#39;État." />
 
 
 
@@ -167,12 +167,8 @@ a:active {
 
 
 
-<meta property="og:locale:alternate" content="fr" />
 
-
-
-
-<meta property="og:site_name" content="LeGouvernement.com (non-official)" />
+<meta property="og:site_name" content="LeGouvernement.com" />
 
 
 
@@ -184,7 +180,7 @@ a:active {
 <meta property="article:section" content="" />
 
 
-<link rel="alternate" type="text/plain" href="https://www.legouvernement.com/humans.txt" title="LeGouvernement.com (non-official)" />
+<link rel="alternate" type="text/plain" href="https://www.legouvernement.com/humans.txt" title="LeGouvernement.com" />
 
 
   <body class="flex min-h-screen flex-col">
@@ -198,7 +194,7 @@ a:active {
     }
 </script>
 <nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
-    <a href="/" class="me-6 text-primary-text text-xl font-bold">LeGouvernement.com (non-official)</a>
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">LeGouvernement.com</a>
     <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
         <i class="fas fa-bars"></i>
     </button>
@@ -206,7 +202,7 @@ a:active {
     <div id="target"
         class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
         <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
-            <a href="/about-me/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">About me</a>
+            <a href="/about/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">About</a>
             <a href="/open-letters/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Open letters</a>
             <a href="https://www.ecthrwatch.org/timeline/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Timeline</a>
             <a href="https://www.ecthrwatch.org/other-websites/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Other websites</a>
@@ -224,19 +220,6 @@ a:active {
                     <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
                     <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
-                </div>
-            </div>
-            <div class="relative pt-4 ps-4 md:pt-0">
-                <div class="cursor-pointer hover:text-eureka" id="languageMode">
-                    <i class="fas fa-globe"></i>
-                    <span class="ps-1">English</span>
-                </div>
-                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
-                </div>
-                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
-                    id='languageOptions'>
-                    <a class="px-4 py-1 hover:text-eureka" href="https://www.legouvernement.com/">English</a>
-                    <a class="px-4 py-1 hover:text-eureka" href="https://www.legouvernement.fr/">French - Français</a>
                 </div>
             </div>
         </div>
@@ -266,7 +249,6 @@ a:active {
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
-        switchLanguage()
     });
 </script>
 </div>
@@ -345,11 +327,7 @@ a:active {
 
     <div class="flex items-center pt-4">
       
-        <i class="fas fa-user"></i>
-      
       <div class="flex flex-wrap">
-        
-          <span class="ps-4">Government</span>
         
 
         
@@ -365,7 +343,7 @@ a:active {
 </div>
 <div class="prose">
   <h2 id="introduction">Introduction</h2>
-<p>This is a non-official website on the French government. It&rsquo;s related to the criminal RICO case targeting McDonald’s Corporation for money laundering and corruption of foreign officials.</p>
+<p>This is a non-official website on the French government and is related to the criminal RICO case targeting McDonald’s Corporation for money laundering and corruption of foreign officials.</p>
 <p>More links can be found in the <a href="https://www.ecthrwatch.org/links/">links section of ECtHRwatch.org</a>.</p>
 
 </div>
@@ -471,7 +449,7 @@ a:active {
     </main>
     <footer class="pl-scrollbar">
       <div class="mx-auto w-full max-w-screen-xl"><div class="text-center p-6 pin-b">
-    <p class="text-sm text-tertiary-text"><a href="/">Home</a> | <a href="/about-me/">About me</a> | <a href="/contact-me/">Contact</a> | <a href="/copyright-and-disclaimer/">Copyright and disclaimer</a> | <a href="/privacy/">Privacy</a> | <a href="/other-websites/">Other websites</a><br> <i>Non-official</i> website on the French government<br> <a href="https://www.ECtHRwatch.org">European Court of Human Rights Watch</a>
+    <p class="text-sm text-tertiary-text"><a href="/">Home</a> | <a href="/about/">About</a> | <a href="/contact/">Contact</a> | <a href="/copyright-and-disclaimer/">Copyright and disclaimer</a> | <a href="/privacy/">Privacy</a> | <a href="/other-websites/">Other websites</a><br> LeGouvernement.com is <i>non-official</i> website on the French government.<br> <a href="https://www.ECtHRwatch.org">European Court of Human Rights Watch</a>
 </p>
 </div></div>
     </footer>
