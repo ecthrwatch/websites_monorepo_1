@@ -70,6 +70,8 @@
                 href="https://www.x-v-france.com/tags/"
                 />
   </url><url>
+    <loc>https://www.x-v-france.com/authors/vincent-b-le-corre/</loc>
+  </url><url>
     <loc>https://www.x-v-france.com/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,5 +88,7 @@
                 hreflang="en"
                 href="https://www.x-v-france.com/"
                 />
+  </url><url>
+    <loc>https://www.x-v-france.com/authors/x/</loc>
   </url>
 </urlset>
