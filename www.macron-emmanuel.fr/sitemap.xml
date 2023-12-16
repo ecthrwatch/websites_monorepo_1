@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.macron-emmanuel.fr/qui-suis-je/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/qui-suis-je/"
+                />
+  </url><url>
     <loc>https://www.macron-emmanuel.fr/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +36,54 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.macron-emmanuel.fr/categories/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/confidentialite/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/confidentialite/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/contactez-moi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/contact-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/contactez-moi/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/droits-d-auteur-et-avis-de-non-responsabilite/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/copyright-and-disclaimer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/droits-d-auteur-et-avis-de-non-responsabilite/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/</loc>

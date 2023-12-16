@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.macron-emmanuel.com/about-me/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/qui-suis-je/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/about-me/"
+                />
+  </url><url>
     <loc>https://www.macron-emmanuel.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -26,6 +38,30 @@
                 href="https://www.macron-emmanuel.com/categories/"
                 />
   </url><url>
+    <loc>https://www.macron-emmanuel.com/contact-me/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/contactez-moi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/contact-me/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/copyright-and-disclaimer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/droits-d-auteur-et-avis-de-non-responsabilite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/copyright-and-disclaimer/"
+                />
+  </url><url>
     <loc>https://www.macron-emmanuel.com/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +72,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.macron-emmanuel.com/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/open-letters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/confidentialite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/privacy/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.com/series/</loc>

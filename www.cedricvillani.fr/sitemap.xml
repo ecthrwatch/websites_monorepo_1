@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.cedricvillani.fr/qui-suis-je/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/qui-suis-je/"
+                />
+  </url><url>
     <loc>https://www.cedricvillani.fr/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +48,54 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.cedricvillani.fr/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.fr/confidentialite/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/confidentialite/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.fr/contactez-moi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/contact-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/contactez-moi/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.fr/droits-d-auteur-et-avis-de-non-responsabilite/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/copyright-and-disclaimer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/droits-d-auteur-et-avis-de-non-responsabilite/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.fr/lettres-ouvertes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/lettres-ouvertes/"
                 />
   </url><url>
     <loc>https://www.cedricvillani.fr/series/</loc>
