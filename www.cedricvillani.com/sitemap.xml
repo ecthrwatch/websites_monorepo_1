@@ -10,11 +10,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.cedricvillani.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.cedricvillani.com/authors/"
                 />
@@ -24,11 +19,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.cedricvillani.fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.cedricvillani.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,11 +34,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.cedricvillani.com/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.cedricvillani.com/"
                 />
@@ -61,11 +46,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.cedricvillani.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.cedricvillani.com/series/"
                 />
@@ -75,11 +55,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.cedricvillani.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.cedricvillani.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
