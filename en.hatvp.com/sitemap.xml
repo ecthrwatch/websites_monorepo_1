@@ -123,7 +123,27 @@
                 />
   </url><url>
     <loc>https://en.hatvp.com/authors/vincent-b-le-corre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hatvp.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.hatvp.com/authors/vincent-b-le-corre/"
+                />
   </url><url>
     <loc>https://en.hatvp.com/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hatvp.com/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.hatvp.com/authors/x/"
+                />
   </url>
 </urlset>

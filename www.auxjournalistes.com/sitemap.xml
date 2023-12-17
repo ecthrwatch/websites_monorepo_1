@@ -144,5 +144,29 @@
                 hreflang="fr"
                 href="https://www.auxjournalistes.com/series/"
                 />
+  </url><url>
+    <loc>https://www.auxjournalistes.com/authors/vincent-b-le-corre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.auxjournalistes.com/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/authors/x/"
+                />
   </url>
 </urlset>

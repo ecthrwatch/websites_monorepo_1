@@ -121,5 +121,29 @@
                 hreflang="fr"
                 href="https://fr.guido-raimondi.com/tags/"
                 />
+  </url><url>
+    <loc>https://fr.guido-raimondi.com/authors/vincent-b-le-corre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.guido-raimondi.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.guido-raimondi.com/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://fr.guido-raimondi.com/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.guido-raimondi.com/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.guido-raimondi.com/authors/x/"
+                />
   </url>
 </urlset>

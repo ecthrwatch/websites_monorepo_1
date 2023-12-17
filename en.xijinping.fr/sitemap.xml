@@ -122,7 +122,27 @@
                 />
   </url><url>
     <loc>https://en.xijinping.fr/authors/vincent-b-le-corre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/authors/vincent-b-le-corre/"
+                />
   </url><url>
     <loc>https://en.xijinping.fr/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/authors/x/"
+                />
   </url>
 </urlset>

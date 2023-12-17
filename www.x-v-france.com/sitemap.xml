@@ -71,6 +71,16 @@
                 />
   </url><url>
     <loc>https://www.x-v-france.com/authors/vincent-b-le-corre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.x-v-france.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.x-v-france.com/authors/vincent-b-le-corre/"
+                />
   </url><url>
     <loc>https://www.x-v-france.com/</loc>
     <xhtml:link
@@ -90,5 +100,15 @@
                 />
   </url><url>
     <loc>https://www.x-v-france.com/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.x-v-france.com/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.x-v-france.com/authors/x/"
+                />
   </url>
 </urlset>
