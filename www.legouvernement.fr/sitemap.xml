@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.legouvernement.fr/authors/</loc>
-    <lastmod>2023-12-17T21:30:00+08:00</lastmod>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/</loc>
-    <lastmod>2023-12-17T21:30:00+08:00</lastmod>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/lettres-ouvertes/</loc>
-    <lastmod>2023-12-17T21:30:00+08:00</lastmod>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/tags/</loc>
-    <lastmod>2023-12-17T21:30:00+08:00</lastmod>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-17T21:30:00+08:00</lastmod>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -91,6 +91,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/lettres-ouvertes/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/</loc>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/open-letters/2017-07-04_0142_0800_email_reply_from_strickler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/lettres-ouvertes/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/yves-strickler/</loc>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/yves-strickler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/yves-strickler/"
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/qui-suis-je/</loc>
