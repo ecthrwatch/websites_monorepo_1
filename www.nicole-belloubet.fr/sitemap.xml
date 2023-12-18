@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.nicole-belloubet.fr/authors/</loc>
-    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-18T12:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://www.nicole-belloubet.fr/lettres-ouvertes/</loc>
-    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-18T12:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://www.nicole-belloubet.fr/</loc>
-    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-18T12:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://www.nicole-belloubet.fr/tags/</loc>
-    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-18T12:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>https://www.nicole-belloubet.fr/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-18T12:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -91,6 +91,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.nicole-belloubet.fr/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.nicole-belloubet.fr/lettres-ouvertes/contrats-de-procedure-yves-strickler/</loc>
+    <lastmod>2023-12-18T12:14:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.nicole-belloubet.com/open-letters/law-professor-yves-strickler-confirms-french-judicial-system-invents-its-own-laws/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.nicole-belloubet.fr/lettres-ouvertes/contrats-de-procedure-yves-strickler/"
+                />
+  </url><url>
+    <loc>https://www.nicole-belloubet.fr/tags/yves-strickler/</loc>
+    <lastmod>2023-12-18T12:14:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.nicole-belloubet.com/tags/yves-strickler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.nicole-belloubet.fr/tags/yves-strickler/"
                 />
   </url><url>
     <loc>https://www.nicole-belloubet.fr/lettres-ouvertes/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/</loc>
@@ -104,19 +130,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.nicole-belloubet.fr/lettres-ouvertes/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/"
-                />
-  </url><url>
-    <loc>https://www.nicole-belloubet.fr/tags/yves-strickler/</loc>
-    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.nicole-belloubet.com/tags/yves-strickler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.nicole-belloubet.fr/tags/yves-strickler/"
                 />
   </url><url>
     <loc>https://www.nicole-belloubet.fr/qui-suis-je/</loc>
