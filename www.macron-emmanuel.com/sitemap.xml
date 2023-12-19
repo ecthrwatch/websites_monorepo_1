@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.macron-emmanuel.com/open-letters/1999_template_en/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-  </url><url>
     <loc>https://www.macron-emmanuel.com/authors/</loc>
     <lastmod>2023-12-19T17:57:00+08:00</lastmod>
     <xhtml:link
@@ -16,71 +13,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.macron-emmanuel.com/authors/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/tags/nicole-belloubet/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/tags/nicole-belloubet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/tags/nicole-belloubet/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/open-letters/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/open-letters/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/tags/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/tags/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.com/open-letters/crime-report-sent-to-macron-molins-belloubet-heitz-davo-2019-01-25/</loc>
@@ -135,6 +67,45 @@
                 href="https://www.macron-emmanuel.com/tags/h%C3%A9l%C3%A8ne-davo/"
                 />
   </url><url>
+    <loc>https://www.macron-emmanuel.com/</loc>
+    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/tags/nicole-belloubet/</loc>
+    <lastmod>2023-12-18T21:05:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/tags/nicole-belloubet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/tags/nicole-belloubet/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/open-letters/</loc>
+    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/"
+                />
+  </url><url>
     <loc>https://www.macron-emmanuel.com/tags/r%C3%A9my-heitz/</loc>
     <lastmod>2023-12-18T21:05:00+08:00</lastmod>
     <xhtml:link
@@ -146,6 +117,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.macron-emmanuel.com/tags/r%C3%A9my-heitz/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/tags/</loc>
+    <lastmod>2023-12-18T21:05:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/authors/vincent-b-le-corre/</loc>
+    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.com/open-letters/forgery-and-use-of-forged-documents-to-deny-my-appeal-against-mcdonalds-france-2018-10-23/</loc>

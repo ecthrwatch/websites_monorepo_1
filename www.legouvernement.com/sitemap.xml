@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.legouvernement.com/open-letters/1999_template_en/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <loc>https://www.legouvernement.com/tags/adam-rogalski/</loc>
+    <lastmod>2023-12-16T09:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/adam-rogalski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/adam-rogalski/"
+                />
   </url><url>
     <loc>https://www.legouvernement.com/authors/</loc>
     <lastmod>2023-12-19T17:57:00+08:00</lastmod>
@@ -16,84 +26,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.legouvernement.com/authors/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/nicole-belloubet/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/nicole-belloubet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/nicole-belloubet/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/open-letters/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/open-letters/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/adam-rogalski/</loc>
-    <lastmod>2023-12-16T09:30:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/adam-rogalski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/adam-rogalski/"
                 />
   </url><url>
     <loc>https://www.legouvernement.com/tags/bertrand-lortholary/</loc>
@@ -148,6 +80,19 @@
                 href="https://www.legouvernement.com/tags/guillaume-roy/"
                 />
   </url><url>
+    <loc>https://www.legouvernement.com/</loc>
+    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/"
+                />
+  </url><url>
     <loc>https://www.legouvernement.com/tags/merrick-garland/</loc>
     <lastmod>2023-12-16T09:30:00+08:00</lastmod>
     <xhtml:link
@@ -185,6 +130,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.legouvernement.com/open-letters/blackmail-open-letter-to-french-and-american-officials-2023-12-11/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/</loc>
+    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/</loc>
+    <lastmod>2023-12-18T21:05:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/authors/vincent-b-le-corre/</loc>
+    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.legouvernement.com/open-letters/crime-report-sent-to-macron-molins-belloubet-heitz-davo-2019-01-25/</loc>
@@ -237,6 +221,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.legouvernement.com/tags/h%C3%A9l%C3%A8ne-davo/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/nicole-belloubet/</loc>
+    <lastmod>2023-12-18T21:05:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/nicole-belloubet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/nicole-belloubet/"
                 />
   </url><url>
     <loc>https://www.legouvernement.com/tags/r%C3%A9my-heitz/</loc>

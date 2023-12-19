@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.cedricvillani.com/open-letters/1999_template_en/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-  </url><url>
     <loc>https://www.cedricvillani.com/authors/</loc>
     <lastmod>2023-12-19T17:57:00+08:00</lastmod>
     <xhtml:link
@@ -31,8 +28,18 @@
                 href="https://www.cedricvillani.com/"
                 />
   </url><url>
-    <loc>https://www.cedricvillani.com/tags/nicole-belloubet/</loc>
+    <loc>https://www.cedricvillani.com/open-letters/forgery-and-use-of-forged-documents-to-deny-my-appeal-against-mcdonalds-france-2018-10-23/</loc>
     <lastmod>2023-12-19T17:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/lettres-ouvertes/faux-et-usage-de-faux-dans-laffaire-mcdonalds-2018-10-23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/open-letters/forgery-and-use-of-forged-documents-to-deny-my-appeal-against-mcdonalds-france-2018-10-23/"
+                />
   </url><url>
     <loc>https://www.cedricvillani.com/open-letters/</loc>
     <lastmod>2023-12-19T17:57:00+08:00</lastmod>
@@ -47,19 +54,6 @@
                 href="https://www.cedricvillani.com/open-letters/"
                 />
   </url><url>
-    <loc>https://www.cedricvillani.com/tags/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.cedricvillani.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.cedricvillani.com/tags/"
-                />
-  </url><url>
     <loc>https://www.cedricvillani.com/authors/vincent-b-le-corre/</loc>
     <lastmod>2023-12-19T17:57:00+08:00</lastmod>
     <xhtml:link
@@ -71,19 +65,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.cedricvillani.com/authors/vincent-b-le-corre/"
-                />
-  </url><url>
-    <loc>https://www.cedricvillani.com/open-letters/forgery-and-use-of-forged-documents-to-deny-my-appeal-against-mcdonalds-france-2018-10-23/</loc>
-    <lastmod>2023-12-19T17:57:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.cedricvillani.fr/lettres-ouvertes/faux-et-usage-de-faux-dans-laffaire-mcdonalds-2018-10-23/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.cedricvillani.com/open-letters/forgery-and-use-of-forged-documents-to-deny-my-appeal-against-mcdonalds-france-2018-10-23/"
                 />
   </url><url>
     <loc>https://www.cedricvillani.com/about-me/</loc>
@@ -156,6 +137,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.cedricvillani.com/series/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/tags/"
                 />
   </url><url>
     <loc>https://www.cedricvillani.com/authors/x/</loc>
