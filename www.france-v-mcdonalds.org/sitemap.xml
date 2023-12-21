@@ -2,6 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.france-v-mcdonalds.org/tags/adam-rogalski/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/authors/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.france-v-mcdonalds.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.france-v-mcdonalds.org/authors/"
+                />
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/edward-lehman/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/federal-bureau-of-investigation/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.france-v-mcdonalds.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.france-v-mcdonalds.org/"
+                />
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/open-letters/fbi-i-want-to-help-you-understand-one-of-the-biggest-frauds-in-history/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/open-letters/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.france-v-mcdonalds.org/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.france-v-mcdonalds.org/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.france-v-mcdonalds.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.france-v-mcdonalds.org/tags/"
+                />
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/authors/vincent-b-le-corre/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.france-v-mcdonalds.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.france-v-mcdonalds.org/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/open-letters/email-sent-to-fbi-3-examples-of-aggravated-frauds-by-mcdonalds/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/fbi/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/mahonri-manjarrez/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/mcdonalds-corporation/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/mcdonalds-france/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.france-v-mcdonalds.org/tags/united-states-department-of-state/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.france-v-mcdonalds.org/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +107,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.france-v-mcdonalds.org/about/"
-                />
-  </url><url>
-    <loc>https://www.france-v-mcdonalds.org/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.france-v-mcdonalds.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.france-v-mcdonalds.org/authors/"
                 />
   </url><url>
     <loc>https://www.france-v-mcdonalds.org/categories/</loc>
@@ -62,30 +145,6 @@
                 href="https://www.france-v-mcdonalds.org/copyright-and-disclaimer/"
                 />
   </url><url>
-    <loc>https://www.france-v-mcdonalds.org/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.france-v-mcdonalds.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.france-v-mcdonalds.org/"
-                />
-  </url><url>
-    <loc>https://www.france-v-mcdonalds.org/open-letters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.france-v-mcdonalds.org/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.france-v-mcdonalds.org/open-letters/"
-                />
-  </url><url>
     <loc>https://www.france-v-mcdonalds.org/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -108,30 +167,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.france-v-mcdonalds.org/series/"
-                />
-  </url><url>
-    <loc>https://www.france-v-mcdonalds.org/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.france-v-mcdonalds.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.france-v-mcdonalds.org/tags/"
-                />
-  </url><url>
-    <loc>https://www.france-v-mcdonalds.org/authors/vincent-b-le-corre/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.france-v-mcdonalds.org/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.france-v-mcdonalds.org/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.france-v-mcdonalds.org/authors/x/</loc>
