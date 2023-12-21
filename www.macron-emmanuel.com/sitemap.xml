@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.macron-emmanuel.com/tags/adam-rogalski/</loc>
-    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/tags/adam-rogalski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/tags/adam-rogalski/"
-                />
-  </url><url>
     <loc>https://www.macron-emmanuel.com/authors/</loc>
     <lastmod>2023-12-21T14:07:00+08:00</lastmod>
     <xhtml:link
@@ -28,14 +15,18 @@
                 href="https://www.macron-emmanuel.com/authors/"
                 />
   </url><url>
-    <loc>https://www.macron-emmanuel.com/tags/edward-lehman/</loc>
+    <loc>https://www.macron-emmanuel.com/open-letters/happy-birthday-mr-president/</loc>
     <lastmod>2023-12-21T12:36:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/tags/federal-bureau-of-investigation/</loc>
-    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/open-letters/fbi-i-want-to-help-you-understand-one-of-the-biggest-frauds-in-history/</loc>
-    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/joyeux-anniversaire-monsieur-le-president/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/happy-birthday-mr-president/"
+                />
   </url><url>
     <loc>https://www.macron-emmanuel.com/</loc>
     <lastmod>2023-12-21T14:07:00+08:00</lastmod>
@@ -63,19 +54,6 @@
                 href="https://www.macron-emmanuel.com/open-letters/"
                 />
   </url><url>
-    <loc>https://www.macron-emmanuel.com/tags/</loc>
-    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/tags/"
-                />
-  </url><url>
     <loc>https://www.macron-emmanuel.com/authors/vincent-b-le-corre/</loc>
     <lastmod>2023-12-21T14:07:00+08:00</lastmod>
     <xhtml:link
@@ -87,6 +65,41 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.macron-emmanuel.com/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/tags/adam-rogalski/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/tags/adam-rogalski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/tags/adam-rogalski/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/tags/edward-lehman/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/tags/federal-bureau-of-investigation/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/open-letters/fbi-i-want-to-help-you-understand-one-of-the-biggest-frauds-in-history/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/tags/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/tags/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.com/open-letters/email-sent-to-fbi-3-examples-of-aggravated-frauds-by-mcdonalds/</loc>

@@ -2,6 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.macron-emmanuel.fr/authors/</loc>
+    <lastmod>2023-12-22T02:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/authors/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/joyeux-anniversaire-monsieur-le-president/</loc>
+    <lastmod>2023-12-22T02:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/happy-birthday-mr-president/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/joyeux-anniversaire-monsieur-le-president/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/</loc>
+    <lastmod>2023-12-22T02:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/</loc>
+    <lastmod>2023-12-22T02:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/</loc>
+    <lastmod>2023-12-22T02:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/"
+                />
+  </url><url>
     <loc>https://www.macron-emmanuel.fr/tags/adam-rogalski/</loc>
     <lastmod>2023-12-18T21:00:00+08:00</lastmod>
     <xhtml:link
@@ -13,19 +78,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.macron-emmanuel.fr/tags/adam-rogalski/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.fr/authors/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/authors/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/tags/bertrand-lortholary/</loc>
@@ -42,32 +94,6 @@
   </url><url>
     <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/lettre-ouverte-suis-je-victime-de-chantage-2023-12-11/</loc>
     <lastmod>2023-12-18T21:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/open-letters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.fr/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/"
-                />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/tags/merrick-garland/</loc>
     <lastmod>2023-12-18T21:00:00+08:00</lastmod>
@@ -86,19 +112,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.macron-emmanuel.fr/tags/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/denonciation-de-crimes-macron-molins-belloubet-heitz-davo-2019-01-25/</loc>
