@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.tojournalists.com/authors/</loc>
-    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -24,7 +24,7 @@
     <lastmod>2022-09-16T11:07:00+08:00</lastmod>
   </url><url>
     <loc>https://www.tojournalists.com/open-letters/</loc>
-    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -45,7 +45,7 @@
     <lastmod>2022-06-20T09:30:00+08:00</lastmod>
   </url><url>
     <loc>https://www.tojournalists.com/tags/</loc>
-    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -63,10 +63,10 @@
                 />
   </url><url>
     <loc>https://www.tojournalists.com/tags/the-new-york-times/</loc>
-    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
   </url><url>
     <loc>https://www.tojournalists.com/</loc>
-    <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -121,10 +121,23 @@
     <lastmod>2022-09-16T11:07:00+08:00</lastmod>
   </url><url>
     <loc>https://www.tojournalists.com/open-letters/2020-12-10_email_from_kevin_granville/</loc>
-    <lastmod>2022-06-23T22:02:00+08:00</lastmod>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
   </url><url>
     <loc>https://www.tojournalists.com/tags/kevin-granville/</loc>
-    <lastmod>2022-06-23T22:02:00+08:00</lastmod>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.tojournalists.com/authors/vincent-b-le-corre/</loc>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/vincent-b-le-corre/"
+                />
   </url><url>
     <loc>https://www.tojournalists.com/open-letters/2020-12-09_email_to_kevin_granville/</loc>
     <lastmod>2022-04-28T20:15:00+08:00</lastmod>
@@ -183,18 +196,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.tojournalists.com/series/"
-                />
-  </url><url>
-    <loc>https://www.tojournalists.com/authors/vincent-b-le-corre/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/authors/vincent-b-le-corre/"
                 />
   </url>
 </urlset>
