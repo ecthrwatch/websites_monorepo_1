@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.cedricvillani.com/open-letters/2019-09-27_answer_from_french_anticorruption_association_anticor/</loc>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.cedricvillani.com/tags/anticor/</loc>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.cedricvillani.com/authors/</loc>
-    <lastmod>2023-12-22T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +22,7 @@
                 />
   </url><url>
     <loc>https://www.cedricvillani.com/</loc>
-    <lastmod>2023-12-22T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -27,6 +33,60 @@
                 hreflang="en"
                 href="https://www.cedricvillani.com/"
                 />
+  </url><url>
+    <loc>https://www.cedricvillani.com/open-letters/</loc>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.com/tags/</loc>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.com/authors/vincent-b-le-corre/</loc>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.cedricvillani.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.cedricvillani.com/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.cedricvillani.com/tags/board-of-directors/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.cedricvillani.com/tags/ceo/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.cedricvillani.com/open-letters/email-to-steve-easterbrook-and-board-of-directors-of-mcdonalds-corporation/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.cedricvillani.com/tags/mcdonalds-corporation/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.cedricvillani.com/tags/steve-easterbrook/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
   </url><url>
     <loc>https://www.cedricvillani.com/open-letters/crime-report-sent-to-macron-molins-belloubet-heitz-davo-2019-01-25/</loc>
     <lastmod>2023-12-18T21:05:00+08:00</lastmod>
@@ -43,47 +103,8 @@
     <loc>https://www.cedricvillani.com/tags/nicole-belloubet/</loc>
     <lastmod>2023-12-18T21:05:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.cedricvillani.com/open-letters/</loc>
-    <lastmod>2023-12-22T10:55:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.cedricvillani.fr/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.cedricvillani.com/open-letters/"
-                />
-  </url><url>
     <loc>https://www.cedricvillani.com/tags/r%C3%A9my-heitz/</loc>
     <lastmod>2023-12-18T21:05:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.cedricvillani.com/tags/</loc>
-    <lastmod>2023-12-22T10:55:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.cedricvillani.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.cedricvillani.com/tags/"
-                />
-  </url><url>
-    <loc>https://www.cedricvillani.com/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-22T10:55:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.cedricvillani.fr/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.cedricvillani.com/authors/vincent-b-le-corre/"
-                />
   </url><url>
     <loc>https://www.cedricvillani.com/tags/hunger-strike/</loc>
     <lastmod>2023-02-13T21:03:00+08:00</lastmod>
