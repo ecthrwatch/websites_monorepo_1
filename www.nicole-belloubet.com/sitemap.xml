@@ -157,19 +157,6 @@
     <loc>https://www.nicole-belloubet.com/open-letters/2019-01-04_1957_0800_email_from_strickler/</loc>
     <lastmod>2023-02-13T21:03:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.nicole-belloubet.com/authors/x/</loc>
-    <lastmod>2023-02-13T21:03:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.nicole-belloubet.fr/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.nicole-belloubet.com/authors/x/"
-                />
-  </url><url>
     <loc>https://www.nicole-belloubet.com/tags/yves-strickler/</loc>
     <lastmod>2023-12-22T10:55:00+08:00</lastmod>
     <xhtml:link
@@ -344,6 +331,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.nicole-belloubet.com/series/"
+                />
+  </url><url>
+    <loc>https://www.nicole-belloubet.com/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.nicole-belloubet.fr/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.nicole-belloubet.com/authors/x/"
                 />
   </url>
 </urlset>
