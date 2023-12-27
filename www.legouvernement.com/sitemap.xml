@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.legouvernement.com/authors/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,8 +15,11 @@
                 href="https://www.legouvernement.com/authors/"
                 />
   </url><url>
+    <loc>https://www.legouvernement.com/open-letters/happy-birthday-mr-president/</loc>
+    <lastmod>2023-12-22T02:29:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.legouvernement.com/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -26,6 +29,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.legouvernement.com/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/</loc>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/authors/vincent-b-le-corre/</loc>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.legouvernement.com/tags/nicholas-burns/</loc>
@@ -44,21 +73,8 @@
     <loc>https://www.legouvernement.com/open-letters/open-letter-to-ambassador-nicholas-burns-2023-12-11/</loc>
     <lastmod>2023-12-18T09:28:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.legouvernement.com/open-letters/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/open-letters/"
-                />
-  </url><url>
     <loc>https://www.legouvernement.com/tags/</loc>
-    <lastmod>2023-12-20T01:17:00+08:00</lastmod>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -70,21 +86,8 @@
                 href="https://www.legouvernement.com/tags/"
                 />
   </url><url>
-    <loc>https://www.legouvernement.com/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
-                />
-  </url><url>
     <loc>https://www.legouvernement.com/tags/adam-rogalski/</loc>
-    <lastmod>2023-12-16T09:30:00+08:00</lastmod>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -97,7 +100,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.com/tags/bertrand-lortholary/</loc>
-    <lastmod>2023-12-16T09:30:00+08:00</lastmod>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -110,7 +113,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.com/tags/blackmail/</loc>
-    <lastmod>2023-12-16T09:30:00+08:00</lastmod>
+    <lastmod>2023-12-22T21:59:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -174,54 +177,353 @@
                 href="https://www.legouvernement.com/open-letters/blackmail-open-letter-to-french-and-american-officials-2023-12-11/"
                 />
   </url><url>
-    <loc>https://www.legouvernement.com/tags/aggravated-fraud/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <loc>https://www.legouvernement.com/tags/christianity/</loc>
+    <lastmod>2023-12-22T19:32:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.legouvernement.com/tags/china/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <loc>https://www.legouvernement.com/tags/desiree-ralls-morrison/</loc>
+    <lastmod>2023-12-22T19:32:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.legouvernement.com/open-letters/email-sent-to-the-fbi-regarding-xi-jinping-and-li-keqiang-websites/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <loc>https://www.legouvernement.com/tags/mcdonalds-corporation/</loc>
+    <lastmod>2023-12-24T23:19:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/desiree-ralls-morrison-christian-faith-and-corporate-fraud-2023-11-16/</loc>
+    <lastmod>2023-12-22T19:32:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/ambassador-lortholary-please-dont-betray-france-your-country/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/donald-alway/</loc>
+    <lastmod>2023-05-31T21:42:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/tags/fbi/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <lastmod>2023-12-22T21:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/donald-alway-fbi-los-angeles-first-introduction-to-mcdonalds-frauds-and-lebron-james-2023-05-31/</loc>
+    <lastmod>2023-05-31T21:42:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/tags/federal-bureau-of-investigation/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.legouvernement.com/tags/li-keqiang/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/mahonri-manjarrez/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/mcdonalds/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <loc>https://www.legouvernement.com/tags/lebron-james/</loc>
+    <lastmod>2023-05-31T21:42:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/tags/money-laundering/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.legouvernement.com/tags/sweepstakes-fraud/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <loc>https://www.legouvernement.com/tags/rico/</loc>
+    <lastmod>2023-12-22T19:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/donald-alway-fbi-los-angeles-notified-first-time-about-millions-of-american-victims-2023-05-29/</loc>
+    <lastmod>2023-05-29T08:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/ceo/</loc>
+    <lastmod>2023-12-22T19:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/chief-executive-officer/</loc>
+    <lastmod>2023-12-22T19:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/chris-kempczinski/</loc>
+    <lastmod>2023-12-22T19:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/chris-kempczinski-asked-if-kevin-ozan-departure-is-related-to-the-criminal-rico-case-targeting-mcdonalds-corporation/</loc>
+    <lastmod>2023-12-22T19:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/kevin-ozan/</loc>
+    <lastmod>2023-12-22T19:31:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/tags/united-states-department-of-state/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+    <lastmod>2023-12-22T21:59:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.legouvernement.com/authors/x/</loc>
-    <lastmod>2022-03-14T18:37:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/authors/x/"
-                />
+    <loc>https://www.legouvernement.com/tags/carine-smith-ihenacho/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/dag-huse/</loc>
+    <lastmod>2023-05-02T15:29:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/ida-wolden-bache/</loc>
+    <lastmod>2023-05-02T15:29:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/nicolai-tangen/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/nicolai-tangen-and-nbim-executives-asked-who-is-nbim-anti-money-laundering-officer-2023-05-02/</loc>
+    <lastmod>2023-05-02T15:29:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/norges-bank-investment-management/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/trond-grande/</loc>
+    <lastmod>2023-05-02T15:29:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/brad-cetron/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/daniel-tracer/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/jarrad-smith/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/nicolai-tangen-given-one-example-of-fraud-committed-by-mcdonalds-2023-04-11/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mahonri-manjarrez/</loc>
+    <lastmod>2023-12-22T21:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/neuberger-berman/</loc>
+    <lastmod>2023-12-22T19:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/trond-grande-and-dag-huse-asked-about-carine-smith-ihenacho-email-address-2023-04-06/</loc>
+    <lastmod>2023-04-06T23:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/board-of-directors/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/kempczinski-and-ralls-morrison-asked-about-mcdonalds-board-of-directors-contact-information-2023-03-16/</loc>
+    <lastmod>2023-03-23T23:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/board-of-directors-of-mcdonalds-corporation/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/denise-bauer/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/george-walker/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/henry-rosenberg/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/ceo-george-walker-neuberger-berman-notified-mcdonalds-corporation-money-laundering-2023-03-16/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/stephen-iwan/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/u.s.-department-of-state/</loc>
+    <lastmod>2023-03-23T19:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-to-adam-rogalski-and-mahonri-manjarrez-2023-02-15/</loc>
+    <lastmod>2023-02-15T23:33:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/fbi-victim-services/</loc>
+    <lastmod>2023-02-15T09:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/fbi-hangs-up-on-a-victim-and-a-key-witness-2023-02-15/</loc>
+    <lastmod>2023-02-15T09:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/edward-lehman/</loc>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/inquiry-legat-office-communication-status/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/exposing-mcdonalds-1-in-4-frauds-through-binomial-distribution-statistical-analysis/</loc>
+    <lastmod>2023-12-25T11:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/explanation-to-the-fbi-simple-probability-vs-binomial-distribution-probability/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/securities-and-exchange-commission/</loc>
+    <lastmod>2023-12-26T17:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/tina-churchman/</loc>
+    <lastmod>2023-12-26T17:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-to-sec-tina-churchman-requesting-an-update-foia-fopa-2023-02-08/</loc>
+    <lastmod>2023-12-26T17:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/mr-lehman-could-you-please-contact-mr-rogalski-state-department-fbi-2023-02-07/</loc>
+    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/addressing-money-laundering-mcdonalds-case/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/fbi-explanation-analysis-mcdonalds-france-fraudulent-probability-claims/</loc>
+    <lastmod>2023-12-25T13:08:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/60-million-consumers-addressing-the-scale-of-mcdonalds-crimes-and-financial-misconduct/</loc>
+    <lastmod>2023-12-27T09:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/fbi-i-want-to-help-you-understand-one-of-the-biggest-frauds-in-history/</loc>
+    <lastmod>2023-12-22T12:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/mcdonalds-promotion-real-probabilities-explained-to-the-fbi/</loc>
+    <lastmod>2023-12-25T12:34:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/fbi-explained-differences-between-probability-of-scenario-happening-vs-bernoulli-trials-vs-binomial-distributions/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/fbi-explanation-set-theory-element-vs-set/</loc>
+    <lastmod>2023-12-25T12:09:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-to-the-fbi-asking-if-mcdonalds-is-too-big-to-fail/</loc>
+    <lastmod>2023-12-27T07:51:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/asserting-my-innocence-amidst-legal-challenges/</loc>
+    <lastmod>2023-12-27T07:40:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/interpol/</loc>
+    <lastmod>2023-12-27T08:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/explaining-the-fbi-mcdonalds-instant-win-fraud-analysis-2023-02-02/</loc>
+    <lastmod>2023-12-27T08:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/fbi-exposing-mcdonalds-frauds-armstrong-comparison-2023-01-30/</loc>
+    <lastmod>2023-12-24T23:19:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/exposing-fraud-did-the-mcdonalds-monopoly-sweepstakes-constitute-an-illegal-lottery/</loc>
+    <lastmod>2023-12-27T07:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/seeking-assistance-in-rico-case-appeal-to-fbi/</loc>
+    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-to-mahonri-manjarrez-2023-01-27/</loc>
+    <lastmod>2023-01-28T03:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/assistant-legal-attach%C3%A9/</loc>
+    <lastmod>2023-01-23T20:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-to-adam-rogalski-mcdonalds-corp-rico-pora-fcpa-2023-01-20/</loc>
+    <lastmod>2023-01-23T20:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2022-12-31-email-to-nicholas-burns-us-ambassador-to-china/</loc>
+    <lastmod>2022-12-31T01:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/legal-attach%C3%A9/</loc>
+    <lastmod>2022-12-31T01:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/united-states-ambassador-to-china/</loc>
+    <lastmod>2022-12-31T01:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/european-court-of-human-rights/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/ecthr-request-for-anonymity-mcdonalds-rico-case-2022-11-01/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/request-for-interim-measures/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/robert-spano/</loc>
+    <lastmod>2023-03-24T22:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/ecthr-request-for-interim-measures-mcdonalds-rico-case-2022-10-31/</loc>
+    <lastmod>2023-03-24T18:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2-page-only-statement-of-facts-mcdonalds-pattern-of-racketeering-activity/</loc>
+    <lastmod>2023-01-21T21:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/gloria-santona/</loc>
+    <lastmod>2023-12-22T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/pattern-of-racketeering-activity/</loc>
+    <lastmod>2023-12-22T14:39:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/statement-of-facts/</loc>
+    <lastmod>2023-01-21T21:52:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/steve-easterbrook/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/constant-m%C3%A9heut/</loc>
+    <lastmod>2023-12-24T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/new-york-times-journalist-constant-meheut-understands-the-1-chance-out-of-4-fraud/</loc>
+    <lastmod>2022-06-20T09:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/the-new-york-times/</loc>
+    <lastmod>2023-12-24T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/1-chance-out-of-4/</loc>
+    <lastmod>2023-12-24T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/explanations-sent-to-constant-meheut-may-25-2022/</loc>
+    <lastmod>2023-12-24T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mcdonalds-monopoly-fraud/</loc>
+    <lastmod>2023-12-24T13:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2022-05-12-email-to-fbi-cc-us-ambassadors-to-france-and-to-china/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/united-states-ambassador-to-france/</loc>
+    <lastmod>2022-05-16T18:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/whistle-blower-asking-the-fbi-if-they-received-and-kept-the-2015-emails/</loc>
+    <lastmod>2022-04-21T17:42:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-sent-to-fbi-3-examples-of-aggravated-frauds-by-mcdonalds/</loc>
+    <lastmod>2023-12-21T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mcdonalds-france/</loc>
+    <lastmod>2023-12-22T15:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/aggravated-fraud/</loc>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/china/</loc>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-sent-to-the-fbi-regarding-xi-jinping-and-li-keqiang-websites/</loc>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/li-keqiang/</loc>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mcdonalds/</loc>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/sweepstakes-fraud/</loc>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/tags/xi-jinping/</loc>
+    <lastmod>2023-12-22T21:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-sent-to-fbi-resuming-explanations-of-mcdonalds-frauds/</loc>
     <lastmod>2022-03-14T18:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2021-10-05_i_send_the_fbi_scans_of_my_id_cards_to_identify_myself/</loc>
+    <lastmod>2023-12-22T21:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/totranslate/</loc>
+    <lastmod>2023-12-22T21:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2021-09-20-adam-rogalski-assistant-legal-attache-first-email/</loc>
+    <lastmod>2022-04-30T22:01:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2021-09-08-email-received-from-mahonri-manjarrez-fbi-field-office-us-embassy-in-france/</loc>
+    <lastmod>2023-12-22T20:19:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2020-12-10_email_from_kevin_granville/</loc>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/kevin-granville/</loc>
+    <lastmod>2023-12-23T00:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2020-12-09_email_to_kevin_granville/</loc>
+    <lastmod>2022-04-28T20:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/global-compliance-office/</loc>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/organized-crime/</loc>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2019-11-19-reply-from-mcdonalds-global-compliance-office/</loc>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2019-11-18-email-to-mcdonalds-global-compliance-office/</loc>
+    <lastmod>2022-09-22T11:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2019-09-27_answer_from_french_anticorruption_association_anticor/</loc>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/anticor/</loc>
+    <lastmod>2023-12-22T16:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-to-steve-easterbrook-and-board-of-directors-of-mcdonalds-corporation/</loc>
+    <lastmod>2023-12-22T16:41:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/open-letters/crime-report-sent-to-macron-molins-belloubet-heitz-davo-2019-01-25/</loc>
     <lastmod>2023-12-18T21:05:00+08:00</lastmod>
@@ -301,6 +603,25 @@
                 href="https://www.legouvernement.com/tags/r%C3%A9my-heitz/"
                 />
   </url><url>
+    <loc>https://www.legouvernement.com/tags/hunger-strike/</loc>
+    <lastmod>2023-02-13T21:03:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2019-01-04_1957_0800_email_from_strickler/</loc>
+    <lastmod>2023-02-13T21:03:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/yves-strickler/</loc>
+    <lastmod>2023-12-22T10:55:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/yves-strickler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/yves-strickler/"
+                />
+  </url><url>
     <loc>https://www.legouvernement.com/open-letters/french-minister-of-justice-nicole-belloubet-notified-of-forgery-in-the-mcdonalds-case-2018-10-23/</loc>
     <lastmod>2023-12-19T17:57:00+08:00</lastmod>
     <xhtml:link
@@ -366,19 +687,6 @@
                 href="https://www.legouvernement.com/open-letters/law-professor-yves-strickler-explains-article-432-1-of-the-french-criminal-code/"
                 />
   </url><url>
-    <loc>https://www.legouvernement.com/tags/yves-strickler/</loc>
-    <lastmod>2023-12-20T01:17:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/yves-strickler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/yves-strickler/"
-                />
-  </url><url>
     <loc>https://www.legouvernement.com/open-letters/law-professor-yves-strickler-confirms-french-judicial-system-invents-its-own-laws/</loc>
     <lastmod>2023-12-18T12:14:00+08:00</lastmod>
     <xhtml:link
@@ -393,7 +701,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.com/open-letters/2017-07-04_0142_0800_email_reply_from_strickler/</loc>
-    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <lastmod>2023-12-22T10:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -404,6 +712,171 @@
                 hreflang="en"
                 href="https://www.legouvernement.com/open-letters/2017-07-04_0142_0800_email_reply_from_strickler/"
                 />
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/deborah-wahl/</loc>
+    <lastmod>2023-12-22T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2017-02-14-formal-notice-to-mcdonalds-executives-monopoly-sweepstakes-is-illegal/</loc>
+    <lastmod>2023-12-22T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mcdonalds-monopoly/</loc>
+    <lastmod>2023-12-22T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mcdonalds-usa/</loc>
+    <lastmod>2023-12-22T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/silvia-lagnado/</loc>
+    <lastmod>2023-12-22T14:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/defamation/</loc>
+    <lastmod>2023-12-22T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/malcolm-hicks/</loc>
+    <lastmod>2023-12-22T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/notification-to-mcdonalds-corporation-about-a-criminal-complaint-for-defamation/</loc>
+    <lastmod>2023-12-22T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/debbie-schroeder/</loc>
+    <lastmod>2023-12-22T16:22:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/reply-from-debbie-schroeder-investors-relations-mcdonalds-corporation-2015-12-30/</loc>
+    <lastmod>2023-12-22T16:22:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/corruption/</loc>
+    <lastmod>2022-05-29T18:21:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/fcpa/</loc>
+    <lastmod>2022-05-29T18:21:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/foreign-corrupt-practices-act/</loc>
+    <lastmod>2022-05-29T18:21:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/transcript-phone-call-2015-12-23-fbi-chicago-field-office/</loc>
+    <lastmod>2022-05-29T18:21:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2015-12-18-fbi-chicago-intake-unit-answers-the-victim/</loc>
+    <lastmod>2023-12-22T16:02:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/first-email-sent-to-fbi-on-2015-12-16-mcdonalds-frauds-in-europe/</loc>
+    <lastmod>2023-12-22T15:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/please-stop-the-fraud/</loc>
+    <lastmod>2023-12-22T14:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/%C3%A9ric-andrieu/</loc>
+    <lastmod>2023-12-22T14:56:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-from-eric-andrieu-pechenard-associes-law-firm/</loc>
+    <lastmod>2023-12-22T14:56:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/p%C3%A9chenard-associe%CC%81s/</loc>
+    <lastmod>2023-12-22T14:56:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/todo/</loc>
+    <lastmod>2023-12-22T14:56:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/corporate-vice-president/</loc>
+    <lastmod>2023-12-22T13:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2015-10-23_email_received_from_malcolm_hicks_mcdonalds_corporate_vice_president/</loc>
+    <lastmod>2023-12-22T13:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mcdonalds-europe/</loc>
+    <lastmod>2023-12-22T13:57:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2015-10-22_1106_0800_additional_frauds_email_to_santona_cc_easterbrook/</loc>
+    <lastmod>2023-12-22T14:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/general-counsel/</loc>
+    <lastmod>2023-12-22T14:41:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/redacted-for-readability/</loc>
+    <lastmod>2023-12-22T14:39:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/mcdonalds-general-counsel-confirms-taking-inquiry-seriously-2015-10-21/</loc>
+    <lastmod>2023-12-22T13:51:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2015-10-21_2245_0800_email_to_gloria_santona_and_steve_easterbrook_requesting_an_answer/</loc>
+    <lastmod>2023-12-22T14:39:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2015-10-21_1420_0800_email_to_gloria_santona_and_steve_easterbrook_and_us_and_fr_executives/</loc>
+    <lastmod>2023-12-22T12:27:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/robert-gibbs/</loc>
+    <lastmod>2023-12-22T14:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2015-10-21_1233_0800_email_to_mcdonalds_executives_accessory_after_the_facts/</loc>
+    <lastmod>2023-12-22T14:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/mcdonalds-executives-formally-notified-of-ongoing-serious-frauds-in-europe/</loc>
+    <lastmod>2023-12-22T14:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/jim-sappington/</loc>
+    <lastmod>2023-12-22T14:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/mike-andres/</loc>
+    <lastmod>2023-12-22T14:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/nawfal-trabelsi/</loc>
+    <lastmod>2023-12-22T14:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/pora/</loc>
+    <lastmod>2023-12-22T14:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/racketeer-influenced-and-corrupt-organizations-act/</loc>
+    <lastmod>2023-12-22T14:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/2015-10-20_0313_0800_fraud_of_the_century/</loc>
+    <lastmod>2023-12-22T14:32:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/i-sold-my-soul-to-mcdonalds/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/crucial-evidence/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/foreign-corrupt-practices-act-fcpa/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/i-sold-my-sould-to-mcdonalds/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/jean-pierre-petit/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/key-point/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/no-plausible-deniability/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/to-improve/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/to-translate/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/updating/</loc>
+    <lastmod>2023-12-22T13:54:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/certified-mail/</loc>
+    <lastmod>2023-12-22T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/fran%C3%A7oise-de-borda/</loc>
+    <lastmod>2023-12-22T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/reply-from-francoise-de-borda-general-counsel-mcdonalds-france/</loc>
+    <lastmod>2023-12-22T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/lettre-lrar/</loc>
+    <lastmod>2023-12-22T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/mcdonalds-corporation-v-simons-marketing-2002-09-16/</loc>
+    <lastmod>2023-12-22T14:29:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/simon-marketing/</loc>
+    <lastmod>2023-12-22T14:29:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/about/</loc>
     <xhtml:link
@@ -475,6 +948,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.legouvernement.com/series/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/authors/x/"
                 />
   </url>
 </urlset>
