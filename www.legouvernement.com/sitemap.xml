@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.legouvernement.com/authors/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -19,7 +19,7 @@
     <lastmod>2023-12-22T02:29:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -32,7 +32,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.com/open-letters/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.com/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -55,44 +55,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/adam-rogalski/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/adam-rogalski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/adam-rogalski/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/edward-lehman/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/federal-bureau-of-investigation/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.legouvernement.com/open-letters/foia-fopa-requesting-transparency-information-fbi-2023-02-08/</loc>
-    <lastmod>2023-12-21T12:36:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/mahonri-manjarrez/</loc>
-    <lastmod>2023-12-22T21:59:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/</loc>
-    <lastmod>2023-12-27T10:36:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/"
                 />
   </url><url>
     <loc>https://www.legouvernement.com/tags/nicholas-burns/</loc>
@@ -110,6 +72,32 @@
   </url><url>
     <loc>https://www.legouvernement.com/open-letters/open-letter-to-ambassador-nicholas-burns-2023-12-11/</loc>
     <lastmod>2023-12-18T09:28:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/</loc>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/adam-rogalski/</loc>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/adam-rogalski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/adam-rogalski/"
+                />
   </url><url>
     <loc>https://www.legouvernement.com/tags/bertrand-lortholary/</loc>
     <lastmod>2023-12-21T12:36:00+08:00</lastmod>
@@ -213,6 +201,9 @@
     <loc>https://www.legouvernement.com/open-letters/donald-alway-fbi-los-angeles-first-introduction-to-mcdonalds-frauds-and-lebron-james-2023-05-31/</loc>
     <lastmod>2023-05-31T21:42:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.legouvernement.com/tags/federal-bureau-of-investigation/</loc>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.legouvernement.com/tags/lebron-james/</loc>
     <lastmod>2023-05-31T21:42:00+08:00</lastmod>
   </url><url>
@@ -276,6 +267,9 @@
     <loc>https://www.legouvernement.com/open-letters/nicolai-tangen-given-one-example-of-fraud-committed-by-mcdonalds-2023-04-11/</loc>
     <lastmod>2023-12-22T19:27:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.legouvernement.com/tags/mahonri-manjarrez/</loc>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.legouvernement.com/tags/neuberger-berman/</loc>
     <lastmod>2023-12-22T19:27:00+08:00</lastmod>
   </url><url>
@@ -318,6 +312,9 @@
     <loc>https://www.legouvernement.com/open-letters/fbi-hangs-up-on-a-victim-and-a-key-witness-2023-02-15/</loc>
     <lastmod>2023-02-15T09:44:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.legouvernement.com/tags/edward-lehman/</loc>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.legouvernement.com/open-letters/inquiry-legat-office-communication-status/</loc>
     <lastmod>2023-12-21T12:36:00+08:00</lastmod>
   </url><url>
@@ -329,6 +326,9 @@
   </url><url>
     <loc>https://www.legouvernement.com/open-letters/navigating-bureaucratic-challenges-sec-case-2023-02-08/</loc>
     <lastmod>2023-12-21T12:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/foia-fopa-requesting-transparency-information-fbi-2023-02-08/</loc>
+    <lastmod>2023-12-27T22:47:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/tags/securities-and-exchange-commission/</loc>
     <lastmod>2023-12-26T17:52:00+08:00</lastmod>
