@@ -140,7 +140,7 @@ a:active {
 <link rel="apple-touch-icon" sizes="180x180" href="https://www.tojournalists.com/images/tojournalist_frontpage_logo_512px_hu67b39a4833454f2bb9375ae2ac6a88aa_64782_180x180_fill_box_center_3.png">
 
 <meta name="description"
-  content="Open letters to journalists.">
+  content="ToJournalists.com">
 
 
 
@@ -157,13 +157,19 @@ a:active {
 
 
 
-<meta property="og:description" content="Open letters to journalists." />
+<meta property="og:description" content="ToJournalists.com" />
 
 
 
 
 
 <meta property="og:locale" content="en" />
+
+
+
+<meta property="og:locale:alternate" content="fr" />
+
+<meta property="og:locale:alternate" content="zh" />
 
 
 
@@ -224,6 +230,20 @@ a:active {
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">English</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.tojournalists.com/authors/">English</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.auxjournalistes.com/authors/">French - Français</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.xinwenjizhe.org/authors/">Chinese - 简体中文</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -251,6 +271,7 @@ a:active {
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
