@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.macron-emmanuel.com/authors/</loc>
-    <lastmod>2024-01-15T20:34:00+08:00</lastmod>
+    <lastmod>2024-02-26T18:45:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,6 +13,48 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.macron-emmanuel.com/authors/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/open-letters/allegations-fraud-money-laundering-empowr-request-2024-02-13/</loc>
+    <lastmod>2024-02-26T18:45:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/</loc>
+    <lastmod>2024-02-26T18:45:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/open-letters/</loc>
+    <lastmod>2024-02-26T18:45:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/authors/vincent-b-le-corre/</loc>
+    <lastmod>2024-02-26T18:45:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.com/open-letters/happy-birthday-mr-president/</loc>
@@ -26,45 +68,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.macron-emmanuel.com/open-letters/happy-birthday-mr-president/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/</loc>
-    <lastmod>2024-01-15T20:34:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/open-letters/</loc>
-    <lastmod>2024-01-15T20:34:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/open-letters/"
-                />
-  </url><url>
-    <loc>https://www.macron-emmanuel.com/authors/vincent-b-le-corre/</loc>
-    <lastmod>2024-01-15T20:34:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.macron-emmanuel.com/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.com/tags/nicholas-burns/</loc>
@@ -794,6 +797,9 @@
   </url><url>
     <loc>https://www.macron-emmanuel.com/open-letters/2015-12-18-fbi-chicago-intake-unit-answers-the-victim/</loc>
     <lastmod>2023-12-22T16:02:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.macron-emmanuel.com/open-letters/fbi-washington-dc-field-office-phone-call-2015-12-17/</loc>
+    <lastmod>2024-02-13T15:40:00+08:00</lastmod>
   </url><url>
     <loc>https://www.macron-emmanuel.com/open-letters/first-email-sent-to-fbi-on-2015-12-16-mcdonalds-frauds-in-europe/</loc>
     <lastmod>2023-12-22T15:35:00+08:00</lastmod>
