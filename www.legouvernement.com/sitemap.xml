@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.legouvernement.com/authors/</loc>
-    <lastmod>2024-04-14T16:49:00+08:00</lastmod>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,11 +15,11 @@
                 href="https://www.legouvernement.com/authors/"
                 />
   </url><url>
-    <loc>https://www.legouvernement.com/open-letters/email-sent-to-oms-lindy-ransom-2024-03-09/</loc>
-    <lastmod>2024-03-11T07:50:00+08:00</lastmod>
+    <loc>https://www.legouvernement.com/tags/house-of-lords/</loc>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/</loc>
-    <lastmod>2024-04-14T16:49:00+08:00</lastmod>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,6 +30,57 @@
                 hreflang="en"
                 href="https://www.legouvernement.com/"
                 />
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/</loc>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/open-letters/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/serious-fraud-office/</loc>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/</loc>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/tags/the-lord-watson-of-wyre-forest/</loc>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/urgent-appeal-to-lord-watson-money-laundering-mcdonalds-2024-04-19/</loc>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.legouvernement.com/authors/vincent-b-le-corre/</loc>
+    <lastmod>2024-04-22T13:59:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.com/open-letters/email-sent-to-oms-lindy-ransom-2024-03-09/</loc>
+    <lastmod>2024-03-11T07:50:00+08:00</lastmod>
   </url><url>
     <loc>https://www.legouvernement.com/tags/lindy-c.-ransom/</loc>
     <lastmod>2024-03-11T07:50:00+08:00</lastmod>
@@ -47,47 +98,8 @@
                 href="https://www.legouvernement.com/tags/nicholas-burns/"
                 />
   </url><url>
-    <loc>https://www.legouvernement.com/open-letters/</loc>
-    <lastmod>2024-04-14T16:49:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/lettres-ouvertes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/open-letters/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.com/tags/</loc>
-    <lastmod>2024-04-14T16:49:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/"
-                />
-  </url><url>
     <loc>https://www.legouvernement.com/tags/u.s.-embassy-in-china/</loc>
     <lastmod>2024-03-11T07:50:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.legouvernement.com/authors/vincent-b-le-corre/</loc>
-    <lastmod>2024-04-14T16:49:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
-                />
   </url><url>
     <loc>https://www.legouvernement.com/tags/chuck-grassley/</loc>
     <lastmod>2024-03-11T08:04:00+08:00</lastmod>
