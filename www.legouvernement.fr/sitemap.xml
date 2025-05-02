@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.legouvernement.fr/tags/adam-rogalski/</loc>
-    <lastmod>2023-12-18T21:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/adam-rogalski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/adam-rogalski/"
-                />
-  </url><url>
     <loc>https://www.legouvernement.fr/authors/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/tags/bertrand-lortholary/</loc>
-    <lastmod>2023-12-18T21:00:00+08:00</lastmod>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +26,214 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.legouvernement.fr/tags/bertrand-lortholary/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/charles-duchaine/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/charles-duchaine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/charles-duchaine/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/dgsi/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/dgsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/dgsi/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/financial-times/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/financial-times/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/financial-times/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/franck-pajot/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/franck-pajot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/franck-pajot/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/guillaume-roy/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/guillaume-roy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/guillaume-roy/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/lettres-ouvertes/lettre-ouverte-ambassade-de-france-pekin-chine-2024-10-17/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/open-letters/open-letter-to-french-ambassador-to-china-bertrand-lortholary-2024-10-17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/lettres-ouvertes/lettre-ouverte-ambassade-de-france-pekin-chine-2024-10-17/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/lettres-ouvertes/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/lettres-ouvertes/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/member-of-parliament/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/member-of-parliament/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/member-of-parliament/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/presse-judiciaire/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/presse-judiciaire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/presse-judiciaire/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/united-kingdom/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/united-kingdom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/united-kingdom/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/authors/vincent-b-le-corre/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/yuan-yang/</loc>
+    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/yuan-yang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/yuan-yang/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/lettres-ouvertes/joyeux-anniversaire-monsieur-le-president/</loc>
+    <lastmod>2023-12-22T02:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/open-letters/happy-birthday-mr-president/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/lettres-ouvertes/joyeux-anniversaire-monsieur-le-president/"
+                />
+  </url><url>
+    <loc>https://www.legouvernement.fr/tags/adam-rogalski/</loc>
+    <lastmod>2023-12-18T21:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.legouvernement.com/tags/adam-rogalski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.legouvernement.fr/tags/adam-rogalski/"
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/tags/blackmail/</loc>
@@ -67,32 +262,6 @@
                 href="https://www.legouvernement.fr/tags/catherine-colonna/"
                 />
   </url><url>
-    <loc>https://www.legouvernement.fr/tags/guillaume-roy/</loc>
-    <lastmod>2023-12-18T21:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/guillaume-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/guillaume-roy/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.fr/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/"
-                />
-  </url><url>
     <loc>https://www.legouvernement.fr/lettres-ouvertes/lettre-ouverte-suis-je-victime-de-chantage-2023-12-11/</loc>
     <lastmod>2023-12-18T21:00:00+08:00</lastmod>
     <xhtml:link
@@ -104,19 +273,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.legouvernement.fr/lettres-ouvertes/lettre-ouverte-suis-je-victime-de-chantage-2023-12-11/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.fr/lettres-ouvertes/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/open-letters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/lettres-ouvertes/"
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/tags/merrick-garland/</loc>
@@ -143,32 +299,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.legouvernement.fr/tags/nicholas-burns/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.fr/tags/</loc>
-    <lastmod>2023-12-20T01:17:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/tags/"
-                />
-  </url><url>
-    <loc>https://www.legouvernement.fr/authors/vincent-b-le-corre/</loc>
-    <lastmod>2023-12-20T11:08:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.legouvernement.fr/lettres-ouvertes/denonciation-de-crimes-macron-molins-belloubet-heitz-davo-2019-01-25/</loc>
