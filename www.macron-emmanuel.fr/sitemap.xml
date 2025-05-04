@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.macron-emmanuel.fr/authors/</loc>
-    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,7 +107,7 @@
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/</loc>
-    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -120,7 +120,7 @@
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/</loc>
-    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,7 +159,7 @@
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/tags/</loc>
-    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -185,7 +185,7 @@
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-02T15:27:42+08:00</lastmod>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -299,6 +299,64 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.macron-emmanuel.fr/tags/nicholas-burns/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/tags/constant-meheut/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/new-york-times-journalist-constant-meheut-understands-the-1-chance-out-of-4-fraud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/tags/the-new-york-times/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/tags/the-new-york-times/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/tags/the-new-york-times/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/tags/1-chance-sur-4/</loc>
+    <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/explications-envoyees-a-constant-meheut-le-25-mai-2022/</loc>
+    <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/open-letters/explanations-sent-to-constant-meheut-may-25-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/lettres-ouvertes/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
+                />
+  </url><url>
+    <loc>https://www.macron-emmanuel.fr/tags/mcdonalds-monopoly/</loc>
+    <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.macron-emmanuel.com/tags/mcdonalds-monopoly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.macron-emmanuel.fr/tags/mcdonalds-monopoly/"
                 />
   </url><url>
     <loc>https://www.macron-emmanuel.fr/lettres-ouvertes/denonciation-de-crimes-macron-molins-belloubet-heitz-davo-2019-01-25/</loc>
