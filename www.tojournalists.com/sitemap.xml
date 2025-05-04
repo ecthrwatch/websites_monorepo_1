@@ -28,6 +28,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="https://www.auxjournalistes.com/chronologie-des-faits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="https://www.auxjournalistes.com/lettres-ouvertes/"
                 />
     <xhtml:link
@@ -43,6 +48,11 @@
   </url><url>
     <loc>https://www.tojournalists.com/open-letters/new-york-times-journalist-constant-meheut-understands-the-1-chance-out-of-4-fraud/</loc>
     <lastmod>2022-06-20T09:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/chronologie-des-faits/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -121,6 +131,11 @@
   </url><url>
     <loc>https://www.tojournalists.com/open-letters/explanations-sent-to-constant-meheut-may-25-2022/</loc>
     <lastmod>2023-12-24T13:25:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/chronologie-des-faits/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"

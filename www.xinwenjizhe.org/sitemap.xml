@@ -48,6 +48,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="https://www.auxjournalistes.com/chronologie-des-faits/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="https://www.auxjournalistes.com/lettres-ouvertes/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
                 />
     <xhtml:link
@@ -58,6 +63,11 @@
   </url><url>
     <loc>https://www.xinwenjizhe.org/gongkaixin/</loc>
     <lastmod>2022-09-16T11:07:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/chronologie-des-faits/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -83,13 +93,13 @@
     <loc>https://www.xinwenjizhe.org/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/authors/"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/authors/"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/"
                 />
     <xhtml:link
                 rel="alternate"
