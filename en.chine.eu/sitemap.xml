@@ -584,6 +584,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://en.chine.eu/authors/vincent-b-le-corre/"
                 />
@@ -593,6 +598,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.chine.eu/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/authors/x/"
                 />
     <xhtml:link
                 rel="alternate"

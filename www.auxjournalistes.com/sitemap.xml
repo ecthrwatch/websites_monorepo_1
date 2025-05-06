@@ -93,6 +93,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://www.auxjournalistes.com/authors/vincent-b-le-corre/"
                 />
@@ -275,6 +280,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.tojournalists.com/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/authors/x/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -71,6 +71,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.likeqiang.org/authors/vincent-b-le-corre/"
                 />
@@ -1243,6 +1248,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.likeqiang.org/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/authors/x/"
                 />
     <xhtml:link
                 rel="alternate"
