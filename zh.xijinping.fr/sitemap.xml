@@ -40,7 +40,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.xijinping.fr/copyright/"
+                href="https://en.xijinping.fr/copyright-and-disclaimer/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -87,6 +87,40 @@
                 href="https://zh.xijinping.fr/tags/"
                 />
   </url><url>
+    <loc>https://zh.xijinping.fr/authors/vincent-b-le-corre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.xijinping.fr/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://zh.xijinping.fr/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.xijinping.fr/authors/x/"
+                />
+  </url><url>
     <loc>https://zh.xijinping.fr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -107,13 +141,13 @@
     <loc>https://zh.xijinping.fr/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.xijinping.fr/lettres-ouvertes/"
+                hreflang="en"
+                href="https://en.xijinping.fr/open-letters/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://en.xijinping.fr/open-letters/"
+                hreflang="fr"
+                href="https://www.xijinping.fr/lettres-ouvertes/"
                 />
     <xhtml:link
                 rel="alternate"
