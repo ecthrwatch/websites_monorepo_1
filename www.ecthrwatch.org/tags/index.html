@@ -162,6 +162,12 @@ a:active {
 
 
 
+<meta property="og:locale:alternate" content="zh" />
+
+<meta property="og:locale:alternate" content="fr" />
+
+
+
 
 <meta property="og:site_name" content="ECTHRwatch.org" />
 
@@ -170,7 +176,7 @@ a:active {
 
 
 
-<meta property="og:updated_time" content="2025-04-13T01:49:00&#43;08:00" />
+<meta property="og:updated_time" content="2025-05-05T17:34:00&#43;08:00" />
 
 
 
@@ -217,6 +223,20 @@ a:active {
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">English</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.ecthrwatch.org/tags/">English</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://zh.ecthrwatch.org/tags/">Chinese - 简体中文</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://fr.ecthrwatch.org/tags/">French - Français</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -244,6 +264,7 @@ a:active {
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -257,6 +278,12 @@ a:active {
 </article>
 
   <div class="bg-secondary-bg rounded px-6 py-8">
+    
+      <h2 class="text-primary-text my-2 text-lg">
+        <a href="https://www.ecthrwatch.org/tags/united-states/" class="text-eureka hover:underline"
+          >United States</a
+        >
+      </h2>
     
       <h2 class="text-primary-text my-2 text-lg">
         <a href="https://www.ecthrwatch.org/tags/he-qian/" class="text-eureka hover:underline"
@@ -794,7 +821,7 @@ a:active {
     
       <h2 class="text-primary-text my-2 text-lg">
         <a href="https://www.ecthrwatch.org/tags/kevin-ozan/" class="text-eureka hover:underline"
-          >Kevin Ozan</a
+          >Kevin OZAN</a
         >
       </h2>
     
@@ -1118,7 +1145,7 @@ a:active {
     
       <h2 class="text-primary-text my-2 text-lg">
         <a href="https://www.ecthrwatch.org/tags/steve-easterbrook/" class="text-eureka hover:underline"
-          >Steve Easterbrook</a
+          >Steve EASTERBROOK</a
         >
       </h2>
     
@@ -1183,12 +1210,6 @@ a:active {
       </h2>
     
       <h2 class="text-primary-text my-2 text-lg">
-        <a href="https://www.ecthrwatch.org/tags/attach%C3%A9-juridique-adjoint/" class="text-eureka hover:underline"
-          >Attaché juridique-adjoint</a
-        >
-      </h2>
-    
-      <h2 class="text-primary-text my-2 text-lg">
         <a href="https://www.ecthrwatch.org/tags/%C3%A9criture-publique/" class="text-eureka hover:underline"
           >Écriture publique</a
         >
@@ -1197,12 +1218,6 @@ a:active {
       <h2 class="text-primary-text my-2 text-lg">
         <a href="https://www.ecthrwatch.org/tags/whistleblower/" class="text-eureka hover:underline"
           >Whistleblower</a
-        >
-      </h2>
-    
-      <h2 class="text-primary-text my-2 text-lg">
-        <a href="https://www.ecthrwatch.org/tags/%E6%B3%95%E5%BE%8B%E5%8F%82%E8%B5%9E%E5%8A%A9%E7%90%86/" class="text-eureka hover:underline"
-          >法律参赞助理</a
         >
       </h2>
     
@@ -1670,7 +1685,7 @@ a:active {
     
       <h2 class="text-primary-text my-2 text-lg">
         <a href="https://www.ecthrwatch.org/tags/silvia-lagnado/" class="text-eureka hover:underline"
-          >Silvia Lagnado</a
+          >Silvia LAGNADO</a
         >
       </h2>
     
@@ -1724,7 +1739,13 @@ a:active {
     
       <h2 class="text-primary-text my-2 text-lg">
         <a href="https://www.ecthrwatch.org/tags/robert-gibbs/" class="text-eureka hover:underline"
-          >Robert Gibbs</a
+          >Robert GIBBS</a
+        >
+      </h2>
+    
+      <h2 class="text-primary-text my-2 text-lg">
+        <a href="https://www.ecthrwatch.org/tags/santona-gloria/" class="text-eureka hover:underline"
+          >SANTONA Gloria</a
         >
       </h2>
     
