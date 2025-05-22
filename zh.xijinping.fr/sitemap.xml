@@ -459,7 +459,9 @@
                 href="https://zh.xijinping.fr/authors/x/"
                 />
   </url><url>
-    <loc>https://zh.xijinping.fr/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>
+    <loc>https://zh.xijinping.fr/guanyu/</loc>
+  </url><url>
+    <loc>https://zh.xijinping.fr/shishi-shijianxian-yu-gongkaixin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -473,7 +475,9 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.xijinping.fr/%E5%85%AC%E5%BC%80%E4%BF%A1/"
+                href="https://zh.xijinping.fr/shishi-shijianxian-yu-gongkaixin/"
                 />
+  </url><url>
+    <loc>https://zh.xijinping.fr/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>
   </url>
 </urlset>
