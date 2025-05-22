@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fr.likeqiang.org/authors/</loc>
-    <lastmod>2025-05-17T19:32:03+08:00</lastmod>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -100,7 +100,7 @@
                 />
   </url><url>
     <loc>https://fr.likeqiang.org/lettres-ouvertes/</loc>
-    <lastmod>2025-05-17T19:32:03+08:00</lastmod>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -121,7 +121,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/</loc>
-    <lastmod>2025-05-17T19:32:03+08:00</lastmod>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -186,7 +186,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/tags/</loc>
-    <lastmod>2025-05-17T19:32:03+08:00</lastmod>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -204,7 +204,7 @@
                 />
   </url><url>
     <loc>https://fr.likeqiang.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-17T19:32:03+08:00</lastmod>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -220,6 +220,99 @@
                 hreflang="fr"
                 href="https://fr.likeqiang.org/authors/vincent-b-le-corre/"
                 />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/ambassade-de-france-en-chine/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/cia/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/cia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/cia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/cia/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/conseil-consulaire/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/lettres-ouvertes/danger-de-mort-en-chine-lettre-ouverte-a-pierre-mirochnikoff-2025-04-19/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/open-letters/mortal-danger-in-beijing-china-open-letter-to-pierre-mirochnikoff-2025-04-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/gongkaixin/beijing-zhi-ming-wei-xian-pierre-mirochnikoff-gong-kai-xin-2025-04-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/lettres-ouvertes/danger-de-mort-en-chine-lettre-ouverte-a-pierre-mirochnikoff-2025-04-19/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/danger-grave/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/droits-des-ressortissants-fran%C3%A7ais/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/fran%C3%A7ais-de-l%C3%A9tranger/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/lettre-ouverte/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/non-assistance-%C3%A0-personne-en-danger/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/p%C3%A9kin/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/pierre-mirochnikoff/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/renseignement-am%C3%A9ricain/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/s%C3%A9curit%C3%A9-nationale/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/ufe/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/ufe-p%C3%A9kin/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/union-des-fran%C3%A7ais-de-l%C3%A9tranger/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/tags/agent-de-la-communaut%C3%A9-du-renseignement-am%C3%A9ricain/</loc>
     <lastmod>2025-05-10T12:32:46+08:00</lastmod>
@@ -293,9 +386,6 @@
     <loc>https://fr.likeqiang.org/tags/chine/</loc>
     <lastmod>2025-05-17T19:32:03+08:00</lastmod>
   </url><url>
-    <loc>https://fr.likeqiang.org/tags/cia/</loc>
-    <lastmod>2025-05-17T19:32:03+08:00</lastmod>
-  </url><url>
     <loc>https://fr.likeqiang.org/tags/lanceur-dalerte/</loc>
     <lastmod>2025-05-17T19:32:03+08:00</lastmod>
   </url><url>
@@ -318,9 +408,6 @@
                 />
   </url><url>
     <loc>https://fr.likeqiang.org/tags/r%C3%A9cit-personnel/</loc>
-    <lastmod>2025-05-17T19:32:03+08:00</lastmod>
-  </url><url>
-    <loc>https://fr.likeqiang.org/tags/renseignement-am%C3%A9ricain/</loc>
     <lastmod>2025-05-17T19:32:03+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/tags/soup%C3%A7ons/</loc>

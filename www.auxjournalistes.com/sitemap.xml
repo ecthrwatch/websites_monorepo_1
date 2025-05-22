@@ -6,13 +6,13 @@
     <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/authors/"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/authors/"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -24,13 +24,13 @@
     <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/"
+                hreflang="en"
+                href="https://www.tojournalists.com/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -42,6 +42,11 @@
     <lastmod>2023-12-25T23:57:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/gongkaixin/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://www.auxjournalistes.com/lettres-ouvertes/"
                 />
@@ -49,11 +54,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.tojournalists.com/open-letters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/gongkaixin/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -65,6 +65,11 @@
     <lastmod>2023-12-25T23:57:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/gongkaixin/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://www.auxjournalistes.com/chronologie-des-faits/"
                 />
@@ -72,11 +77,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.tojournalists.com/open-letters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/gongkaixin/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,13 +88,13 @@
     <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/authors/vincent-b-le-corre/"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/authors/vincent-b-le-corre/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/authors/vincent-b-le-corre/"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/vincent-b-le-corre/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,13 +145,13 @@
     <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/tags/"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/tags/"
+                hreflang="en"
+                href="https://www.tojournalists.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -223,6 +223,16 @@
   </url><url>
     <loc>https://www.auxjournalistes.com/tags/mcdonalds-monopoly/</loc>
     <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/tags/mcdonalds-monopoly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/tags/mcdonalds-monopoly/"
+                />
   </url><url>
     <loc>https://www.auxjournalistes.com/categories/</loc>
     <xhtml:link
