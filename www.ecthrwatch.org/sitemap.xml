@@ -24,7 +24,7 @@
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/authors/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -84,7 +84,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -196,7 +196,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -217,7 +217,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -240,21 +240,34 @@
     <loc>https://www.ecthrwatch.org/tags/united-states/</loc>
     <lastmod>2025-05-05T17:34:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/tags/central-intelligence-agency/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/timeline/internal-reading-by-samuel-belbachir-of-a-sensitive-email-foreign-ministry-2025-04-21/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/central-intelligence-agency/"
+                href="https://zh.ecthrwatch.org/gongkaixin/samuel-belbachir-yuedu-mingan-waijiao-youjian-2025-04-21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/lecture-interne-courriel-ministere-affaires-etrangeres-2025-04-21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/lecture-interne-courriel-ministere-affaires-etrangeres-2025-04-21/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/tags/central-intelligence-agency/"
+                href="https://www.ecthrwatch.org/timeline/internal-reading-by-samuel-belbachir-of-a-sensitive-email-foreign-ministry-2025-04-21/"
                 />
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/administrative-follow-up/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/cia/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -269,6 +282,112 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ecthrwatch.org/tags/cia/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/dgse/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/dgse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/dgse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/dgse/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/dgsi/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/dgsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/dgsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/dgsi/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/diplomatic-communications/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/foreign-affairs/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/france-china/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/french-diplomacy/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/official-email/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/pierre-mirochnikoff/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/pierre-mirochnikoff/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/samuel-belbachir/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/samuel-belbachir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/samuel-belbachir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/samuel-belbachir/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/serious-alert/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/transparency/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/central-intelligence-agency/</loc>
+    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/central-intelligence-agency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/central-intelligence-agency/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/consular-responsibilities/</loc>
@@ -317,24 +436,6 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/open-letter/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/pierre-mirochnikoff/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/pierre-mirochnikoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/pierre-mirochnikoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/pierre-mirochnikoff/"
-                />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/psychological-pressure/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
@@ -409,9 +510,6 @@
     <lastmod>2025-04-28T21:48:51+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/charles-duchaine/</loc>
-    <lastmod>2025-04-28T21:48:51+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/tags/dgsi/</loc>
     <lastmod>2025-04-28T21:48:51+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/financial-times/</loc>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://en.xijinping.fr/authors/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -53,7 +53,7 @@
                 />
   </url><url>
     <loc>https://en.xijinping.fr/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -115,7 +115,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://en.xijinping.fr/open-letters/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -133,7 +133,7 @@
                 />
   </url><url>
     <loc>https://en.xijinping.fr/tags/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -154,7 +154,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://en.xijinping.fr/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -177,6 +177,68 @@
     <loc>https://en.xijinping.fr/tags/united-states/</loc>
     <lastmod>2025-05-05T17:34:00+08:00</lastmod>
   </url><url>
+    <loc>https://en.xijinping.fr/open-letters/internal-reading-by-samuel-belbachir-of-a-sensitive-email-foreign-ministry-2025-04-21/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/administrative-follow-up/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/cia/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.xijinping.fr/tags/cia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/tags/cia/"
+                />
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/dgse/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/dgsi/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/diplomatic-communications/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/foreign-affairs/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/france-china/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/french-diplomacy/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/official-email/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/pierre-mirochnikoff/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.xijinping.fr/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/tags/pierre-mirochnikoff/"
+                />
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/samuel-belbachir/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/serious-alert/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://en.xijinping.fr/tags/transparency/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
     <loc>https://en.xijinping.fr/tags/central-intelligence-agency/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
     <xhtml:link
@@ -188,19 +250,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://en.xijinping.fr/tags/central-intelligence-agency/"
-                />
-  </url><url>
-    <loc>https://en.xijinping.fr/tags/cia/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.xijinping.fr/tags/cia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.xijinping.fr/tags/cia/"
                 />
   </url><url>
     <loc>https://en.xijinping.fr/tags/consular-responsibilities/</loc>
@@ -240,19 +289,6 @@
     <loc>https://en.xijinping.fr/tags/open-letter/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
   </url><url>
-    <loc>https://en.xijinping.fr/tags/pierre-mirochnikoff/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.xijinping.fr/tags/pierre-mirochnikoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.xijinping.fr/tags/pierre-mirochnikoff/"
-                />
-  </url><url>
     <loc>https://en.xijinping.fr/tags/psychological-pressure/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
   </url><url>
@@ -272,9 +308,6 @@
     <lastmod>2025-04-28T21:48:51+08:00</lastmod>
   </url><url>
     <loc>https://en.xijinping.fr/tags/charles-duchaine/</loc>
-    <lastmod>2025-04-28T21:48:51+08:00</lastmod>
-  </url><url>
-    <loc>https://en.xijinping.fr/tags/dgsi/</loc>
     <lastmod>2025-04-28T21:48:51+08:00</lastmod>
   </url><url>
     <loc>https://en.xijinping.fr/tags/financial-times/</loc>

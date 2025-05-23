@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fr.likeqiang.org/authors/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -100,7 +100,7 @@
                 />
   </url><url>
     <loc>https://fr.likeqiang.org/lettres-ouvertes/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -121,7 +121,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -186,7 +186,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/tags/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -204,7 +204,7 @@
                 />
   </url><url>
     <loc>https://fr.likeqiang.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -221,11 +221,11 @@
                 href="https://fr.likeqiang.org/authors/vincent-b-le-corre/"
                 />
   </url><url>
-    <loc>https://fr.likeqiang.org/tags/ambassade-de-france-en-chine/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <loc>https://fr.likeqiang.org/tags/affaires-%C3%A9trang%C3%A8res/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/tags/cia/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -241,6 +241,123 @@
                 hreflang="fr"
                 href="https://fr.likeqiang.org/tags/cia/"
                 />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/communication-diplomatique/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/courriel-officiel/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/dgse/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/dgse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/dgse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/dgse/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/dgsi/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/dgsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/dgsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/dgsi/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/diplomatie-fran%C3%A7aise/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/france-chine/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/minist%C3%A8re-des-affaires-%C3%A9trang%C3%A8res/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/pierre-mirochnikoff/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/samuel-belbachir/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/samuel-belbachir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/samuel-belbachir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/samuel-belbachir/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/signalement-grave/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/suivi-administratif/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/transparence/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.likeqiang.org/lettres-ouvertes/lecture-interne-courriel-ministere-affaires-etrangeres-2025-04-21/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/open-letters/internal-reading-by-samuel-belbachir-of-a-sensitive-email-foreign-ministry-2025-04-21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/gongkaixin/samuel-belbachir-yuedu-mingan-waijiao-youjian-2025-04-21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/lettres-ouvertes/lecture-interne-courriel-ministere-affaires-etrangeres-2025-04-21/"
+                />
+  </url><url>
+    <loc>https://fr.likeqiang.org/tags/ambassade-de-france-en-chine/</loc>
+    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
   </url><url>
     <loc>https://fr.likeqiang.org/tags/conseil-consulaire/</loc>
     <lastmod>2025-05-21T17:48:15+08:00</lastmod>
@@ -280,24 +397,6 @@
   </url><url>
     <loc>https://fr.likeqiang.org/tags/p%C3%A9kin/</loc>
     <lastmod>2025-05-21T17:48:15+08:00</lastmod>
-  </url><url>
-    <loc>https://fr.likeqiang.org/tags/pierre-mirochnikoff/</loc>
-    <lastmod>2025-05-21T17:48:15+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.likeqiang.org/tags/pierre-mirochnikoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.likeqiang.org/tags/pierre-mirochnikoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.likeqiang.org/tags/pierre-mirochnikoff/"
-                />
   </url><url>
     <loc>https://fr.likeqiang.org/tags/renseignement-am%C3%A9ricain/</loc>
     <lastmod>2025-05-21T17:48:15+08:00</lastmod>

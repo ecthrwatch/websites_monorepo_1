@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.likeqiang.org/authors/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -100,7 +100,7 @@
                 />
   </url><url>
     <loc>https://www.likeqiang.org/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -165,7 +165,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://www.likeqiang.org/tags/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -186,7 +186,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://www.likeqiang.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -209,21 +209,29 @@
     <loc>https://www.likeqiang.org/tags/united-states/</loc>
     <lastmod>2025-05-05T17:34:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.likeqiang.org/tags/central-intelligence-agency/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <loc>https://www.likeqiang.org/open-letters/internal-reading-by-samuel-belbachir-of-a-sensitive-email-foreign-ministry-2025-04-21/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.likeqiang.org/tags/central-intelligence-agency/"
+                href="https://zh.likeqiang.org/gongkaixin/samuel-belbachir-yuedu-mingan-waijiao-youjian-2025-04-21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/lettres-ouvertes/lecture-interne-courriel-ministere-affaires-etrangeres-2025-04-21/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.likeqiang.org/tags/central-intelligence-agency/"
+                href="https://www.likeqiang.org/open-letters/internal-reading-by-samuel-belbachir-of-a-sensitive-email-foreign-ministry-2025-04-21/"
                 />
   </url><url>
+    <loc>https://www.likeqiang.org/tags/administrative-follow-up/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
     <loc>https://www.likeqiang.org/tags/cia/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -238,6 +246,112 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.likeqiang.org/tags/cia/"
+                />
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/dgse/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/dgse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/dgse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/dgse/"
+                />
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/dgsi/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/dgsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/dgsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/dgsi/"
+                />
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/diplomatic-communications/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/foreign-affairs/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/france-china/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/french-diplomacy/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/official-email/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/pierre-mirochnikoff/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/pierre-mirochnikoff/"
+                />
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/samuel-belbachir/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.likeqiang.org/tags/samuel-belbachir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/samuel-belbachir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/samuel-belbachir/"
+                />
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/serious-alert/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/transparency/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.likeqiang.org/tags/central-intelligence-agency/</loc>
+    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.likeqiang.org/tags/central-intelligence-agency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.likeqiang.org/tags/central-intelligence-agency/"
                 />
   </url><url>
     <loc>https://www.likeqiang.org/tags/consular-responsibilities/</loc>
@@ -282,24 +396,6 @@
     <loc>https://www.likeqiang.org/tags/open-letter/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
   </url><url>
-    <loc>https://www.likeqiang.org/tags/pierre-mirochnikoff/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.likeqiang.org/tags/pierre-mirochnikoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.likeqiang.org/tags/pierre-mirochnikoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.likeqiang.org/tags/pierre-mirochnikoff/"
-                />
-  </url><url>
     <loc>https://www.likeqiang.org/tags/psychological-pressure/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
   </url><url>
@@ -319,9 +415,6 @@
     <lastmod>2025-04-28T21:48:51+08:00</lastmod>
   </url><url>
     <loc>https://www.likeqiang.org/tags/charles-duchaine/</loc>
-    <lastmod>2025-04-28T21:48:51+08:00</lastmod>
-  </url><url>
-    <loc>https://www.likeqiang.org/tags/dgsi/</loc>
     <lastmod>2025-04-28T21:48:51+08:00</lastmod>
   </url><url>
     <loc>https://www.likeqiang.org/tags/financial-times/</loc>
