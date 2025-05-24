@@ -461,7 +461,7 @@
   </url><url>
     <loc>https://zh.xijinping.fr/guanyu/</loc>
   </url><url>
-    <loc>https://zh.xijinping.fr/shishi-shijianxian-yu-gongkaixin/</loc>
+    <loc>https://zh.xijinping.fr/shishi-jingguo-yu-gongkaixin-shijianxian/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -470,12 +470,22 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="https://www.xijinping.fr/chronologie-des-faits-et-lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="https://www.xijinping.fr/lettres-ouvertes/"
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/timeline-of-events-and-open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh"
-                href="https://zh.xijinping.fr/shishi-shijianxian-yu-gongkaixin/"
+                href="https://zh.xijinping.fr/shishi-jingguo-yu-gongkaixin-shijianxian/"
                 />
   </url><url>
     <loc>https://zh.xijinping.fr/%E5%85%AC%E5%BC%80%E4%BF%A1/</loc>

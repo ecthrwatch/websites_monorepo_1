@@ -36,6 +36,33 @@
                 href="https://www.xijinping.fr/categories/"
                 />
   </url><url>
+    <loc>https://www.xijinping.fr/chronologie-des-faits-et-lettres-ouvertes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/timeline-of-events-and-open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.xijinping.fr/shishi-jingguo-yu-gongkaixin-shijianxian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/chronologie-des-faits-et-lettres-ouvertes/"
+                />
+  </url><url>
     <loc>https://www.xijinping.fr/copyright/</loc>
     <xhtml:link
                 rel="alternate"
@@ -61,8 +88,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://www.xijinping.fr/chronologie-des-faits-et-lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.xijinping.fr/timeline-of-events-and-open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh"
-                href="https://zh.xijinping.fr/shishi-shijianxian-yu-gongkaixin/"
+                href="https://zh.xijinping.fr/shishi-jingguo-yu-gongkaixin-shijianxian/"
                 />
     <xhtml:link
                 rel="alternate"
