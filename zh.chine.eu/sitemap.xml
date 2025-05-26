@@ -653,23 +653,6 @@
                 href="https://zh.chine.eu/series/"
                 />
   </url><url>
-    <loc>https://zh.chine.eu/authors/vincent-b-le-corre/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/authors/vincent-b-le-corre/"
-                />
-  </url><url>
     <loc>https://zh.chine.eu/authors/x/</loc>
     <xhtml:link
                 rel="alternate"
@@ -688,6 +671,23 @@
                 />
   </url><url>
     <loc>https://zh.chine.eu/anjian/</loc>
+  </url><url>
+    <loc>https://zh.chine.eu/zuozhe/lu-shengqiao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://en.chine.eu/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.chine.eu/auteurs/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.chine.eu/zuozhe/lu-shengqiao/"
+                />
   </url><url>
     <loc>https://zh.chine.eu/zhengju/</loc>
     <xhtml:link

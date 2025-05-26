@@ -87,23 +87,6 @@
                 href="https://zh.agreaterchina.com/tags/"
                 />
   </url><url>
-    <loc>https://zh.agreaterchina.com/authors/vincent-b-le-corre/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.agreaterchina.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.agreaterchina.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.agreaterchina.com/authors/vincent-b-le-corre/"
-                />
-  </url><url>
     <loc>https://zh.agreaterchina.com/authors/x/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,6 +102,23 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://zh.agreaterchina.com/authors/x/"
+                />
+  </url><url>
+    <loc>https://zh.agreaterchina.com/zuozhe/lu-shengqiao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.agreaterchina.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.agreaterchina.com/auteurs/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.agreaterchina.com/zuozhe/lu-shengqiao/"
                 />
   </url>
 </urlset>

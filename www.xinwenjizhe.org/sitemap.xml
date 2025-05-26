@@ -50,24 +50,6 @@
                 href="https://www.xinwenjizhe.org/tags/"
                 />
   </url><url>
-    <loc>https://www.xinwenjizhe.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/authors/vincent-b-le-corre/"
-                />
-  </url><url>
     <loc>https://www.xinwenjizhe.org/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
     <xhtml:link
@@ -91,6 +73,24 @@
   </url><url>
     <loc>https://www.xinwenjizhe.org/tags/%E8%89%AF%E7%9F%A5%E7%9A%84%E5%9B%9A%E5%BE%92/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
+  </url><url>
+    <loc>https://www.xinwenjizhe.org/zuozhe/lu-shengqiao/</loc>
+    <lastmod>2025-05-22T07:59:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.auxjournalistes.com/auteurs/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.tojournalists.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.xinwenjizhe.org/zuozhe/lu-shengqiao/"
+                />
   </url><url>
     <loc>https://www.xinwenjizhe.org/tags/%E9%BA%A6%E5%BD%93%E5%8A%B3/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>

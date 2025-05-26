@@ -70,23 +70,6 @@
                 href="https://www.bailingzuifan.com/tags/"
                 />
   </url><url>
-    <loc>https://www.bailingzuifan.com/authors/vincent-b-le-corre/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.white-collar-criminals.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.criminels-en-col-blanc.com/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bailingzuifan.com/authors/vincent-b-le-corre/"
-                />
-  </url><url>
     <loc>https://www.bailingzuifan.com/authors/x/</loc>
     <xhtml:link
                 rel="alternate"
@@ -170,6 +153,23 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bailingzuifan.com/%E5%85%B3%E4%BA%8E%E6%88%91/"
+                />
+  </url><url>
+    <loc>https://www.bailingzuifan.com/zuozhe/lu-shengqiao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.white-collar-criminals.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.criminels-en-col-blanc.com/auteurs/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bailingzuifan.com/zuozhe/lu-shengqiao/"
                 />
   </url><url>
     <loc>https://www.bailingzuifan.com/%E9%9A%90%E7%A7%81/</loc>

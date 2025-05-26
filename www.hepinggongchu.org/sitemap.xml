@@ -80,24 +80,6 @@
                 href="https://www.hepinggongchu.org/tags/"
                 />
   </url><url>
-    <loc>https://www.hepinggongchu.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/authors/vincent-b-le-corre/"
-                />
-  </url><url>
     <loc>https://www.hepinggongchu.org/</loc>
     <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
@@ -121,6 +103,24 @@
   </url><url>
     <loc>https://www.hepinggongchu.org/tags/%E8%89%AF%E7%9F%A5%E7%9A%84%E5%9B%9A%E5%BE%92/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hepinggongchu.org/zuozhe/lu-shengqiao/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/auteurs/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/zuozhe/lu-shengqiao/"
+                />
   </url><url>
     <loc>https://www.hepinggongchu.org/tags/%E9%BA%A6%E5%BD%93%E5%8A%B3/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
@@ -440,6 +440,23 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.hepinggongchu.org/series/"
+                />
+  </url><url>
+    <loc>https://www.hepinggongchu.org/authors/x/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/authors/x/"
                 />
   </url><url>
     <loc>https://www.hepinggongchu.org/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/</loc>
