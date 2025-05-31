@@ -18,3 +18,9 @@ Translations:
 /explanations/investigative-thought-process/
 /explications/ma-demarche-d-enqueteur/
 
+
+间谍案件中的有罪推定
+/shuoming/youzui-tuiding-jiandie-anjian/
+Translations:
+/explanations/presumption-of-guilt-in-espionage/
+/explications/presomption-de-culpabilite-dans-les-affaires-d-espionnage/

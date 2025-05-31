@@ -59,9 +59,6 @@
                 href="https://www.hepinggongchu.org/tags/index-on-censorship/"
                 />
   </url><url>
-    <loc>https://www.hepinggongchu.org/shishi-jingguo-yu-gongkaixin-shijianxian/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-  </url><url>
     <loc>https://www.hepinggongchu.org/tags/</loc>
     <lastmod>2025-05-23T15:39:24+08:00</lastmod>
     <xhtml:link
@@ -139,6 +136,24 @@
   </url><url>
     <loc>https://www.hepinggongchu.org/tags/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hepinggongchu.org/shishi-jingguo-yu-gongkaixin-shijianxian/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/chronologie-des-faits-et-lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/timeline-of-events-and-open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shishi-jingguo-yu-gongkaixin-shijianxian/"
+                />
   </url><url>
     <loc>https://www.hepinggongchu.org/tags/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
@@ -332,6 +347,9 @@
     <loc>https://www.hepinggongchu.org/tags/%E5%A4%96%E5%9B%BD%E6%83%85%E6%8A%A5%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
   </url><url>
+    <loc>https://www.hepinggongchu.org/qitawangzhan/</loc>
+    <lastmod>2021-06-25T21:02:13+08:00</lastmod>
+  </url><url>
     <loc>https://www.hepinggongchu.org/tags/mcdonalds-corporation/</loc>
     <lastmod>2025-05-10T12:32:46+08:00</lastmod>
   </url><url>
@@ -459,23 +477,6 @@
                 href="https://www.hepinggongchu.org/authors/x/"
                 />
   </url><url>
-    <loc>https://www.hepinggongchu.org/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/copyright-and-disclaimer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/droits-d-auteur-et-avis-de-non-responsabilite/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"
-                />
-  </url><url>
     <loc>https://www.hepinggongchu.org/guanyu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -485,7 +486,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.coexistencepacifique.org/qui-suis-je/"
+                href="https://www.coexistencepacifique.org/a-propos/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -494,40 +495,6 @@
                 />
   </url><url>
     <loc>https://www.hepinggongchu.org/tags/%E6%AC%A7%E6%B4%B2%E4%BA%BA%E6%9D%83%E6%B3%95%E9%99%A2%E6%A1%88%E4%BB%B650552/22/</loc>
-  </url><url>
-    <loc>https://www.hepinggongchu.org/%E9%9A%90%E7%A7%81/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/confidentialite/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/%E9%9A%90%E7%A7%81/"
-                />
-  </url><url>
-    <loc>https://www.hepinggongchu.org/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/contactez-moi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/"
-                />
   </url><url>
     <loc>https://www.hepinggongchu.org/shishi-shijianxian-yu-gongkaixin/</loc>
     <xhtml:link

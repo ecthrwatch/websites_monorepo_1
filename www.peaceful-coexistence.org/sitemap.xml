@@ -228,7 +228,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.coexistencepacifique.org/qui-suis-je/"
+                href="https://www.coexistencepacifique.org/a-propos/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -262,12 +262,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.coexistencepacifique.org/contactez-moi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB/"
+                href="https://www.coexistencepacifique.org/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -283,11 +278,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/%E7%89%88%E6%9D%83%E6%89%80%E6%9C%89%E5%92%8C%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.peaceful-coexistence.org/copyright-and-disclaimer/"
                 />
@@ -297,11 +287,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.coexistencepacifique.org/confidentialite/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/%E9%9A%90%E7%A7%81/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -324,6 +309,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.peaceful-coexistence.org/series/"
+                />
+  </url><url>
+    <loc>https://www.peaceful-coexistence.org/timeline-of-events-and-open-letters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shishi-jingguo-yu-gongkaixin-shijianxian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/chronologie-des-faits-et-lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/timeline-of-events-and-open-letters/"
                 />
   </url><url>
     <loc>https://www.peaceful-coexistence.org/authors/x/</loc>
