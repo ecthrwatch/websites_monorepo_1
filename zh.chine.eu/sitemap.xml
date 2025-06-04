@@ -653,23 +653,6 @@
                 href="https://zh.chine.eu/series/"
                 />
   </url><url>
-    <loc>https://zh.chine.eu/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/authors/x/"
-                />
-  </url><url>
     <loc>https://zh.chine.eu/anjian/</loc>
   </url><url>
     <loc>https://zh.chine.eu/zuozhe/lu-shengqiao/</loc>

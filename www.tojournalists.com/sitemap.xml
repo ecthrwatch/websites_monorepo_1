@@ -224,22 +224,5 @@
                 hreflang="en"
                 href="https://www.tojournalists.com/series/"
                 />
-  </url><url>
-    <loc>https://www.tojournalists.com/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.auxjournalistes.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.xinwenjizhe.org/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.tojournalists.com/authors/x/"
-                />
   </url>
 </urlset>

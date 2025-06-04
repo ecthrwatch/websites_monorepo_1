@@ -133,17 +133,5 @@
                 hreflang="fr"
                 href="https://fr.canada-v-mcdonalds.org/auteurs/vincent-le-corre/"
                 />
-  </url><url>
-    <loc>https://fr.canada-v-mcdonalds.org/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.canada-v-mcdonalds.org/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.canada-v-mcdonalds.org/authors/x/"
-                />
   </url>
 </urlset>

@@ -133,17 +133,5 @@
                 hreflang="fr"
                 href="https://www.hatvp.com/auteurs/vincent-le-corre/"
                 />
-  </url><url>
-    <loc>https://www.hatvp.com/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.hatvp.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hatvp.com/authors/x/"
-                />
   </url>
 </urlset>

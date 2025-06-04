@@ -460,23 +460,6 @@
                 href="https://www.hepinggongchu.org/series/"
                 />
   </url><url>
-    <loc>https://www.hepinggongchu.org/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/authors/x/"
-                />
-  </url><url>
     <loc>https://www.hepinggongchu.org/guanyu/</loc>
     <xhtml:link
                 rel="alternate"

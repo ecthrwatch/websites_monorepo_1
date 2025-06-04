@@ -133,17 +133,5 @@
                 hreflang="fr"
                 href="https://www.procureur-de-la-republique.fr/auteurs/vincent-le-corre/"
                 />
-  </url><url>
-    <loc>https://www.procureur-de-la-republique.fr/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.procureur-de-la-republique.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.procureur-de-la-republique.fr/authors/x/"
-                />
   </url>
 </urlset>

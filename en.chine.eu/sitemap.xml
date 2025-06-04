@@ -592,22 +592,5 @@
                 hreflang="en"
                 href="https://en.chine.eu/authors/vincent-b-le-corre/"
                 />
-  </url><url>
-    <loc>https://en.chine.eu/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.chine.eu/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.chine.eu/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://en.chine.eu/authors/x/"
-                />
   </url>
 </urlset>

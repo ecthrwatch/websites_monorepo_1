@@ -2596,23 +2596,6 @@
                 href="https://zh.ecthrwatch.org/series/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/authors/x/"
-                />
-  </url><url>
     <loc>https://zh.ecthrwatch.org/guanyu/</loc>
     <xhtml:link
                 rel="alternate"

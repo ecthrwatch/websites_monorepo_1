@@ -1352,17 +1352,5 @@
                 hreflang="fr"
                 href="https://www.francoismolins.fr/series/"
                 />
-  </url><url>
-    <loc>https://www.francoismolins.fr/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.francoismolins.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.francoismolins.fr/authors/x/"
-                />
   </url>
 </urlset>

@@ -1424,17 +1424,5 @@
                 hreflang="fr"
                 href="https://www.nicole-belloubet.fr/series/"
                 />
-  </url><url>
-    <loc>https://www.nicole-belloubet.fr/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.nicole-belloubet.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.nicole-belloubet.fr/authors/x/"
-                />
   </url>
 </urlset>

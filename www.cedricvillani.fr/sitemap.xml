@@ -1352,17 +1352,5 @@
                 hreflang="fr"
                 href="https://www.cedricvillani.fr/series/"
                 />
-  </url><url>
-    <loc>https://www.cedricvillani.fr/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.cedricvillani.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.cedricvillani.fr/authors/x/"
-                />
   </url>
 </urlset>

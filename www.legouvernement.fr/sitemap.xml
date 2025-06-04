@@ -1424,17 +1424,5 @@
                 hreflang="fr"
                 href="https://www.legouvernement.fr/series/"
                 />
-  </url><url>
-    <loc>https://www.legouvernement.fr/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.legouvernement.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.legouvernement.fr/authors/x/"
-                />
   </url>
 </urlset>
