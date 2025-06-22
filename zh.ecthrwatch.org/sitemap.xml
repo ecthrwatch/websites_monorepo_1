@@ -9,7 +9,7 @@
     <lastmod>2022-03-25T15:33:00+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/authors/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T15:06:26+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,6 +25,45 @@
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/authors/"
                 />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/</loc>
+    <lastmod>2025-06-22T15:06:26+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/"
+                />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/</loc>
+    <lastmod>2025-06-22T15:06:26+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/auteurs/vincent-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/"
+                />
+  </url><url>
+    <loc>https://zh.ecthrwatch.org/shishi-jingguo-yu-gongkaixin-shijianxian/</loc>
+    <lastmod>2025-06-22T15:06:26+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/d.-d.-guttenplan/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
@@ -62,24 +101,6 @@
                 href="https://zh.ecthrwatch.org/tags/don-david-guttenplan/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/"
-                />
-  </url><url>
     <loc>https://zh.ecthrwatch.org/tags/index-on-censorship/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
     <xhtml:link
@@ -98,11 +119,8 @@
                 href="https://zh.ecthrwatch.org/tags/index-on-censorship/"
                 />
   </url><url>
-    <loc>https://zh.ecthrwatch.org/shishi-jingguo-yu-gongkaixin-shijianxian/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-  </url><url>
     <loc>https://zh.ecthrwatch.org/tags/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,24 +142,6 @@
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E8%89%AF%E7%9F%A5%E7%9A%84%E5%9B%9A%E5%BE%92/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
-  </url><url>
-    <loc>https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/auteurs/vincent-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/"
-                />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E9%BA%A6%E5%BD%93%E5%8A%B3/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
@@ -188,7 +188,7 @@
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/cia/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -206,7 +206,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/dgse/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -224,7 +224,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/dgsi/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -242,7 +242,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/pierre-mirochnikoff/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -260,7 +260,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/samuel-belbachir/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -278,7 +278,7 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/shishi-jingguo-yu-gongkaixin-shijianxian/samuel-belbachir-yuedu-mingan-waijiao-youjian-2025-04-21/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -301,31 +301,31 @@
                 />
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E6%B3%95%E5%9B%BD%E6%83%85%E6%8A%A5/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E6%B3%95%E5%9B%BD%E5%A4%96%E4%BA%A4/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E6%B3%95%E4%B8%AD%E5%85%B3%E7%B3%BB/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E5%AE%98%E6%96%B9%E9%82%AE%E4%BB%B6/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E5%86%85%E9%83%A8%E4%BC%A0%E9%80%92/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E5%A4%96%E4%BA%A4%E9%83%A8/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E4%BF%A1%E6%81%AF%E9%80%8F%E6%98%8E/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/%E4%B8%AD%E5%A4%AE%E6%83%85%E6%8A%A5%E5%B1%80/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-22T14:15:11+08:00</lastmod>
   </url><url>
     <loc>https://zh.ecthrwatch.org/tags/central-intelligence-agency/</loc>
     <lastmod>2025-05-22T07:59:50+08:00</lastmod>
