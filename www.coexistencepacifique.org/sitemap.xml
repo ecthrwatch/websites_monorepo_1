@@ -327,6 +327,23 @@
     <loc>https://www.coexistencepacifique.org/tags/v.l.c.-c.-france/</loc>
     <lastmod>2025-05-12T12:39:57+08:00</lastmod>
   </url><url>
+    <loc>https://www.coexistencepacifique.org/shared/executive-summaries/front-page-2-minutes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/shared/executive-summaries/front-page-2-minutes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shared/executive-summaries/front-page-2-minutes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/shared/executive-summaries/front-page-2-minutes/"
+                />
+  </url><url>
     <loc>https://www.coexistencepacifique.org/a-propos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -431,6 +448,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.coexistencepacifique.org/series/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/shared/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/shared/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shared/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/shared/"
                 />
   </url>
 </urlset>

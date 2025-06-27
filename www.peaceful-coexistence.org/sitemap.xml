@@ -224,6 +224,23 @@
                 href="https://www.peaceful-coexistence.org/authors/vincent-b-le-corre/"
                 />
   </url><url>
+    <loc>https://www.peaceful-coexistence.org/shared/executive-summaries/front-page-2-minutes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/shared/executive-summaries/front-page-2-minutes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shared/executive-summaries/front-page-2-minutes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/shared/executive-summaries/front-page-2-minutes/"
+                />
+  </url><url>
     <loc>https://www.peaceful-coexistence.org/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -282,8 +299,6 @@
                 href="https://www.peaceful-coexistence.org/copyright-and-disclaimer/"
                 />
   </url><url>
-    <loc>https://www.peaceful-coexistence.org/executive-summary/</loc>
-  </url><url>
     <loc>https://www.peaceful-coexistence.org/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -311,6 +326,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.peaceful-coexistence.org/series/"
+                />
+  </url><url>
+    <loc>https://www.peaceful-coexistence.org/shared/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/shared/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shared/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/shared/"
                 />
   </url><url>
     <loc>https://www.peaceful-coexistence.org/timeline-of-events-and-open-letters/</loc>
