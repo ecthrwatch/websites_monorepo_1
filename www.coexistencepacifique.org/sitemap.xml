@@ -2,16 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.coexistencepacifique.org/tags/affaires-%C3%A9trang%C3%A8res/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-  </url><url>
     <loc>https://www.coexistencepacifique.org/authors/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/authors/"
-                />
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,12 +11,35 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://www.coexistencepacifique.org/authors/"
                 />
   </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/china/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/tags/china/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/tags/china/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/tags/china/"
+                />
+  </url><url>
     <loc>https://www.coexistencepacifique.org/tags/cia/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,12 +57,7 @@
                 />
   </url><url>
     <loc>https://www.coexistencepacifique.org/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/"
-                />
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,9 +65,167 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://www.coexistencepacifique.org/"
                 />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/d%C3%A9tention-ill%C3%A9gale/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/droits-de-lhomme/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/espionnage/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/%C3%A9tat-de-droit/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/lettres-ouvertes/la-chine-reconnait-torture-et-detention-illegale-dans-le-systeme-judiciaire-2025/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/open-letters/china-admits-torture-supreme-procuratorate-investigation-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shishi-jingguo-yu-gongkaixin-shijianxian/china-admits-torture-supreme-procuratorate-investigation-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/lettres-ouvertes/la-chine-reconnait-torture-et-detention-illegale-dans-le-systeme-judiciaire-2025/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/lettres-ouvertes/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/open-letters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/shishi-shijianxian-yu-gongkaixin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/lettres-ouvertes/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/parquet-populaire-supr%C3%AAme/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/r%C3%A9forme-judiciaire/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/renseignement-am%C3%A9ricain/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/shanxi/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/tags/shanxi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/tags/shanxi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/tags/shanxi/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/syst%C3%A8me-de-poursuite-judiciaire/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/tags/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/taiyuan/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/tags/taiyuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/tags/taiyuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/tags/taiyuan/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/torture/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/tags/torture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/tags/torture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/tags/torture/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/auteurs/vincent-le-corre/</loc>
+    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.peaceful-coexistence.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.hepinggongchu.org/zuozhe/lu-shengqiao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.coexistencepacifique.org/auteurs/vincent-le-corre/"
+                />
+  </url><url>
+    <loc>https://www.coexistencepacifique.org/tags/affaires-%C3%A9trang%C3%A8res/</loc>
+    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
   </url><url>
     <loc>https://www.coexistencepacifique.org/tags/communication-diplomatique/</loc>
     <lastmod>2025-05-23T15:39:24+08:00</lastmod>
@@ -107,24 +275,6 @@
     <loc>https://www.coexistencepacifique.org/tags/france-chine/</loc>
     <lastmod>2025-05-23T15:39:24+08:00</lastmod>
   </url><url>
-    <loc>https://www.coexistencepacifique.org/lettres-ouvertes/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/open-letters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/shishi-shijianxian-yu-gongkaixin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/lettres-ouvertes/"
-                />
-  </url><url>
     <loc>https://www.coexistencepacifique.org/tags/minist%C3%A8re-des-affaires-%C3%A9trang%C3%A8res/</loc>
     <lastmod>2025-05-23T15:39:24+08:00</lastmod>
   </url><url>
@@ -170,24 +320,6 @@
     <loc>https://www.coexistencepacifique.org/tags/suivi-administratif/</loc>
     <lastmod>2025-05-23T15:39:24+08:00</lastmod>
   </url><url>
-    <loc>https://www.coexistencepacifique.org/tags/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/tags/"
-                />
-  </url><url>
     <loc>https://www.coexistencepacifique.org/tags/transparence/</loc>
     <lastmod>2025-05-23T15:39:24+08:00</lastmod>
   </url><url>
@@ -207,24 +339,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.coexistencepacifique.org/lettres-ouvertes/lecture-interne-courriel-ministere-affaires-etrangeres-2025-04-21/"
-                />
-  </url><url>
-    <loc>https://www.coexistencepacifique.org/auteurs/vincent-le-corre/</loc>
-    <lastmod>2025-05-23T15:39:24+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.hepinggongchu.org/zuozhe/lu-shengqiao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.peaceful-coexistence.org/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.coexistencepacifique.org/auteurs/vincent-le-corre/"
                 />
   </url><url>
     <loc>https://www.coexistencepacifique.org/lettres-ouvertes/s-il-vous-plait-madame-belloubet/</loc>
@@ -266,9 +380,6 @@
                 />
   </url><url>
     <loc>https://www.coexistencepacifique.org/tags/droit-britannique-de-la-diffamation/</loc>
-    <lastmod>2025-05-12T12:39:57+08:00</lastmod>
-  </url><url>
-    <loc>https://www.coexistencepacifique.org/tags/droits-de-lhomme/</loc>
     <lastmod>2025-05-12T12:39:57+08:00</lastmod>
   </url><url>
     <loc>https://www.coexistencepacifique.org/tags/index-on-censorship/</loc>
