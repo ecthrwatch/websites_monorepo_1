@@ -164,7 +164,7 @@ a:active {
             "position":  1 ,
             "name": "关于引渡计划知情情况的询问——美国情报机构与麦当劳公司",
             "description": "我写信给一位曾经的朋友——后来被确认是美国情报人员——询问他在2019年所提及的关于法国与中国之间没有引渡条约的说法，以及这在麦当劳公司涉嫌诈骗案件中的相关含义。",
-            "image": "https://fr.ecthrwatch.org/images/z_specific_post_image-email-2021-06-03-question-about-dinner-2019.jpg",
+            "image": "https://www.ecthrwatch.org/images/z_specific_post_image-email-2021-06-03-question-about-dinner-2019.jpg",
             "url": "https://zh.ecthrwatch.org/shishi-jingguo-yu-gongkaixin-shijianxian/youjian-zhi-meiguo-qingbao-youhao-mcdonalds-yindu-2019-08/"
         }
     ]
@@ -189,6 +189,10 @@ a:active {
 
 
 <meta property="og:locale" content="zh" />
+
+
+
+<meta property="og:locale:alternate" content="en" />
 
 
 
@@ -251,6 +255,19 @@ a:active {
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">自动</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">Chinese - 简体中文</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://zh.ecthrwatch.org/tags/u.s.-intelligence-community/">Chinese - 简体中文</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.ecthrwatch.org/tags/u.s.-intelligence-community/">English</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -278,6 +295,7 @@ a:active {
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -333,7 +351,7 @@ a:active {
 
   
   <div class="w-full lg:w-1/3 mb-4 lg:mb-0 lg:ms-8">
-    <a href="https://zh.ecthrwatch.org/shishi-jingguo-yu-gongkaixin-shijianxian/youjian-zhi-meiguo-qingbao-youhao-mcdonalds-yindu-2019-08/"><img src="https://fr.ecthrwatch.org/images/z_specific_post_image-email-2021-06-03-question-about-dinner-2019.jpg" class="w-full" alt="Featured Image"></a>
+    <a href="https://zh.ecthrwatch.org/shishi-jingguo-yu-gongkaixin-shijianxian/youjian-zhi-meiguo-qingbao-youhao-mcdonalds-yindu-2019-08/"><img src="https://www.ecthrwatch.org/images/z_specific_post_image-email-2021-06-03-question-about-dinner-2019.jpg" class="w-full" alt="Featured Image"></a>
   </div>
   
 </div>
