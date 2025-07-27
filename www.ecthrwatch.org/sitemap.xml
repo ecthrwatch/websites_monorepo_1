@@ -23,6 +23,24 @@
     <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
+    <loc>https://www.ecthrwatch.org/authors/</loc>
+    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/authors/"
+                />
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/china/</loc>
     <lastmod>2025-07-27T10:09:41+08:00</lastmod>
     <xhtml:link
@@ -215,22 +233,22 @@
     <loc>https://www.ecthrwatch.org/tags/united-states/</loc>
     <lastmod>2025-07-27T10:09:41+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/authors/</loc>
-    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/authors/vincent-b-le-corre/</loc>
+    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/"
+                href="https://fr.ecthrwatch.org/auteurs/vincent-le-corre/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/authors/"
+                href="https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/authors/"
+                href="https://www.ecthrwatch.org/authors/vincent-b-le-corre/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/open-letters/china-admits-torture-supreme-procuratorate-investigation-2025/</loc>
@@ -348,24 +366,6 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/u.s.-intelligence/</loc>
     <lastmod>2025-06-26T21:37:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ecthrwatch.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-06-26T21:37:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/auteurs/vincent-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/vincent-b-le-corre/"
-                />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/censorship/</loc>
     <lastmod>2025-05-12T21:19:19+08:00</lastmod>

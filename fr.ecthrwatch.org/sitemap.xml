@@ -11,6 +11,24 @@
     <loc>https://fr.ecthrwatch.org/tags/arm%C3%A9e-populaire-de-lib%C3%A9ration/</loc>
     <lastmod>2025-07-27T10:09:41+08:00</lastmod>
   </url><url>
+    <loc>https://fr.ecthrwatch.org/authors/</loc>
+    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/authors/"
+                />
+  </url><url>
     <loc>https://fr.ecthrwatch.org/tags/chine/</loc>
     <lastmod>2025-07-27T10:09:41+08:00</lastmod>
   </url><url>
@@ -185,22 +203,22 @@
                 href="https://fr.ecthrwatch.org/tags/"
                 />
   </url><url>
-    <loc>https://fr.ecthrwatch.org/authors/</loc>
-    <lastmod>2025-06-29T20:53:01+08:00</lastmod>
+    <loc>https://fr.ecthrwatch.org/auteurs/vincent-le-corre/</loc>
+    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/authors/"
+                href="https://www.ecthrwatch.org/authors/vincent-b-le-corre/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/authors/"
+                href="https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/"
+                href="https://fr.ecthrwatch.org/auteurs/vincent-le-corre/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/china/</loc>
@@ -335,24 +353,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/torture/"
-                />
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/auteurs/vincent-le-corre/</loc>
-    <lastmod>2025-06-29T20:53:01+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/vincent-b-le-corre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/zuozhe/lu-shengqiao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/auteurs/vincent-le-corre/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/censure/</loc>
