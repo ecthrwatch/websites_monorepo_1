@@ -2,29 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ecthrwatch.org/laws/directive_2005_29_ec_of_the_european_parliament_and_of_the_council_of_11_may_2005/</loc>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/directive_2005_29_ec_of_the_european_parliament_and_of_the_council_of_11_may_2005/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/laws/torture-victim-protection-act/</loc>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/torture-victim-protection-act/</loc>
     <lastmod>2023-01-24T09:01:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/laws/attorney-general-guidelines-for-victim-and-witness-assistance/</loc>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/attorney-general-guidelines-for-victim-and-witness-assistance/</loc>
     <lastmod>2022-03-11T11:21:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/laws/foreign-corrupt-practices-act-of-1977/</loc>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/foreign-corrupt-practices-act-of-1977/</loc>
     <lastmod>2022-03-11T11:21:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/laws/fbi-victim-assistance-program/</loc>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/fbi-victim-assistance-program/</loc>
     <lastmod>2022-03-11T11:21:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/laws/council_directive_93_13_eec_of_5_april_1993_on_unfair_terms_in_consumer_contracts/</loc>
-    <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/contra-proferentem-rule-in-various-jurisdictions/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lois-et-reglementations-applicables/regle-contra-proferentem-dans-differents-systemes-juridiques/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/zhengzai-jinxing-de-falu-chengxu/guojia-falv-xitong-zhong-de-contra-proferentem-guize/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/relevant-laws-and-regulations/contra-proferentem-rule-in-various-jurisdictions/"
+                />
   </url><url>
-    <loc>https://www.ecthrwatch.org/laws/french_criminal_code_article_313-1/</loc>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/french_criminal_code_article_313-1/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/authors/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -42,7 +57,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/china/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -60,7 +75,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/cia/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -78,7 +93,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/cia-dod-and-other-foreign-intelligence-involvement/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -96,13 +111,13 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/counter-espionage/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/counter-intelligence/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/dgse/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -120,7 +135,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/dgsi/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -138,10 +153,10 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/dod/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -159,13 +174,13 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/espionage/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/foreign-intelligence/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/france/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -178,7 +193,7 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/mi6/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -191,10 +206,10 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/ministry-of-state-security/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/mss/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -207,10 +222,10 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/peoples-liberation-army/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -228,13 +243,13 @@
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/united-kingdom/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/united-states/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/authors/vincent-b-le-corre/</loc>
-    <lastmod>2025-07-27T10:09:41+08:00</lastmod>
+    <lastmod>2025-07-27T16:30:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -2010,7 +2025,7 @@
     <lastmod>2023-11-18T21:05:00+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/european-union/</loc>
-    <lastmod>2023-11-18T21:05:00+08:00</lastmod>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/documentation/study-on-links-between-organised-crime-and-corruption/</loc>
     <lastmod>2023-11-18T21:05:00+08:00</lastmod>
@@ -3521,17 +3536,22 @@
     <loc>https://www.ecthrwatch.org/documentation/ussc-primers/</loc>
     <lastmod>2023-01-24T10:33:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.ecthrwatch.org/laws/</loc>
-    <lastmod>2023-01-24T09:01:00+08:00</lastmod>
+    <loc>https://www.ecthrwatch.org/relevant-laws-and-regulations/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/lois/"
+                href="https://fr.ecthrwatch.org/lois-et-reglementations-applicables/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/xiangguan-falv-fagui/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/laws/"
+                href="https://www.ecthrwatch.org/relevant-laws-and-regulations/"
                 />
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/torture-victim-protection-act/</loc>
@@ -5039,8 +5059,54 @@
     <loc>https://www.ecthrwatch.org/tags/p%C3%A9chenard-associ%C3%A9s/</loc>
     <lastmod>2023-10-28T16:26:00+08:00</lastmod>
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/adhesion-contracts/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/article-313-1-of-the-french-criminal-code/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/common-law/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/common-law/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/common-law/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/consumer-protection/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/contra-proferentem/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/contra-proferentem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/contra-proferentem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/contra-proferentem/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/contract-interpretation/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/fine-print-abuse/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/fraud-prevention/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/fraudulent-misrepresentation/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
@@ -5050,6 +5116,34 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/french-laws/</loc>
     <lastmod>2021-07-12T11:23:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/global-legal-systems/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/justice/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/justice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/justice/"
+                />
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/legal-ambiguity/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/legal-principles/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/mcdonalds-fraud-case/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ecthrwatch.org/tags/roman-law/</loc>
+    <lastmod>2025-07-27T07:16:39+08:00</lastmod>
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/c%C3%A9dric-villani/</loc>
     <lastmod>2022-02-16T22:48:48+08:00</lastmod>
@@ -8383,6 +8477,8 @@
   </url><url>
     <loc>https://www.ecthrwatch.org/tags/ecthr-case-50552/22/</loc>
   </url><url>
+    <loc>https://www.ecthrwatch.org/tags/eu-directive-93/13/eec/</loc>
+  </url><url>
     <loc>https://www.ecthrwatch.org/tags/european-directive-2005/29/ec/</loc>
   </url><url>
     <loc>https://www.ecthrwatch.org/explanations/</loc>
@@ -8421,13 +8517,13 @@
     <loc>https://www.ecthrwatch.org/ongoing-legal-proceedings/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/procedures-judiciaires-en-cours/"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/zhengzai-jinxing-de-falu-chengxu/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/zhengzai-jinxing-de-falu-chengxu/"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/procedures-judiciaires-en-cours/"
                 />
     <xhtml:link
                 rel="alternate"
